@@ -165,7 +165,7 @@ bots:
 
   - name: "Ghost"
     creator: "Dave"
-    creator_handle: ""
+    creator_handle: "gambrill"
     description: "Removes address, phones, and emails; free opt-outs + rechecks"
     category: "people-search-and-data-brokers"
     subcategory: ""
@@ -175,7 +175,7 @@ bots:
 
   - name: "Data Hunter"
     creator: "SeaKing"
-    creator_handle: ""
+    creator_handle: "SeaKingOptions"
     description: "Finds listings and files opt-outs + legal deletion emails"
     category: "people-search-and-data-brokers"
     subcategory: ""
@@ -185,7 +185,7 @@ bots:
 
   - name: "Privacy Cleaner"
     creator: "Nostratomas"
-    creator_handle: ""
+    creator_handle: "NostraTomas"
     description: "Submits approved opt-outs, logs everything, sets recheck routines"
     category: "people-search-and-data-brokers"
     subcategory: ""
@@ -195,8 +195,8 @@ bots:
 
   - name: "Privacy Scrub"
     creator: "althetime"
-    creator_handle: ""
-    description: "Finds email/number exposure across breaches, spam lists, people-search, and Google; region-aware"
+    creator_handle: "madmenai"
+    description: "Finds email/number exposure across breaches, spam lists, people-search, and Google; region-aware. The link currently opens Reno Planner by the same creator."
     category: "people-search-and-data-brokers"
     subcategory: ""
     link: "https://x.ai/bot/wyNvkQCu0NJfEj8tze6P0"
@@ -225,7 +225,7 @@ bots:
 
   - name: "Spam-Call Scrubber"
     creator: "Arash"
-    creator_handle: ""
+    creator_handle: "MinimalDuck"
     description: "Popular free skill — finds number on sites, files opt-outs, handles confirmations, rechecks monthly"
     category: "people-search-and-data-brokers"
     subcategory: ""
@@ -245,7 +245,7 @@ bots:
 
   - name: "Personal Information Removal"
     creator: "TechGeekAnthony"
-    creator_handle: ""
+    creator_handle: "TechGeekAnthony"
     description: "Dedicated personal info removal bot"
     category: "people-search-and-data-brokers"
     subcategory: ""
@@ -285,7 +285,7 @@ bots:
 
   - name: "Opt Out Buddy"
     creator: "Magik"
-    creator_handle: ""
+    creator_handle: "NookWire"
     description: "Do Not Call + other free lists + company/bank opt-outs + people-search"
     category: "spam-calls-and-do-not-call"
     subcategory: ""
@@ -295,7 +295,7 @@ bots:
 
   - name: "Spam-Call Scrubber"
     creator: "Cory"
-    creator_handle: ""
+    creator_handle: "flycory"
     description: "Reports spam/robocall numbers to FTC, state offices, Nomorobo, and FCC"
     category: "spam-calls-and-do-not-call"
     subcategory: ""
@@ -305,7 +305,7 @@ bots:
 
   - name: "UK Spam Call Eraser"
     creator: "Benjamin"
-    creator_handle: ""
+    creator_handle: "AKAMoneyX"
     description: "UK-focused: TPS registration, data broker removals, UK GDPR erasure"
     category: "spam-calls-and-do-not-call"
     subcategory: ""
@@ -325,7 +325,7 @@ bots:
 
   - name: "Scam Guard"
     creator: "Sarah"
-    creator_handle: ""
+    creator_handle: "SpaceCowgirlTX"
     description: "Family scam defense: family safe word, Safe/Caution/Scam verdict on any call, text, email, link, or DM"
     category: "spam-calls-and-do-not-call"
     subcategory: ""
@@ -365,7 +365,7 @@ bots:
 
   - name: "Inbox Manager"
     creator: "Gaurav"
-    creator_handle: ""
+    creator_handle: "ubiquitous_mind"
     description: "Weekly noisy-sender audit; suggests unsubscribe / file / archive / keep"
     category: "email-newsletters-and-mail"
     subcategory: ""
@@ -375,7 +375,7 @@ bots:
 
   - name: "Ghost Subscription Hunter"
     creator: "Mark"
-    creator_handle: ""
+    creator_handle: "TheMarkGShow"
     description: "Finds forgotten subscriptions from receipts/statements and builds a ledger"
     category: "email-newsletters-and-mail"
     subcategory: ""
@@ -395,7 +395,7 @@ bots:
 
   - name: "SubCut"
     creator: "Taha"
-    creator_handle: ""
+    creator_handle: "tahaabuilds"
     description: "Reads inbox for recurring charges, marks monthly vs yearly, shows savings opportunities"
     category: "email-newsletters-and-mail"
     subcategory: ""
@@ -405,7 +405,7 @@ bots:
 
   - name: "Kramer"
     creator: "Helvio"
-    creator_handle: ""
+    creator_handle: "helvio"
     description: "USPS Informed Delivery desk — logs mail and files free Do Not Mail opt-outs for junk senders"
     category: "email-newsletters-and-mail"
     subcategory: ""
@@ -505,7 +505,7 @@ bots:
 
   - name: "Bot Purge"
     creator: "Crippled"
-    creator_handle: ""
+    creator_handle: "TheCrippldNinja"
     description: "Cleans obvious bots, scammers, and thirst-trap accounts from followers"
     category: "x-cleanup"
     subcategory: ""
@@ -515,7 +515,7 @@ bots:
 
   - name: "Bot Terminator"
     creator: "Empress"
-    creator_handle: ""
+    creator_handle: "HeavyMetalShip"
     description: "Removes bot/spam/inactive followers and unwanted lists (asks first)"
     category: "x-cleanup"
     subcategory: ""
@@ -525,7 +525,7 @@ bots:
 
   - name: "X Guard"
     creator: "Don"
-    creator_handle: ""
+    creator_handle: "_RudeDude"
     description: "Weekly review of bot followers, porn/spam bots, and impersonators"
     category: "x-cleanup"
     subcategory: ""
@@ -535,7 +535,7 @@ bots:
 
   - name: "X Follower Spam Scanner"
     creator: "Ben"
-    creator_handle: ""
+    creator_handle: "HashCons"
     description: "Scans followers for spam/bots/impersonators and asks before blocking"
     category: "x-cleanup"
     subcategory: ""
@@ -545,7 +545,7 @@ bots:
 
   - name: "Social Media Auditor"
     creator: "JennyMarquis"
-    creator_handle: ""
+    creator_handle: "JennyMarquis"
     description: "Social media privacy/audit focused bot"
     category: "x-cleanup"
     subcategory: ""
@@ -575,7 +575,7 @@ bots:
 
   - name: "Clean Slate"
     creator: "Brian"
-    creator_handle: ""
+    creator_handle: "BrianRoemmele"
     description: "Pulls free credit reports, finds errors/collections, drafts FCRA dispute letters"
     category: "bonus-and-adjacent"
     subcategory: ""
@@ -584,8 +584,8 @@ bots:
     source: "October 27, 2026 master list. Most first-round finds came from Grok Bot Shelf; the master list did not record a per-bot source."
 
   - name: "Phishing Email Checker"
-    creator: "milkydarkstar"
-    creator_handle: ""
+    creator: "Marckenley"
+    creator_handle: "milkydarkstar"
     description: "Checks emails for phishing"
     category: "bonus-and-adjacent"
     subcategory: ""
@@ -675,7 +675,7 @@ bots:
 
   - name: "Guardian"
     creator: "Knom"
-    creator_handle: ""
+    creator_handle: "Knomdivad"
     description: "Read-only watcher that keeps an inventory and least-privilege policy for each bot and reviews what they actually did"
     category: "security-and-bot-safety"
     subcategory: "vet-bots"
@@ -685,7 +685,7 @@ bots:
 
   - name: "Security Bot"
     creator: "Jeremy"
-    creator_handle: ""
+    creator_handle: "paradoxological"
     description: "Audits every bot in your setup against the OWASP GenAI Top 10s; read-only until you approve a fix"
     category: "security-and-bot-safety"
     subcategory: "vet-bots"
@@ -765,7 +765,7 @@ bots:
 
   - name: "Footprint"
     creator: "Seth"
-    creator_handle: ""
+    creator_handle: "seth_urban"
     description: "Finds every online account you've made (Gmail evidence, breach data, username checks), then helps you remove the ones you pick"
     category: "security-and-bot-safety"
     subcategory: "account-security"
@@ -855,7 +855,7 @@ bots:
 
   - name: "Columbo"
     creator: "Timothy"
-    creator_handle: ""
+    creator_handle: "RetiredYoungNW"
     description: "Watches public X for imposters and scammers, shows you the proof, and files a report only for the accounts you pick"
     category: "security-and-bot-safety"
     subcategory: "scams-phishing"
@@ -985,7 +985,7 @@ bots:
 
   - name: "Dependency & Secret Audit"
     creator: "Thuong"
-    creator_handle: ""
+    creator_handle: "teeRex247"
     description: "Paste a GitHub repo, get a ranked fix list: vulnerable packages with upgrade commands and leaked keys (masked) with rotate steps"
     category: "security-and-bot-safety"
     subcategory: "vulnerabilities"

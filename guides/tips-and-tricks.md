@@ -89,6 +89,6 @@ Tips that came from a post or page link to it. Official means an xAI Grok Bot do
 
 ## Privacy-removal recheck schedules
 
-**33.** Data brokers often re-list people, which is why most removal bots here recheck: [Remove Me](../categories/people-search-and-data-brokers.md#bot-qlDBDdHjGkHD9pka-9fRy) ([@OutworkVentures](https://x.com/OutworkVentures)) rechecks in 30 days; [Privacy Scrubber](../categories/people-search-and-data-brokers.md#bot-ZSQK72Iear_ykfnpTIOHQ), [Spam-Call Scrubber (Arash)](../categories/people-search-and-data-brokers.md#bot-fUj6TYhiW_cjtzWvbsFgz) and [Invisible Man](../categories/people-search-and-data-brokers.md#bot-avOGLCUGcrQ0T23v2lENG) recheck monthly (per their descriptions on this list). Run **one** recheck routine per site family, not one per bot.
+**33.** Data brokers often re-list people, which is why most removal bots here recheck: [Remove Me](../categories/people-search-and-data-brokers.md#bot-qlDBDdHjGkHD9pka-9fRy) ([@OutworkVentures](https://x.com/OutworkVentures)) rechecks in 30 days; [Privacy Scrubber](../categories/people-search-and-data-brokers.md#bot-ZSQK72Iear_ykfnpTIOHQ), [Spam-Call Scrubber (Arash)](../categories/people-search-and-data-brokers.md#bot-fUj6TYhiW_cjtzWvbsFgz) ([@MinimalDuck](https://x.com/MinimalDuck)) and [Invisible Man](../categories/people-search-and-data-brokers.md#bot-avOGLCUGcrQ0T23v2lENG) recheck monthly (per their descriptions on this list). Run **one** recheck routine per site family, not one per bot.
 
 [← Back to README](../README.md)

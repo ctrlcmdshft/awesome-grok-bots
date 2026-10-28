@@ -51,7 +51,7 @@ Counts and category pages are generated from [`data/bots.yaml`](data/bots.yaml).
 
 Start with one pair, watch a few runs, then add more.
 
-1. [Spam-Call Scrubber (Arash)](categories/people-search-and-data-brokers.md#bot-fUj6TYhiW_cjtzWvbsFgz) or [Call List Remover](categories/spam-calls-and-do-not-call.md#bot-eGVcE2autG0u6UcAwE3py) + [Privacy Scrubber](categories/people-search-and-data-brokers.md#bot-ZSQK72Iear_ykfnpTIOHQ) — highest impact for spam calls
+1. [Spam-Call Scrubber (Arash)](categories/people-search-and-data-brokers.md#bot-fUj6TYhiW_cjtzWvbsFgz) ([@MinimalDuck](https://x.com/MinimalDuck)) or [Call List Remover](categories/spam-calls-and-do-not-call.md#bot-eGVcE2autG0u6UcAwE3py) + [Privacy Scrubber](categories/people-search-and-data-brokers.md#bot-ZSQK72Iear_ykfnpTIOHQ) — highest impact for spam calls
 2. [Data Deletion Bot](categories/email-newsletters-and-mail.md#bot-ZvdSYibMw2oruiQX-3DSA) + [Unsubscribe Bot](categories/email-newsletters-and-mail.md#bot-YJAP3CUaR3i5F2mhN69tM) / [Sub Killer](categories/email-newsletters-and-mail.md#bot-t0j3bcp2AFpIuKxhmg-EN) — clean up years of signups
 3. [Old Posts Auditor](categories/x-cleanup.md#bot-KPK89zuI30cV2Cz35s71s) or [Delete My Tweets!](categories/x-cleanup.md#bot-8xSL_TV4XPZZufWeQrgmv) — reduce historical exposure on X
 4. [Bouncer](categories/security-and-bot-safety.md#bot-o2OyTjWlNOUdYwr61prw_) ([@bradshannon](https://x.com/bradshannon)) or [Template Safety Checker](categories/security-and-bot-safety.md#bot-8JbRKMaD-VrcN_QyitMXN) ([@Jorhan](https://x.com/Jorhan)) — vet any third-party bot link before you hit Add
