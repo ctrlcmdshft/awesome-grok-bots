@@ -1,0 +1,72 @@
+name: Suggest a bot
+description: Suggest a third-party Grok Bot for the list
+title: "Bot: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        These are third-party, unofficial bots. Review the template before you suggest it. Check `data/bots.yaml` so the link is not already listed.
+  - type: input
+    id: name
+    attributes:
+      label: Bot name
+      description: The name on the template.
+    validations:
+      required: true
+  - type: input
+    id: creator
+    attributes:
+      label: Creator
+      description: Handle or name from the template. Leave blank if the template does not list one.
+  - type: textarea
+    id: description
+    attributes:
+      label: What it does
+      description: One sentence.
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: The https://x.ai/bot/... URL.
+      placeholder: https://x.ai/bot/
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - people-search-and-data-brokers
+        - spam-calls-and-do-not-call
+        - email-newsletters-and-mail
+        - x-cleanup
+        - bonus-and-adjacent
+        - security-and-bot-safety
+        - home-network-and-tech
+        - money-bills-and-insurance
+        - shopping-deals-and-packages
+        - productivity-research-and-news
+        - developer-and-power-user
+        - bot-tools
+        - home-car-and-household
+        - health-fitness-and-food
+        - travel
+        - career-and-job-search
+        - x-creators-and-content
+        - fun-and-lifestyle
+    validations:
+      required: true
+  - type: input
+    id: subcategory
+    attributes:
+      label: Subsection
+      description: Required for security-and-bot-safety (vet-bots, account-security, scams-phishing, vulnerabilities) and home-network-and-tech (homelab, wifi, smart-home, upkeep). Leave blank otherwise.
+  - type: input
+    id: source
+    attributes:
+      label: Where you found it
+      description: Directory, post, or other public page.
+    validations:
+      required: true
