@@ -34,11 +34,11 @@ Unsubscribe, cancel recurring charges, triage inboxes, and stop junk mail.
 | <a id="bot-MzuJZpvaIK2KpexUVY-V0"></a>**SubCut** | Reads inbox for recurring charges, marks monthly vs yearly, shows savings opportunities | Taha | [Add](https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0) |
 | <a id="bot-LLsRQNn3o8scbv6Edhsmm"></a>**Kramer** | USPS Informed Delivery desk — logs mail and files free Do Not Mail opt-outs for junk senders | Helvio | [Add](https://x.ai/bot/LLsRQNn3o8scbv6Edhsmm) |
 | <a id="bot-1JJ_3wqHSU4fRt2fSTldf"></a>**Outlook Spam Filter Cleaner** | Trains rules and proposes junk vs keep for Outlook | — | [Add](https://x.ai/bot/1JJ_3wqHSU4fRt2fSTldf) |
-| <a id="bot-F1XZoNusJXMm92YTTT6kR"></a>**Junk Mail Stopper** | Snap a photo of junk mail; it files that sender's removal request, logs it, and follows up | @Kevin\_Logan | [Add](https://x.ai/bot/F1XZoNusJXMm92YTTT6kR) |
-| <a id="bot-YuGzbyI7jVfZedsRUOLCm"></a>**Last Call** | Tracks free trials you sign up for, warns a few days before they charge, and offers to cancel | @thecsguy | [Add](https://x.ai/bot/YuGzbyI7jVfZedsRUOLCm) |
-| <a id="bot-9UjZlzLTiCHz5iPNilWMd"></a>**Inbox Zero** | Triages your inbox into an action list, drafts replies for approval, tracks follow-ups and deadlines | @ashleyschendel | [Add](https://x.ai/bot/9UjZlzLTiCHz5iPNilWMd) |
-| <a id="bot-61VJpKKuiAnaJAZakWjdH"></a>**Login Ledger** | Builds an index from your inbox of which email/username you used for every account (great for deletion requests). Never stores passwords | @agent\_nick\_ | [Add](https://x.ai/bot/61VJpKKuiAnaJAZakWjdH) |
-| <a id="bot-R_o82f2Mjkqo1PZKwL-NK"></a>**Porch** | Reads your USPS Informed Delivery daily and posts a clear list of incoming mail and packages | @MiloniAdams | [Add](https://x.ai/bot/R_o82f2Mjkqo1PZKwL-NK) |
+| <a id="bot-F1XZoNusJXMm92YTTT6kR"></a>**Junk Mail Stopper** | Snap a photo of junk mail; it files that sender's removal request, logs it, and follows up | [@Kevin\_Logan](https://x.com/Kevin_Logan) | [Add](https://x.ai/bot/F1XZoNusJXMm92YTTT6kR) |
+| <a id="bot-YuGzbyI7jVfZedsRUOLCm"></a>**Last Call** | Tracks free trials you sign up for, warns a few days before they charge, and offers to cancel | [@thecsguy](https://x.com/thecsguy) | [Add](https://x.ai/bot/YuGzbyI7jVfZedsRUOLCm) |
+| <a id="bot-9UjZlzLTiCHz5iPNilWMd"></a>**Inbox Zero** | Triages your inbox into an action list, drafts replies for approval, tracks follow-ups and deadlines | [@ashleyschendel](https://x.com/ashleyschendel) | [Add](https://x.ai/bot/9UjZlzLTiCHz5iPNilWMd) |
+| <a id="bot-61VJpKKuiAnaJAZakWjdH"></a>**Login Ledger** | Builds an index from your inbox of which email/username you used for every account (great for deletion requests). Never stores passwords | [@agent\_nick\_](https://x.com/agent_nick_) | [Add](https://x.ai/bot/61VJpKKuiAnaJAZakWjdH) |
+| <a id="bot-R_o82f2Mjkqo1PZKwL-NK"></a>**Porch** | Reads your USPS Informed Delivery daily and posts a clear list of incoming mail and packages | [@MiloniAdams](https://x.com/MiloniAdams) | [Add](https://x.ai/bot/R_o82f2Mjkqo1PZKwL-NK) |
 
 ---
 

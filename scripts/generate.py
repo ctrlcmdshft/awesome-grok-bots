@@ -38,13 +38,18 @@ FLAT_TOC_MIN = 12
 NESTED_TOC_MIN = 12
 
 BOT_ID_RE = re.compile(r"^[A-Za-z0-9_-]+$")
+HANDLE_RE = re.compile(r"^[A-Za-z0-9_]{1,30}$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 BOT_REF_RE = re.compile(r"\]\(bot:([A-Za-z0-9_-]+)\)")
+BOT_PAGE_LINK_RE = re.compile(
+    r"\[([^\]]+)\]\((?:\.\./)?categories/[a-z0-9-]+\.md#bot-([A-Za-z0-9_-]+)\)"
+)
 ROUND_MARKERS = ("🆕", "✨")
 
 BOT_FIELDS = (
     "name",
     "creator",
+    "creator_handle",
     "description",
     "category",
     "subcategory",
@@ -122,11 +127,19 @@ def cell(text: str) -> str:
     )
 
 
-def creator_cell(creator: str) -> str:
-    creator = creator.strip()
-    if not creator:
-        return "—"
-    return cell(creator)
+def creator_link(handle: str) -> str:
+    visible = "@" + handle.replace("_", "\\_")
+    return f"[{visible}](https://x.com/{handle})"
+
+
+def creator_cell(bot) -> str:
+    handle = bot.get("creator_handle", "").strip()
+    creator = bot.get("creator", "").strip()
+    if handle:
+        return creator_link(handle)
+    if creator:
+        return cell(creator)
+    return "—"
 
 
 def load_data():
@@ -250,6 +263,16 @@ def validate(data):
             errors.append(f"{label} missing {', '.join(missing)}")
         if not bot["name"] or not bot["description"] or not bot["link"] or not bot["source"] or not bot["category"]:
             errors.append(f"{label} needs name, description, category, link, and source")
+        handle = bot["creator_handle"]
+        creator = bot["creator"]
+        if handle and not HANDLE_RE.match(handle):
+            errors.append(f"{label} creator_handle {handle!r} is not an X handle")
+        if creator.startswith("@"):
+            expected = creator[1:]
+            if handle != expected:
+                errors.append(
+                    f"{label} creator_handle must be {expected!r} to match {creator}"
+                )
         for marker in ROUND_MARKERS:
             if marker in bot["name"]:
                 errors.append(
@@ -318,7 +341,7 @@ def render_table(bots) -> str:
         name = f'<a id="{anchor(bot["link"])}"></a>**{cell(bot["name"])}**'
         link = f'[Add]({bot["link"]})'
         lines.append(
-            f"| {name} | {cell(bot['description'])} | {creator_cell(bot['creator'])} | {link} |"
+            f"| {name} | {cell(bot['description'])} | {creator_cell(bot)} | {link} |"
         )
     return "\n".join(lines)
 
@@ -383,7 +406,23 @@ def rewrite_bot_refs(text: str, by_id) -> str:
         bot = by_id[match.group(1)]
         return f"](categories/{bot['category']}.md#{anchor(bot['link'])})"
 
-    return BOT_REF_RE.sub(repl, text)
+    return attach_creator_links(BOT_REF_RE.sub(repl, text), by_id)
+
+
+def attach_creator_links(text: str, by_id) -> str:
+    """Add an X profile link after a bot link when that bot has a handle."""
+    parts = []
+    last = 0
+    for match in BOT_PAGE_LINK_RE.finditer(text):
+        parts.append(text[last:match.end()])
+        bot = by_id.get(match.group(2))
+        handle = bot["creator_handle"] if bot else ""
+        already = text[match.end():].startswith(" ([@")
+        if handle and not already and handle not in match.group(1):
+            parts.append(" (" + creator_link(handle) + ")")
+        last = match.end()
+    parts.append(text[last:])
+    return "".join(parts)
 
 
 def render_quick(items, by_id) -> str:
@@ -417,8 +456,8 @@ def render_recent(bots, categories) -> str:
             [
                 f"{len(recent)} {noun} with `date_added` {when}.",
                 "",
-                "| Bot | What it does | Category | Link |",
-                "| --- | --- | --- | --- |",
+                "| Bot | What it does | Creator | Category | Link |",
+                "| --- | --- | --- | --- | --- |",
             ]
         )
         cat_title = {category["slug"]: category["title"] for category in categories}
@@ -429,7 +468,7 @@ def render_recent(bots, categories) -> str:
             )
             category = f"[{cell(cat_title[bot['category']])}](categories/{bot['category']}.md)"
             lines.append(
-                f"| {name} | {cell(bot['description'])} | {category} | [Add]({bot['link']}) |"
+                f"| {name} | {cell(bot['description'])} | {creator_cell(bot)} | {category} | [Add]({bot['link']}) |"
             )
         lines.append("")
         return "\n".join(lines)

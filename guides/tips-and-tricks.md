@@ -27,7 +27,7 @@ Tips that came from a post or page link to it. Official means an xAI Grok Bot do
 
 **6.** If a template link won't install, check your Grok Bot and X login are the same account, or ask your bot to build one like it. ([@monetization_x](https://x.com/monetization_x/status/2112031233123520813))
 
-**7.** Use [Bouncer](../categories/security-and-bot-safety.md#bot-o2OyTjWlNOUdYwr61prw_) or [Template Safety Checker](../categories/security-and-bot-safety.md#bot-8JbRKMaD-VrcN_QyitMXN) (on this list) to read a template before you add it.
+**7.** Use [Bouncer](../categories/security-and-bot-safety.md#bot-o2OyTjWlNOUdYwr61prw_) ([@bradshannon](https://x.com/bradshannon)) or [Template Safety Checker](../categories/security-and-bot-safety.md#bot-8JbRKMaD-VrcN_QyitMXN) ([@Jorhan](https://x.com/Jorhan)) (on this list) to read a template before you add it.
 
 ## Safety and approval habits
 
@@ -49,7 +49,7 @@ Tips that came from a post or page link to it. Official means an xAI Grok Bot do
 
 **15.** Routine-audit prompt: classify each routine as KEEP / SLOW DOWN / EVENT TRIGGER / CHANGE CHECK / RETIRE, rank by usage saved, and "don't make any changes until I approve." ([@Michael_Fenech_](https://x.com/Michael_Fenech_/status/2111478843202818102))
 
-**16.** Turn mechanical "is there work?" checks into a tiny script that runs first and only wakes the bot when there is something to do. ([@wavegod](https://x.com/wavegod/status/2112961302767493490); bot on this list: [Script This Routine](../categories/bot-tools.md#bot-9E8iw2zlg2fTWzUT6RUsP))
+**16.** Turn mechanical "is there work?" checks into a tiny script that runs first and only wakes the bot when there is something to do. ([@wavegod](https://x.com/wavegod/status/2112961302767493490); bot on this list: [Script This Routine](../categories/bot-tools.md#bot-9E8iw2zlg2fTWzUT6RUsP) ([@Kevin\_Logan](https://x.com/Kevin_Logan)))
 
 **17.** Find routines you're running by hand: "Look through the prompts I've sent to my different Bots. Which of these should turn into a routine or its own Bot?" Same check daily = routine; "when X happens" = trigger. ([@GrokBotRadar](https://x.com/GrokBotRadar/status/2114285625688137775))
 
@@ -89,6 +89,6 @@ Tips that came from a post or page link to it. Official means an xAI Grok Bot do
 
 ## Privacy-removal recheck schedules
 
-**33.** Data brokers often re-list people, which is why most removal bots here recheck: [Remove Me](../categories/people-search-and-data-brokers.md#bot-qlDBDdHjGkHD9pka-9fRy) rechecks in 30 days; [Privacy Scrubber](../categories/people-search-and-data-brokers.md#bot-ZSQK72Iear_ykfnpTIOHQ), [Spam-Call Scrubber (Arash)](../categories/people-search-and-data-brokers.md#bot-fUj6TYhiW_cjtzWvbsFgz) and [Invisible Man](../categories/people-search-and-data-brokers.md#bot-avOGLCUGcrQ0T23v2lENG) recheck monthly (per their descriptions on this list). Run **one** recheck routine per site family, not one per bot.
+**33.** Data brokers often re-list people, which is why most removal bots here recheck: [Remove Me](../categories/people-search-and-data-brokers.md#bot-qlDBDdHjGkHD9pka-9fRy) ([@OutworkVentures](https://x.com/OutworkVentures)) rechecks in 30 days; [Privacy Scrubber](../categories/people-search-and-data-brokers.md#bot-ZSQK72Iear_ykfnpTIOHQ), [Spam-Call Scrubber (Arash)](../categories/people-search-and-data-brokers.md#bot-fUj6TYhiW_cjtzWvbsFgz) and [Invisible Man](../categories/people-search-and-data-brokers.md#bot-avOGLCUGcrQ0T23v2lENG) recheck monthly (per their descriptions on this list). Run **one** recheck routine per site family, not one per bot.
 
 [← Back to README](../README.md)

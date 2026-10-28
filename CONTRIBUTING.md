@@ -7,7 +7,7 @@ This list is public. Every bot on it is a third-party template. Review a bot bef
 Open a [bot suggestion](https://github.com/ctrlcmdshft/awesome-grok-bots/issues/new?template=suggest-a-bot.yml) or a pull request. Include:
 
 - Bot name, as shown on the template
-- Creator, if the template lists one (handle or name). Leave it blank if the template does not
+- Creator, if the template lists one. Use the X handle when the template shows one (`@name`). Use the plain name when that is all the template shows. Leave both blank if the template names nobody. Do not guess a handle from a first name.
 - One sentence on what it does
 - Category and, for Security & Bot Safety or Home Network, the subsection
 - The `https://x.ai/bot/...` link
@@ -23,6 +23,7 @@ One link per bot. Check `data/bots.yaml` first so the link is not already listed
 ```yaml
   - name: "Example Bot"
     creator: "@example"
+    creator_handle: "example"
     description: "What it does, in one sentence."
     category: people-search-and-data-brokers
     subcategory: ""
@@ -32,7 +33,7 @@ One link per bot. Check `data/bots.yaml` first so the link is not already listed
 ```
 
 2. `category` must match a `slug` under `categories`. If that category has `subsections`, `subcategory` must match one of those slugs. Otherwise `subcategory` is `""`.
-3. `creator` is `""` when the template does not name one. Do not put round markers such as 🆕 in the name. The Recently added section reads `date_added`.
+3. `creator` is the text from the template (`@example` or `Sarah`). `creator_handle` is the handle without `@`, or `""` when there is no handle. The generator turns a handle into `[@example](https://x.com/example)` on category pages, in Recently added, and after bot links in the quick start. A first name with an empty handle stays plain text. If `creator` starts with `@`, `creator_handle` must be that handle without the `@`. Do not put round markers such as 🆕 in the name. The Recently added section reads `date_added`.
 4. Install PyYAML and regenerate the pages:
 
 ```bash

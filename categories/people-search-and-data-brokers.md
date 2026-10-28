@@ -35,8 +35,8 @@ Find people-search and data-broker listings, file removals, and recheck.
 | <a id="bot-fUj6TYhiW_cjtzWvbsFgz"></a>**Spam-Call Scrubber** | Popular free skill — finds number on sites, files opt-outs, handles confirmations, rechecks monthly | Arash | [Add](https://x.ai/bot/fUj6TYhiW_cjtzWvbsFgz) |
 | <a id="bot-q6EUVmvVIkVZG4PB0bnG1"></a>**Spam-Call Scrubber** | Finds number on people-search/data brokers and re-checks on a schedule | RG | [Add](https://x.ai/bot/q6EUVmvVIkVZG4PB0bnG1) |
 | <a id="bot-k9bVTKlulPhY337O9us_O"></a>**Personal Information Removal** | Dedicated personal info removal bot | TechGeekAnthony | [Add](https://x.ai/bot/k9bVTKlulPhY337O9us_O) |
-| <a id="bot-DFnZYjCELW2QdywUWZRiG"></a>**Agent Zero** | Finds your listings on people-search and data-broker sites and files removal requests with your consent | @liam\_fallen | [Add](https://x.ai/bot/DFnZYjCELW2QdywUWZRiG) |
-| <a id="bot-qlDBDdHjGkHD9pka-9fRy"></a>**Remove Me** | Finds you on people-search sites, data brokers, old forums and scraper directories; sends approved removals from your own email; rechecks in 30 days | @OutworkVentures | [Add](https://x.ai/bot/qlDBDdHjGkHD9pka-9fRy) |
+| <a id="bot-DFnZYjCELW2QdywUWZRiG"></a>**Agent Zero** | Finds your listings on people-search and data-broker sites and files removal requests with your consent | [@liam\_fallen](https://x.com/liam_fallen) | [Add](https://x.ai/bot/DFnZYjCELW2QdywUWZRiG) |
+| <a id="bot-qlDBDdHjGkHD9pka-9fRy"></a>**Remove Me** | Finds you on people-search sites, data brokers, old forums and scraper directories; sends approved removals from your own email; rechecks in 30 days | [@OutworkVentures](https://x.com/OutworkVentures) | [Add](https://x.ai/bot/qlDBDdHjGkHD9pka-9fRy) |
 
 ---
 

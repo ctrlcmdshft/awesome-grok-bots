@@ -18,8 +18,8 @@
 
 ## Practical patterns
 
-- **Finder → Doer via a shared file.** One bot finds things and writes them to a shared file (for example `shared/privacy/broker-hits.csv` on the computer the bots share); another bot reads that file and acts on each row. Example: **Login Ledger** builds the account list, **Data Deletion Bot** drafts deletion emails from it.
-- **One master ledger for removals.** Keep a single removals ledger (site, date filed, status, recheck date) that every privacy bot reads before filing, so **two bots never file the same opt-out twice**. Assign each site family to one bot (for example people-search → Remove Me, phone lists → Spam-Call Scrubber, mail → Junk Mail Stopper).
+- **Finder → Doer via a shared file.** One bot finds things and writes them to a shared file (for example `shared/privacy/broker-hits.csv` on the computer the bots share); another bot reads that file and acts on each row. Example: **Login Ledger** ([@agent\_nick\_](https://x.com/agent_nick_)) builds the account list, **Data Deletion Bot** drafts deletion emails from it.
+- **One master ledger for removals.** Keep a single removals ledger (site, date filed, status, recheck date) that every privacy bot reads before filing, so **two bots never file the same opt-out twice**. Assign each site family to one bot (for example people-search → Remove Me ([@OutworkVentures](https://x.com/OutworkVentures)), phone lists → Spam-Call Scrubber, mail → Junk Mail Stopper ([@Kevin\_Logan](https://x.com/Kevin_Logan))).
 - **Weekly routine that pings another bot.** For example, a weekly routine on a finder bot ends with "message my removal bot with this week's new hits." The receiving bot works only from that hand-off.
 - **One clear job per bot.** Small, single-purpose bots are easier to trust and debug than one bot that does everything. Write each bot's job in one line.
 - **Save once, reuse everywhere.** When a workflow works on one bot, save it as a skill so any bot can run it without re-explaining.

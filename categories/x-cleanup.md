@@ -16,8 +16,8 @@ Audit old posts and clean followers, following, and spam accounts on X.
 | <a id="bot-DrD3msLXqCwax7SUDyQGy"></a>**X Guard** | Weekly review of bot followers, porn/spam bots, and impersonators | Don | [Add](https://x.ai/bot/DrD3msLXqCwax7SUDyQGy) |
 | <a id="bot-sN4FX1kmXF5n1RW8JNorL"></a>**X Follower Spam Scanner** | Scans followers for spam/bots/impersonators and asks before blocking | Ben | [Add](https://x.ai/bot/sN4FX1kmXF5n1RW8JNorL) |
 | <a id="bot-DGDeN5rC5ACPMHe0g__qh"></a>**Social Media Auditor** | Social media privacy/audit focused bot | JennyMarquis | [Add](https://x.ai/bot/DGDeN5rC5ACPMHe0g__qh) |
-| <a id="bot-joKOyN0KrQlgNHpda7iii"></a>**X Hygiene** | Cleans up followers and following: cost estimate first, then ranked unfollow/block lists. Never acts alone | @bradshannon | [Add](https://x.ai/bot/joKOyN0KrQlgNHpda7iii) |
-| <a id="bot-2IR-ABotGZ2crO8XoFYfc"></a>**Sneaky Unfollowers Caught** | Morning report of who followed back and who unfollowed you on X, with profile links | @JVonFSDinMD | [Add](https://x.ai/bot/2IR-ABotGZ2crO8XoFYfc) |
+| <a id="bot-joKOyN0KrQlgNHpda7iii"></a>**X Hygiene** | Cleans up followers and following: cost estimate first, then ranked unfollow/block lists. Never acts alone | [@bradshannon](https://x.com/bradshannon) | [Add](https://x.ai/bot/joKOyN0KrQlgNHpda7iii) |
+| <a id="bot-2IR-ABotGZ2crO8XoFYfc"></a>**Sneaky Unfollowers Caught** | Morning report of who followed back and who unfollowed you on X, with profile links | [@JVonFSDinMD](https://x.com/JVonFSDinMD) | [Add](https://x.ai/bot/2IR-ABotGZ2crO8XoFYfc) |
 
 ---
 

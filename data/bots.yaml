@@ -145,6 +145,7 @@ quick_start:
 bots:
   - name: "Privacy Scrubber"
     creator: ""
+    creator_handle: ""
     description: "Finds you on people-search sites, files removals, rechecks monthly"
     category: "people-search-and-data-brokers"
     subcategory: ""
@@ -154,6 +155,7 @@ bots:
 
   - name: "Unbroker"
     creator: ""
+    creator_handle: ""
     description: "Removes info from data brokers & people-search sites; handles past identifiers, parent brokers first, keeps a ledger"
     category: "people-search-and-data-brokers"
     subcategory: ""
@@ -163,6 +165,7 @@ bots:
 
   - name: "Ghost"
     creator: "Dave"
+    creator_handle: ""
     description: "Removes address, phones, and emails; free opt-outs + rechecks"
     category: "people-search-and-data-brokers"
     subcategory: ""
@@ -172,6 +175,7 @@ bots:
 
   - name: "Data Hunter"
     creator: "SeaKing"
+    creator_handle: ""
     description: "Finds listings and files opt-outs + legal deletion emails"
     category: "people-search-and-data-brokers"
     subcategory: ""
@@ -181,6 +185,7 @@ bots:
 
   - name: "Privacy Cleaner"
     creator: "Nostratomas"
+    creator_handle: ""
     description: "Submits approved opt-outs, logs everything, sets recheck routines"
     category: "people-search-and-data-brokers"
     subcategory: ""
@@ -190,6 +195,7 @@ bots:
 
   - name: "Privacy Scrub"
     creator: "althetime"
+    creator_handle: ""
     description: "Finds email/number exposure across breaches, spam lists, people-search, and Google; region-aware"
     category: "people-search-and-data-brokers"
     subcategory: ""
@@ -199,6 +205,7 @@ bots:
 
   - name: "Invisible Man"
     creator: ""
+    creator_handle: ""
     description: "Scrubs name, number, and address; Do Not Call; junk credit offers; monthly rechecks"
     category: "people-search-and-data-brokers"
     subcategory: ""
@@ -208,6 +215,7 @@ bots:
 
   - name: "Number Scrubber"
     creator: "Crypto"
+    creator_handle: ""
     description: "Focused solely on getting your phone number off people-search & data-broker sites"
     category: "people-search-and-data-brokers"
     subcategory: ""
@@ -217,6 +225,7 @@ bots:
 
   - name: "Spam-Call Scrubber"
     creator: "Arash"
+    creator_handle: ""
     description: "Popular free skill — finds number on sites, files opt-outs, handles confirmations, rechecks monthly"
     category: "people-search-and-data-brokers"
     subcategory: ""
@@ -226,6 +235,7 @@ bots:
 
   - name: "Spam-Call Scrubber"
     creator: "RG"
+    creator_handle: ""
     description: "Finds number on people-search/data brokers and re-checks on a schedule"
     category: "people-search-and-data-brokers"
     subcategory: ""
@@ -235,6 +245,7 @@ bots:
 
   - name: "Personal Information Removal"
     creator: "TechGeekAnthony"
+    creator_handle: ""
     description: "Dedicated personal info removal bot"
     category: "people-search-and-data-brokers"
     subcategory: ""
@@ -244,6 +255,7 @@ bots:
 
   - name: "Agent Zero"
     creator: "@liam_fallen"
+    creator_handle: "liam_fallen"
     description: "Finds your listings on people-search and data-broker sites and files removal requests with your consent"
     category: "people-search-and-data-brokers"
     subcategory: ""
@@ -253,6 +265,7 @@ bots:
 
   - name: "Remove Me"
     creator: "@OutworkVentures"
+    creator_handle: "OutworkVentures"
     description: "Finds you on people-search sites, data brokers, old forums and scraper directories; sends approved removals from your own email; rechecks in 30 days"
     category: "people-search-and-data-brokers"
     subcategory: ""
@@ -262,6 +275,7 @@ bots:
 
   - name: "Call List Remover"
     creator: ""
+    creator_handle: ""
     description: "Gets your number off telemarketer and robocall lists"
     category: "spam-calls-and-do-not-call"
     subcategory: ""
@@ -271,6 +285,7 @@ bots:
 
   - name: "Opt Out Buddy"
     creator: "Magik"
+    creator_handle: ""
     description: "Do Not Call + other free lists + company/bank opt-outs + people-search"
     category: "spam-calls-and-do-not-call"
     subcategory: ""
@@ -280,6 +295,7 @@ bots:
 
   - name: "Spam-Call Scrubber"
     creator: "Cory"
+    creator_handle: ""
     description: "Reports spam/robocall numbers to FTC, state offices, Nomorobo, and FCC"
     category: "spam-calls-and-do-not-call"
     subcategory: ""
@@ -289,6 +305,7 @@ bots:
 
   - name: "UK Spam Call Eraser"
     creator: "Benjamin"
+    creator_handle: ""
     description: "UK-focused: TPS registration, data broker removals, UK GDPR erasure"
     category: "spam-calls-and-do-not-call"
     subcategory: ""
@@ -298,6 +315,7 @@ bots:
 
   - name: "FTC Report Scam Call"
     creator: "@timsonner"
+    creator_handle: "timsonner"
     description: "Paste a scam voicemail, script, or number and it files the FTC fraud report for you and returns the confirmation"
     category: "spam-calls-and-do-not-call"
     subcategory: ""
@@ -307,6 +325,7 @@ bots:
 
   - name: "Scam Guard"
     creator: "Sarah"
+    creator_handle: ""
     description: "Family scam defense: family safe word, Safe/Caution/Scam verdict on any call, text, email, link, or DM"
     category: "spam-calls-and-do-not-call"
     subcategory: ""
@@ -316,6 +335,7 @@ bots:
 
   - name: "Data Deletion Bot"
     creator: ""
+    creator_handle: ""
     description: "Scans Gmail for signup sites and drafts GDPR/CCPA deletion emails"
     category: "email-newsletters-and-mail"
     subcategory: ""
@@ -325,6 +345,7 @@ bots:
 
   - name: "Unsubscribe Bot"
     creator: ""
+    creator_handle: ""
     description: "Clears newsletters out of Gmail (asks before acting)"
     category: "email-newsletters-and-mail"
     subcategory: ""
@@ -334,6 +355,7 @@ bots:
 
   - name: "Subscription Killer"
     creator: ""
+    creator_handle: ""
     description: "Lists recurring charges from receipts and drafts cancellations"
     category: "email-newsletters-and-mail"
     subcategory: ""
@@ -343,6 +365,7 @@ bots:
 
   - name: "Inbox Manager"
     creator: "Gaurav"
+    creator_handle: ""
     description: "Weekly noisy-sender audit; suggests unsubscribe / file / archive / keep"
     category: "email-newsletters-and-mail"
     subcategory: ""
@@ -352,6 +375,7 @@ bots:
 
   - name: "Ghost Subscription Hunter"
     creator: "Mark"
+    creator_handle: ""
     description: "Finds forgotten subscriptions from receipts/statements and builds a ledger"
     category: "email-newsletters-and-mail"
     subcategory: ""
@@ -361,6 +385,7 @@ bots:
 
   - name: "Sub Killer"
     creator: ""
+    creator_handle: ""
     description: "Finds unused subscriptions + cleans Gmail"
     category: "email-newsletters-and-mail"
     subcategory: ""
@@ -370,6 +395,7 @@ bots:
 
   - name: "SubCut"
     creator: "Taha"
+    creator_handle: ""
     description: "Reads inbox for recurring charges, marks monthly vs yearly, shows savings opportunities"
     category: "email-newsletters-and-mail"
     subcategory: ""
@@ -379,6 +405,7 @@ bots:
 
   - name: "Kramer"
     creator: "Helvio"
+    creator_handle: ""
     description: "USPS Informed Delivery desk — logs mail and files free Do Not Mail opt-outs for junk senders"
     category: "email-newsletters-and-mail"
     subcategory: ""
@@ -388,6 +415,7 @@ bots:
 
   - name: "Outlook Spam Filter Cleaner"
     creator: ""
+    creator_handle: ""
     description: "Trains rules and proposes junk vs keep for Outlook"
     category: "email-newsletters-and-mail"
     subcategory: ""
@@ -397,6 +425,7 @@ bots:
 
   - name: "Junk Mail Stopper"
     creator: "@Kevin_Logan"
+    creator_handle: "Kevin_Logan"
     description: "Snap a photo of junk mail; it files that sender's removal request, logs it, and follows up"
     category: "email-newsletters-and-mail"
     subcategory: ""
@@ -406,6 +435,7 @@ bots:
 
   - name: "Last Call"
     creator: "@thecsguy"
+    creator_handle: "thecsguy"
     description: "Tracks free trials you sign up for, warns a few days before they charge, and offers to cancel"
     category: "email-newsletters-and-mail"
     subcategory: ""
@@ -415,6 +445,7 @@ bots:
 
   - name: "Inbox Zero"
     creator: "@ashleyschendel"
+    creator_handle: "ashleyschendel"
     description: "Triages your inbox into an action list, drafts replies for approval, tracks follow-ups and deadlines"
     category: "email-newsletters-and-mail"
     subcategory: ""
@@ -424,6 +455,7 @@ bots:
 
   - name: "Login Ledger"
     creator: "@agent_nick_"
+    creator_handle: "agent_nick_"
     description: "Builds an index from your inbox of which email/username you used for every account (great for deletion requests). Never stores passwords"
     category: "email-newsletters-and-mail"
     subcategory: ""
@@ -433,6 +465,7 @@ bots:
 
   - name: "Porch"
     creator: "@MiloniAdams"
+    creator_handle: "MiloniAdams"
     description: "Reads your USPS Informed Delivery daily and posts a clear list of incoming mail and packages"
     category: "email-newsletters-and-mail"
     subcategory: ""
@@ -442,6 +475,7 @@ bots:
 
   - name: "Old Posts Auditor"
     creator: ""
+    creator_handle: ""
     description: "Flags posts in your X history that leak city, phone, or workplace"
     category: "x-cleanup"
     subcategory: ""
@@ -451,6 +485,7 @@ bots:
 
   - name: "Delete My Tweets!"
     creator: "Jay"
+    creator_handle: ""
     description: "Safely deletes your own old posts, reposts, and replies older than a cutoff"
     category: "x-cleanup"
     subcategory: ""
@@ -460,6 +495,7 @@ bots:
 
   - name: "Dead Follows Flagger"
     creator: ""
+    creator_handle: ""
     description: "Flags accounts you follow that went silent (30/90/180 days) — read-only"
     category: "x-cleanup"
     subcategory: ""
@@ -469,6 +505,7 @@ bots:
 
   - name: "Bot Purge"
     creator: "Crippled"
+    creator_handle: ""
     description: "Cleans obvious bots, scammers, and thirst-trap accounts from followers"
     category: "x-cleanup"
     subcategory: ""
@@ -478,6 +515,7 @@ bots:
 
   - name: "Bot Terminator"
     creator: "Empress"
+    creator_handle: ""
     description: "Removes bot/spam/inactive followers and unwanted lists (asks first)"
     category: "x-cleanup"
     subcategory: ""
@@ -487,6 +525,7 @@ bots:
 
   - name: "X Guard"
     creator: "Don"
+    creator_handle: ""
     description: "Weekly review of bot followers, porn/spam bots, and impersonators"
     category: "x-cleanup"
     subcategory: ""
@@ -496,6 +535,7 @@ bots:
 
   - name: "X Follower Spam Scanner"
     creator: "Ben"
+    creator_handle: ""
     description: "Scans followers for spam/bots/impersonators and asks before blocking"
     category: "x-cleanup"
     subcategory: ""
@@ -505,6 +545,7 @@ bots:
 
   - name: "Social Media Auditor"
     creator: "JennyMarquis"
+    creator_handle: ""
     description: "Social media privacy/audit focused bot"
     category: "x-cleanup"
     subcategory: ""
@@ -514,6 +555,7 @@ bots:
 
   - name: "X Hygiene"
     creator: "@bradshannon"
+    creator_handle: "bradshannon"
     description: "Cleans up followers and following: cost estimate first, then ranked unfollow/block lists. Never acts alone"
     category: "x-cleanup"
     subcategory: ""
@@ -523,6 +565,7 @@ bots:
 
   - name: "Sneaky Unfollowers Caught"
     creator: "@JVonFSDinMD"
+    creator_handle: "JVonFSDinMD"
     description: "Morning report of who followed back and who unfollowed you on X, with profile links"
     category: "x-cleanup"
     subcategory: ""
@@ -532,6 +575,7 @@ bots:
 
   - name: "Clean Slate"
     creator: "Brian"
+    creator_handle: ""
     description: "Pulls free credit reports, finds errors/collections, drafts FCRA dispute letters"
     category: "bonus-and-adjacent"
     subcategory: ""
@@ -541,6 +585,7 @@ bots:
 
   - name: "Phishing Email Checker"
     creator: "milkydarkstar"
+    creator_handle: ""
     description: "Checks emails for phishing"
     category: "bonus-and-adjacent"
     subcategory: ""
@@ -550,6 +595,7 @@ bots:
 
   - name: "Cyber Stud (Personal Cybersecurity Coach)"
     creator: "@LowTimePrefrenz"
+    creator_handle: "LowTimePrefrenz"
     description: "Six weekend sessions to lock down accounts, phone, Wi-Fi, credit, and family against hacks, identity theft, and AI scams"
     category: "bonus-and-adjacent"
     subcategory: ""
@@ -559,6 +605,7 @@ bots:
 
   - name: "Karenbot"
     creator: "@SuddenlyJon"
+    creator_handle: "SuddenlyJon"
     description: "Finds where companies shortchanged you (subscriptions, price drops, warranties, flights) and pushes back with receipts"
     category: "bonus-and-adjacent"
     subcategory: ""
@@ -568,6 +615,7 @@ bots:
 
   - name: "Bouncer"
     creator: "@bradshannon"
+    creator_handle: "bradshannon"
     description: "Paste an x.ai/bot link before you Add; it shows what's inside and says CLEAN, WARN, or BLOCK"
     category: "security-and-bot-safety"
     subcategory: "vet-bots"
@@ -577,6 +625,7 @@ bots:
 
   - name: "Template Safety Checker"
     creator: "@Jorhan"
+    creator_handle: "Jorhan"
     description: "Paste any Grok Bot template, link, or JSON to see what it can access and any red flags. Read-only"
     category: "security-and-bot-safety"
     subcategory: "vet-bots"
@@ -586,6 +635,7 @@ bots:
 
   - name: "Doorcheck"
     creator: "@the_Arow_H"
+    creator_handle: "the_Arow_H"
     description: "Reads another bot template's recipe (instructions, skills, routines, plugins) before you add it and returns a reject/accept-style verdict"
     category: "security-and-bot-safety"
     subcategory: "vet-bots"
@@ -595,6 +645,7 @@ bots:
 
   - name: "RepoBeagle"
     creator: "@jvr0x"
+    creator_handle: "jvr0x"
     description: "Paste a repo link and get a safety verdict before you trust or clone it"
     category: "security-and-bot-safety"
     subcategory: "vet-bots"
@@ -604,6 +655,7 @@ bots:
 
   - name: "Watchtower (beta)"
     creator: "@Ken_LinkWell"
+    creator_handle: "Ken_LinkWell"
     description: "Security officer for your bot roster: watches the shared computer and vets templates and skills before they are installed"
     category: "security-and-bot-safety"
     subcategory: "vet-bots"
@@ -613,6 +665,7 @@ bots:
 
   - name: "Sentinel"
     creator: "Daniel"
+    creator_handle: ""
     description: "Read-only guard for the shared computer your bots run on: watches for exposed secrets and pre-screens tools before install"
     category: "security-and-bot-safety"
     subcategory: "vet-bots"
@@ -622,6 +675,7 @@ bots:
 
   - name: "Guardian"
     creator: "Knom"
+    creator_handle: ""
     description: "Read-only watcher that keeps an inventory and least-privilege policy for each bot and reviews what they actually did"
     category: "security-and-bot-safety"
     subcategory: "vet-bots"
@@ -631,6 +685,7 @@ bots:
 
   - name: "Security Bot"
     creator: "Jeremy"
+    creator_handle: ""
     description: "Audits every bot in your setup against the OWASP GenAI Top 10s; read-only until you approve a fix"
     category: "security-and-bot-safety"
     subcategory: "vet-bots"
@@ -640,6 +695,7 @@ bots:
 
   - name: "Security Warden"
     creator: "@myrrazor"
+    creator_handle: "myrrazor"
     description: "Second opinion before risky bot actions: reviews proposed sends, deletes and shell commands for secrets and personal info"
     category: "security-and-bot-safety"
     subcategory: "vet-bots"
@@ -649,6 +705,7 @@ bots:
 
   - name: "Security (gatekeeper)"
     creator: "@Johnson20062123"
+    creator_handle: "Johnson20062123"
     description: "Your other bots pass it incoming emails and outside data first, and it checks for prompt injection"
     category: "security-and-bot-safety"
     subcategory: "vet-bots"
@@ -658,6 +715,7 @@ bots:
 
   - name: "BotSec"
     creator: "@scardinafineart"
+    creator_handle: "scardinafineart"
     description: "Head of security for a home with several bots: checks email for phishing and social-engineering tells, headers and links"
     category: "security-and-bot-safety"
     subcategory: "vet-bots"
@@ -667,6 +725,7 @@ bots:
 
   - name: "Tripwire"
     creator: "@ssbrouhard"
+    creator_handle: "ssbrouhard"
     description: "Read-only security watcher that learns your stack (repos, hosting, domains, accounts, devices) and alerts only when an exploited vuln, cert/CA issue, breach, scam or leaked key touches you; Monday roundup, quarterly 2FA audit"
     category: "security-and-bot-safety"
     subcategory: "account-security"
@@ -676,6 +735,7 @@ bots:
 
   - name: "CSO"
     creator: "@xenappblog"
+    creator_handle: "xenappblog"
     description: "Finds leaked keys, walks credential rotations, tightens access to least privilege, audits MFA"
     category: "security-and-bot-safety"
     subcategory: "account-security"
@@ -685,6 +745,7 @@ bots:
 
   - name: "Lockdown"
     creator: "@liam_fallen"
+    creator_handle: "liam_fallen"
     description: "Guided teammate that finds your online accounts and walks you through locking each one down on the official pages, one step at a time"
     category: "security-and-bot-safety"
     subcategory: "account-security"
@@ -694,6 +755,7 @@ bots:
 
   - name: "Bourne Bot"
     creator: "@MichaelGannotti"
+    creator_handle: "MichaelGannotti"
     description: "Personal security (OPSEC) advisor for your identity, devices, accounts, communications, location, money and family"
     category: "security-and-bot-safety"
     subcategory: "account-security"
@@ -703,6 +765,7 @@ bots:
 
   - name: "Footprint"
     creator: "Seth"
+    creator_handle: ""
     description: "Finds every online account you've made (Gmail evidence, breach data, username checks), then helps you remove the ones you pick"
     category: "security-and-bot-safety"
     subcategory: "account-security"
@@ -712,6 +775,7 @@ bots:
 
   - name: "MyPeople Bot"
     creator: "@StuyBoyNY"
+    creator_handle: "StuyBoyNY"
     description: "Give it your email and it shows which breaches you're in, with the three fixes that matter most"
     category: "security-and-bot-safety"
     subcategory: "account-security"
@@ -721,6 +785,7 @@ bots:
 
   - name: "Privacy Sentinel"
     creator: "@MinocrisyHQ"
+    creator_handle: "MinocrisyHQ"
     description: "Household privacy check: breached emails, data-broker listings and exposed details, then a short ranked fix list"
     category: "security-and-bot-safety"
     subcategory: "account-security"
@@ -730,6 +795,7 @@ bots:
 
   - name: "Vault Tidy"
     creator: "@lisamausa"
+    creator_handle: "lisamausa"
     description: "Scans Grok Bot Vault metadata for duplicate logins and contacts, messy labels and expired cards without exposing passwords"
     category: "security-and-bot-safety"
     subcategory: "account-security"
@@ -739,6 +805,7 @@ bots:
 
   - name: "Is This a Scam?"
     creator: "@dcostaverage"
+    creator_handle: "dcostaverage"
     description: "Send any text, email, link, DM, job offer or screenshot that feels off; get a plain verdict and the safe next step"
     category: "security-and-bot-safety"
     subcategory: "scams-phishing"
@@ -748,6 +815,7 @@ bots:
 
   - name: "Scam Check"
     creator: "@Biggs237"
+    creator_handle: "Biggs237"
     description: "Calm second opinion on a suspicious text, email or voicemail transcript you forward or paste"
     category: "security-and-bot-safety"
     subcategory: "scams-phishing"
@@ -757,6 +825,7 @@ bots:
 
   - name: "Inbox Guardian"
     creator: "@nft_dreww"
+    creator_handle: "nft_dreww"
     description: "Watches your Gmail, Outlook or Proton inbox for phishing and scam emails, moves high-confidence scams to spam and flags the rest"
     category: "security-and-bot-safety"
     subcategory: "scams-phishing"
@@ -766,6 +835,7 @@ bots:
 
   - name: "Scam Guard (inbox)"
     creator: "@0xarthurzs"
+    creator_handle: "0xarthurzs"
     description: "Scans Gmail or Outlook twice a day for phishing and scam emails and labels them with the reason; never deletes or moves mail"
     category: "security-and-bot-safety"
     subcategory: "scams-phishing"
@@ -775,6 +845,7 @@ bots:
 
   - name: "Mailman"
     creator: "@ManaEngineer"
+    creator_handle: "ManaEngineer"
     description: "Sorts every email in your Grok Bot inbox to the right bot; never replies or clicks, and flags phishing and prompt injection first"
     category: "security-and-bot-safety"
     subcategory: "scams-phishing"
@@ -784,6 +855,7 @@ bots:
 
   - name: "Columbo"
     creator: "Timothy"
+    creator_handle: ""
     description: "Watches public X for imposters and scammers, shows you the proof, and files a report only for the accounts you pick"
     category: "security-and-bot-safety"
     subcategory: "scams-phishing"
@@ -793,6 +865,7 @@ bots:
 
   - name: "𝕏 Imposter Account Checker"
     creator: "@TeslaAIBot"
+    creator_handle: "TeslaAIBot"
     description: "Searches X daily for accounts impersonating you, writes them up for you to report, and tells you when X suspends them"
     category: "security-and-bot-safety"
     subcategory: "scams-phishing"
@@ -802,6 +875,7 @@ bots:
 
   - name: "Botman"
     creator: "@Rune_King_Jake"
+    creator_handle: "Rune_King_Jake"
     description: "Detective bot that vets your followers, DMs, lists and inbox and writes evidence-backed case files on scammers, bots and impersonators"
     category: "security-and-bot-safety"
     subcategory: "scams-phishing"
@@ -811,6 +885,7 @@ bots:
 
   - name: "Crypto Scam Shield"
     creator: "@allthemoney"
+    creator_handle: "allthemoney"
     description: "Friendly coach that teaches how to spot crypto scams, with quizzes, examples, and link or message checks"
     category: "security-and-bot-safety"
     subcategory: "scams-phishing"
@@ -820,6 +895,7 @@ bots:
 
   - name: "Patch Alert"
     creator: "@howdyollie"
+    creator_handle: "howdyollie"
     description: "Tell it what software you run; checks CISA's Known Exploited Vulnerabilities list daily and alerts only when something you use is hit"
     category: "security-and-bot-safety"
     subcategory: "vulnerabilities"
@@ -829,6 +905,7 @@ bots:
 
   - name: "Vuln Scout"
     creator: "@thecsguy"
+    creator_handle: "thecsguy"
     description: "Tracks public CVE and patch advisories and posts short digests to Pages"
     category: "security-and-bot-safety"
     subcategory: "vulnerabilities"
@@ -838,6 +915,7 @@ bots:
 
   - name: "Heimdall"
     creator: "@magnus72"
+    creator_handle: "magnus72"
     description: "Dependency security watch for a GitHub repo; checks advisory feeds twice a day and opens a fix PR only after you approve"
     category: "security-and-bot-safety"
     subcategory: "vulnerabilities"
@@ -847,6 +925,7 @@ bots:
 
   - name: "Mr. Rigz (PC Steward)"
     creator: "@JonnyCakeSouza"
+    creator_handle: "JonnyCakeSouza"
     description: "Keeps a Windows PC fast and safe: weekday read-only health checks, Defender/firewall watch, approval-gated fixes"
     category: "security-and-bot-safety"
     subcategory: "vulnerabilities"
@@ -856,6 +935,7 @@ bots:
 
   - name: "CVE Desk"
     creator: "@_h4xin"
+    creator_handle: "_h4xin"
     description: "Read-only CVE desk: breaks down advisories, triages public PoCs without running them, and ranks what to patch"
     category: "security-and-bot-safety"
     subcategory: "vulnerabilities"
@@ -865,6 +945,7 @@ bots:
 
   - name: "Security"
     creator: "@PerWendelboe"
+    creator_handle: "PerWendelboe"
     description: "Read-and-report teammate: GitHub security alerts, leaked secrets, your domains and email setup, Cloudflare and Linux weak spots"
     category: "security-and-bot-safety"
     subcategory: "vulnerabilities"
@@ -874,6 +955,7 @@ bots:
 
   - name: "Cyber Checkup"
     creator: "@ZyMoProfit"
+    creator_handle: "ZyMoProfit"
     description: "Weekly no-login checkup of your website and email: HTTPS, security headers, SPF/DMARC, blocklists, lookalike domains"
     category: "security-and-bot-safety"
     subcategory: "vulnerabilities"
@@ -883,6 +965,7 @@ bots:
 
   - name: "Dmarc Specialist"
     creator: "@brettev"
+    creator_handle: "brettev"
     description: "Reviews DMARC aggregate reports, separates real fails from gateway noise, and guides SPF/DKIM/DMARC policy"
     category: "security-and-bot-safety"
     subcategory: "vulnerabilities"
@@ -892,6 +975,7 @@ bots:
 
   - name: "Domain Tracker"
     creator: "@sdrth"
+    creator_handle: "sdrth"
     description: "Watches expiry, DNS and mail settings for domains you own, plus a watchlist of names you want; public WHOIS/RDAP/DNS only"
     category: "security-and-bot-safety"
     subcategory: "vulnerabilities"
@@ -901,6 +985,7 @@ bots:
 
   - name: "Dependency & Secret Audit"
     creator: "Thuong"
+    creator_handle: ""
     description: "Paste a GitHub repo, get a ranked fix list: vulnerable packages with upgrade commands and leaked keys (masked) with rotate steps"
     category: "security-and-bot-safety"
     subcategory: "vulnerabilities"
@@ -910,6 +995,7 @@ bots:
 
   - name: "Security Audit Bot"
     creator: "@Phil_Holland"
+    creator_handle: "Phil_Holland"
     description: "Reviews code you own and returns a private security report that opens with up to five plain-English fixes"
     category: "security-and-bot-safety"
     subcategory: "vulnerabilities"
@@ -919,6 +1005,7 @@ bots:
 
   - name: "Web Security Audit"
     creator: "@pareshdesai"
+    creator_handle: "pareshdesai"
     description: "Defensive reviewer for websites and repos you own; P0/P1/P2 findings with evidence, no exploit PoCs, no auto-fixes"
     category: "security-and-bot-safety"
     subcategory: "vulnerabilities"
@@ -928,6 +1015,7 @@ bots:
 
   - name: "App Security Tester"
     creator: "@OutworkVentures"
+    creator_handle: "OutworkVentures"
     description: "Threat-models and security-tests your own web and mobile apps like an attacker would, then ranks the fixes"
     category: "security-and-bot-safety"
     subcategory: "vulnerabilities"
@@ -937,6 +1025,7 @@ bots:
 
   - name: "Mood Security"
     creator: "@bdvd_25"
+    creator_handle: "bdvd_25"
     description: "(Spanish) Weekly read-only audit of your GitHub repos: leaked secrets incl. history, vulnerable dependencies, branch protection"
     category: "security-and-bot-safety"
     subcategory: "vulnerabilities"
@@ -946,6 +1035,7 @@ bots:
 
   - name: "Net Watch"
     creator: "@bradshannon"
+    creator_handle: "bradshannon"
     description: "Maps and monitors your home network, spots unknown devices and risky open ports, walks you through fixes after you say yes"
     category: "home-network-and-tech"
     subcategory: "homelab"
@@ -955,6 +1045,7 @@ bots:
 
   - name: "Omnipresence"
     creator: "@SuddenlyJon"
+    creator_handle: "SuddenlyJon"
     description: "Read-only map of your Wi-Fi, devices, software and services, then proposes automations"
     category: "home-network-and-tech"
     subcategory: "homelab"
@@ -964,6 +1055,7 @@ bots:
 
   - name: "Dexter the home lab boss"
     creator: "@RAMcgi"
+    creator_handle: "RAMcgi"
     description: "Maps your homelab (firewall, hypervisor, out-of-band access and more), recommends how Grok Bot should reach each system, then spins up specialist bots after you confirm the map"
     category: "home-network-and-tech"
     subcategory: "homelab"
@@ -973,6 +1065,7 @@ bots:
 
   - name: "UniFi Network Admin"
     creator: "@cadena_gus"
+    creator_handle: "cadena_gus"
     description: "Careful home/small-office UniFi admin: watches your Ubiquiti gear read-only, runs quiet daily health checks, changes things only with your OK"
     category: "home-network-and-tech"
     subcategory: "homelab"
@@ -982,6 +1075,7 @@ bots:
 
   - name: "UniFi"
     creator: "@j03xiii"
+    creator_handle: "j03xiii"
     description: "UniFi Network + Protect house bot: morning network health and overnight camera reports; needs your own UniFi MCP and Notion; read-first"
     category: "home-network-and-tech"
     subcategory: "homelab"
@@ -991,6 +1085,7 @@ bots:
 
   - name: "Cloudflare"
     creator: "@cadena_gus"
+    creator_handle: "cadena_gus"
     description: "Careful Cloudflare engineer for your domains (DNS, SSL, redirects, Workers, Pages); reads first and backs up before every change"
     category: "home-network-and-tech"
     subcategory: "homelab"
@@ -1000,6 +1095,7 @@ bots:
 
   - name: "Tailscale Admin"
     creator: "@chevonphillip"
+    creator_handle: "chevonphillip"
     description: "Puts your bot's cloud box on your tailnet as a tagged device, then audits ACLs, manages devices, sets up Tailscale SSH; confirms before every change"
     category: "home-network-and-tech"
     subcategory: "homelab"
@@ -1009,6 +1105,7 @@ bots:
 
   - name: "SSH to Grok via Tailscale"
     creator: "@app_sail"
+    creator_handle: "app_sail"
     description: "Installs Tailscale on Grok Bot's computer so you can SSH into it over your tailnet, with autostart and a self-heal check"
     category: "home-network-and-tech"
     subcategory: "homelab"
@@ -1018,6 +1115,7 @@ bots:
 
   - name: "Egress Engineer"
     creator: "@satsnode"
+    creator_handle: "satsnode"
     description: "Routes your bot's browser through a device you own via a Tailscale exit node, so sites see your home IP and country"
     category: "home-network-and-tech"
     subcategory: "homelab"
@@ -1027,6 +1125,7 @@ bots:
 
   - name: "Ash"
     creator: "@willebrew"
+    creator_handle: "willebrew"
     description: "Systems lead for people who run their own servers: watches self-hosted backends and risky PRs, handles deploys and environments"
     category: "home-network-and-tech"
     subcategory: "homelab"
@@ -1036,6 +1135,7 @@ bots:
 
   - name: "TechEngineer"
     creator: "@JaimeBubblehead"
+    creator_handle: "JaimeBubblehead"
     description: "Home device and network engineer that sets up, fixes and watches your Macs, PCs, home servers and network, with backed-up changes"
     category: "home-network-and-tech"
     subcategory: "homelab"
@@ -1045,6 +1145,7 @@ bots:
 
   - name: "Hunter"
     creator: "@JaimeBubblehead"
+    creator_handle: "JaimeBubblehead"
     description: "Ops research bot that digs into your tech stack, vendors, subscriptions, DNS and mail, and reports known / unknown findings"
     category: "home-network-and-tech"
     subcategory: "homelab"
@@ -1054,6 +1155,7 @@ bots:
 
   - name: "WebOps"
     creator: "@OutworkVentures"
+    creator_handle: "OutworkVentures"
     description: "Website chores: private previews, static deploys, DNS and uptime checks, forms, redirects, SEO hygiene; launches only on your OK"
     category: "home-network-and-tech"
     subcategory: "homelab"
@@ -1063,6 +1165,7 @@ bots:
 
   - name: "IT Department Lead"
     creator: "@braytron"
+    creator_handle: "braytron"
     description: "Coordinates a fleet of specialist IT bots: fleet health checks, secret intake, and cross-cutting IT asks"
     category: "home-network-and-tech"
     subcategory: "homelab"
@@ -1072,6 +1175,7 @@ bots:
 
   - name: "Starlink Check"
     creator: "@thecsguy"
+    creator_handle: "thecsguy"
     description: "Checks whether Starlink home internet reaches your address, with plans and prices"
     category: "home-network-and-tech"
     subcategory: "wifi"
@@ -1081,6 +1185,7 @@ bots:
 
   - name: "Wifi Wendy"
     creator: "@FrankFindsOut"
+    creator_handle: "FrankFindsOut"
     description: "Takes your room layout (floors, walls, dead zones) and suggests the best router placement for stronger Wi-Fi"
     category: "home-network-and-tech"
     subcategory: "wifi"
@@ -1090,6 +1195,7 @@ bots:
 
   - name: "PC Helper"
     creator: "@Tony_Omega"
+    creator_handle: "Tony_Omega"
     description: "Hands-on helper for your Windows PC and home network: speed tests, tune-ups, drivers, clean uninstalls, network fixes"
     category: "home-network-and-tech"
     subcategory: "wifi"
@@ -1099,6 +1205,7 @@ bots:
 
   - name: "Home Network Monitor"
     creator: "@Rockhocker"
+    creator_handle: "Rockhocker"
     description: "Live monitoring page for a satellite (Starlink-style) home or small-office internet connection and router"
     category: "home-network-and-tech"
     subcategory: "wifi"
@@ -1108,6 +1215,7 @@ bots:
 
   - name: "Hack Your House"
     creator: "@BudJohnson"
+    creator_handle: "BudJohnson"
     description: "Snap photos of the Wi-Fi gadgets in your home and get step-by-step ideas to speed them up, revive them or connect them"
     category: "home-network-and-tech"
     subcategory: "wifi"
@@ -1117,6 +1225,7 @@ bots:
 
   - name: "Home Helper"
     creator: "@CaliLumberJack"
+    creator_handle: "CaliLumberJack"
     description: "Checks and controls Apple Home from chat: lights, fans, blinds, thermostats; locks/garage only after your yes"
     category: "home-network-and-tech"
     subcategory: "smart-home"
@@ -1126,6 +1235,7 @@ bots:
 
   - name: "Assistant for Home Assistant"
     creator: "@BowieHole"
+    creator_handle: "BowieHole"
     description: "For Home Assistant owners: catches dead devices, offline cameras, failed updates and broken automations; pings you only when a person has to act"
     category: "home-network-and-tech"
     subcategory: "smart-home"
@@ -1135,6 +1245,7 @@ bots:
 
   - name: "Home Assistant Admin"
     creator: "@cadena_gus"
+    creator_handle: "cadena_gus"
     description: "Careful Home Assistant admin that monitors, troubleshoots and automates your smart home; read-only by default, approved changes one at a time"
     category: "home-network-and-tech"
     subcategory: "smart-home"
@@ -1144,6 +1255,7 @@ bots:
 
   - name: "Home Assistant Bot"
     creator: "@DomenicoNicoli"
+    creator_handle: "DomenicoNicoli"
     description: "Home Assistant helper over MCP for live device control, solar and energy status, automations and routines"
     category: "home-network-and-tech"
     subcategory: "smart-home"
@@ -1153,6 +1265,7 @@ bots:
 
   - name: "Homy"
     creator: "@realpetru"
+    creator_handle: "realpetru"
     description: "Smart-home agent for your Home Assistant: controls lights, fans and other devices, checks what's on, runs timed actions"
     category: "home-network-and-tech"
     subcategory: "smart-home"
@@ -1162,6 +1275,7 @@ bots:
 
   - name: "VibeYourTV"
     creator: "@orpheuskaze"
+    creator_handle: "orpheuskaze"
     description: "Sets up Android TV / Google TV from your PC over Wi-Fi with adb, including a reversible debloat"
     category: "home-network-and-tech"
     subcategory: "smart-home"
@@ -1171,6 +1285,7 @@ bots:
 
   - name: "TV Tuner"
     creator: "Brandon"
+    creator_handle: ""
     description: "Debloats Android TV / Google TV with CleanYourTV (never roots or uninstalls) and can add ad-blocking DNS"
     category: "home-network-and-tech"
     subcategory: "smart-home"
@@ -1180,6 +1295,7 @@ bots:
 
   - name: "TV De-Ad Bot"
     creator: "@0node0"
+    creator_handle: "0node0"
     description: "Removes ads, tracking and clutter from your own smart TV with reversible steps you approve one at a time"
     category: "home-network-and-tech"
     subcategory: "smart-home"
@@ -1189,6 +1305,7 @@ bots:
 
   - name: "Techy"
     creator: "@Turnup2ez"
+    creator_handle: "Turnup2ez"
     description: "Friendly IT helper for PC, phone, Wi-Fi and printer problems in plain English; spots scams, tracks warranties"
     category: "home-network-and-tech"
     subcategory: "upkeep"
@@ -1198,6 +1315,7 @@ bots:
 
   - name: "Ops Bot"
     creator: "@TheodosianMind7"
+    creator_handle: "TheodosianMind7"
     description: "Keeps the tools, packages and connectors on your bots' shared computer installed, pinned, patched and healthy, with a rollback for every change"
     category: "home-network-and-tech"
     subcategory: "upkeep"
@@ -1207,6 +1325,7 @@ bots:
 
   - name: "Grok VM maintenance"
     creator: "@old_pgmrs_will"
+    creator_handle: "old_pgmrs_will"
     description: "Looks after your bot's cloud Linux computer: installs, services, diagnostics, disk and memory reports; measures before it changes"
     category: "home-network-and-tech"
     subcategory: "upkeep"
@@ -1216,6 +1335,7 @@ bots:
 
   - name: "Bill Buster"
     creator: "@oliverparsons"
+    creator_handle: "oliverparsons"
     description: "Finds overspending on bills, subscriptions, card fees and insurance, then drafts a call script and email to win it back"
     category: "money-bills-and-insurance"
     subcategory: ""
@@ -1225,6 +1345,7 @@ bots:
 
   - name: "Claimed"
     creator: "@liam_fallen"
+    creator_handle: "liam_fallen"
     description: "Searches official refunds, class-action settlements and compensation programs for money you may be owed"
     category: "money-bills-and-insurance"
     subcategory: ""
@@ -1234,6 +1355,7 @@ bots:
 
   - name: "Included"
     creator: "@liam_fallen"
+    creator_handle: "liam_fallen"
     description: "Finds perks and protections you already get through cards, plans and memberships you pay for"
     category: "money-bills-and-insurance"
     subcategory: ""
@@ -1243,6 +1365,7 @@ bots:
 
   - name: "Fine Print"
     creator: "@LowTimePrefrenz"
+    creator_handle: "LowTimePrefrenz"
     description: "Reads contracts, leases, bills and terms before you sign; flags hidden fees and auto-renewals, drafts pushback"
     category: "money-bills-and-insurance"
     subcategory: ""
@@ -1252,6 +1375,7 @@ bots:
 
   - name: "Money Brief"
     creator: "@oliverparsons"
+    creator_handle: "oliverparsons"
     description: "Weekday read-only alerts for bills due, new charges and odd activity, plus weekly spending and monthly net worth"
     category: "money-bills-and-insurance"
     subcategory: ""
@@ -1261,6 +1385,7 @@ bots:
 
   - name: "Finance"
     creator: "@bradshannon"
+    creator_handle: "bradshannon"
     description: "Read-only family money coach that watches spending, bills, subscriptions and fees without moving money"
     category: "money-bills-and-insurance"
     subcategory: ""
@@ -1270,6 +1395,7 @@ bots:
 
   - name: "Budgie"
     creator: "@cillfore"
+    creator_handle: "cillfore"
     description: "Budget in a local SQLite database: plans each paycheck, forecasts debt payoff and net worth"
     category: "money-bills-and-insurance"
     subcategory: ""
@@ -1279,6 +1405,7 @@ bots:
 
   - name: "Tacks"
     creator: "@JoshMeyer"
+    creator_handle: "JoshMeyer"
     description: "Personal US tax preparer (federal + state): interviews you, then prepares the return line by line"
     category: "money-bills-and-insurance"
     subcategory: ""
@@ -1288,6 +1415,7 @@ bots:
 
   - name: "Insurance Aware"
     creator: "@wayovrmyhed"
+    creator_handle: "wayovrmyhed"
     description: "Tracks home/auto/health policies by renewal date and nudges you early enough to shop around"
     category: "money-bills-and-insurance"
     subcategory: ""
@@ -1297,6 +1425,7 @@ bots:
 
   - name: "Deal Detective"
     creator: "@ashleyschendel"
+    creator_handle: "ashleyschendel"
     description: "Finds real discounts at your stores, compares unit prices, builds budget-fit shopping lists"
     category: "shopping-deals-and-packages"
     subcategory: ""
@@ -1306,6 +1435,7 @@ bots:
 
   - name: "Smart Shopper"
     creator: "@Jprz1321"
+    creator_handle: "Jprz1321"
     description: "Daily price-drop watcher (shipping + tax included) and gift finder that arrives by your date"
     category: "shopping-deals-and-packages"
     subcategory: ""
@@ -1315,6 +1445,7 @@ bots:
 
   - name: "DealScout"
     creator: "@CarolinaDill"
+    creator_handle: "CarolinaDill"
     description: "Finds best-reviewed products at good prices across stores and can watch for price drops"
     category: "shopping-deals-and-packages"
     subcategory: ""
@@ -1324,6 +1455,7 @@ bots:
 
   - name: "Package Pal"
     creator: "@thecsguy"
+    creator_handle: "thecsguy"
     description: "Reads shipping emails and sends one daily digest of packages in transit, with change alerts"
     category: "shopping-deals-and-packages"
     subcategory: ""
@@ -1333,6 +1465,7 @@ bots:
 
   - name: "Snap & Flip"
     creator: "@lisamausa"
+    creator_handle: "lisamausa"
     description: "Photo of an item → real eBay sold comps and a ready-to-post listing to flip it"
     category: "shopping-deals-and-packages"
     subcategory: ""
@@ -1342,6 +1475,7 @@ bots:
 
   - name: "Car Shopper"
     creator: "@HudsonSutherla2"
+    creator_handle: "HudsonSutherla2"
     description: "Finds used cars near you, checks history, builds an out-the-door price, drafts a haggle script"
     category: "shopping-deals-and-packages"
     subcategory: ""
@@ -1351,6 +1485,7 @@ bots:
 
   - name: "What's New"
     creator: "@mattyp"
+    creator_handle: "mattyp"
     description: "Sends the latest Grok Bot release notes and checks every morning for anything new (one of the most-bookmarked bots on X)"
     category: "productivity-research-and-news"
     subcategory: ""
@@ -1360,6 +1495,7 @@ bots:
 
   - name: "Deep Research"
     creator: "@ALL_Jonah"
+    creator_handle: "ALL_Jonah"
     description: "Digs through court records, laws, filings, lobbying data, papers and archives, cross-checking sources"
     category: "productivity-research-and-news"
     subcategory: ""
@@ -1369,6 +1505,7 @@ bots:
 
   - name: "Swarm"
     creator: "@joshdbirdwell"
+    creator_handle: "joshdbirdwell"
     description: "Fans out across many angles on one topic, audits every source, delivers a cited conclusion-first report"
     category: "productivity-research-and-news"
     subcategory: ""
@@ -1378,6 +1515,7 @@ bots:
 
   - name: "Centelligence Brain Bot"
     creator: "@levi_w_eck"
+    creator_handle: "levi_w_eck"
     description: "Keeps your priorities, people, decisions and promises in plain files and answers from what's on file"
     category: "productivity-research-and-news"
     subcategory: ""
@@ -1387,6 +1525,7 @@ bots:
 
   - name: "Kindle Courier"
     creator: "@DomainMaster"
+    creator_handle: "DomainMaster"
     description: "Turns articles, X posts/threads and video links into checked EPUBs and emails them to your Kindle"
     category: "productivity-research-and-news"
     subcategory: ""
@@ -1396,6 +1535,7 @@ bots:
 
   - name: "Max News"
     creator: "@jimaggie"
+    creator_handle: "jimaggie"
     description: "Short, neutral news briefs on your topics and area a few times a day, every story linked to its source"
     category: "productivity-research-and-news"
     subcategory: ""
@@ -1405,6 +1545,7 @@ bots:
 
   - name: "Course Builder & Coach"
     creator: "@JesseHeredia"
+    creator_handle: "JesseHeredia"
     description: "Name a skill + daily time; it builds a course with short lessons, quizzes, flashcards, progress tracking and optional daily coaching"
     category: "productivity-research-and-news"
     subcategory: ""
@@ -1414,6 +1555,7 @@ bots:
 
   - name: "Bridge Bot"
     creator: "@moritzkremb"
+    creator_handle: "moritzkremb"
     description: "Lets ChatGPT, Claude Code, or any tool send tasks to your Grok Bot over a webhook (~900 bookmarks+likes on X)"
     category: "developer-and-power-user"
     subcategory: ""
@@ -1423,6 +1565,7 @@ bots:
 
   - name: "Claude Remote"
     creator: "@thecsguy"
+    creator_handle: "thecsguy"
     description: "Text tasks from your phone to Claude Code on your Mac and get the result back"
     category: "developer-and-power-user"
     subcategory: ""
@@ -1432,6 +1575,7 @@ bots:
 
   - name: "Terminal Boss"
     creator: "@Phil_Holland"
+    creator_handle: "Phil_Holland"
     description: "Runs shell jobs and terminal coding agents (Claude Code, Codex, etc.) on your computer from chat"
     category: "developer-and-power-user"
     subcategory: ""
@@ -1441,6 +1585,7 @@ bots:
 
   - name: "Apple Mac Tools"
     creator: "@Kevin_Logan"
+    creator_handle: "Kevin_Logan"
     description: "Installs ~20 tested Mac CLI tools so your bots can use iMessage, Mail, Reminders, Photos and Notes"
     category: "developer-and-power-user"
     subcategory: ""
@@ -1450,6 +1595,7 @@ bots:
 
   - name: "Disk Doctor"
     creator: "@thecsguy"
+    creator_handle: "thecsguy"
     description: "Scans your Mac's storage and deletes only the file groups you approve"
     category: "developer-and-power-user"
     subcategory: ""
@@ -1459,6 +1605,7 @@ bots:
 
   - name: "Local AI Manager"
     creator: "@ChefMcMakin"
+    creator_handle: "ChefMcMakin"
     description: "Sets up an open AI model on your own hardware, keeps it running, and handles local AI use through Grok Bot"
     category: "developer-and-power-user"
     subcategory: ""
@@ -1468,6 +1615,7 @@ bots:
 
   - name: "TinkaBot"
     creator: "@poteto"
+    creator_handle: "poteto"
     description: "Builds Grok Bot plugins: reads your APIs, makes an MCP or skills, packages it for approval (most-bookmarked bot on the shelf)"
     category: "bot-tools"
     subcategory: ""
@@ -1477,6 +1625,7 @@ bots:
 
   - name: "Script This Routine"
     creator: "@Kevin_Logan"
+    creator_handle: "Kevin_Logan"
     description: "Turns your bots' mechanical routine checks into small tested scripts that wake the bot only when needed (saves usage)"
     category: "bot-tools"
     subcategory: ""
@@ -1486,6 +1635,7 @@ bots:
 
   - name: "Burn Watch"
     creator: "@CaliLumberJack"
+    creator_handle: "CaliLumberJack"
     description: "Shows your weekly usage limit, pace, and which routines burn the most; warns before big jobs"
     category: "bot-tools"
     subcategory: ""
@@ -1495,6 +1645,7 @@ bots:
 
   - name: "Backup Bot"
     creator: "@howdyollie"
+    creator_handle: "howdyollie"
     description: "Audits any bot and saves a restore pack with its profile, skills, routines and key notes"
     category: "bot-tools"
     subcategory: ""
@@ -1504,6 +1655,7 @@ bots:
 
   - name: "Libby, Tool Scout"
     creator: "@DarinRMcClure"
+    creator_handle: "DarinRMcClure"
     description: "Scouts Grok Bot templates and tools for any job and returns a short ranked shortlist with links"
     category: "bot-tools"
     subcategory: ""
@@ -1513,6 +1665,7 @@ bots:
 
   - name: "House Memory"
     creator: "@KentBWeber"
+    creator_handle: "KentBWeber"
     description: "Logs warranties, filters and paint colors from a photo or voice note into your own spreadsheet, with due-date reminders"
     category: "home-car-and-household"
     subcategory: ""
@@ -1522,6 +1675,7 @@ bots:
 
   - name: "Handyman"
     creator: "@dkmitc"
+    creator_handle: "dkmitc"
     description: "Remembers filter sizes, appliance models and repair history; reminds you when seasonal chores are due"
     category: "home-car-and-household"
     subcategory: ""
@@ -1531,6 +1685,7 @@ bots:
 
   - name: "Pit Stop"
     creator: "@wayovrmyhed"
+    creator_handle: "wayovrmyhed"
     description: "Per-car service history; pings when an oil change or other service is actually due"
     category: "home-car-and-household"
     subcategory: ""
@@ -1540,6 +1695,7 @@ bots:
 
   - name: "Home Scout (Realtor)"
     creator: "@thecsguy"
+    creator_handle: "thecsguy"
     description: "Watches new home listings and checks each good fit against comps, commute, schools and permits"
     category: "home-car-and-household"
     subcategory: ""
@@ -1549,6 +1705,7 @@ bots:
 
   - name: "Roof, Water & Contractor Bid Auditor"
     creator: "@LisaMAUSA"
+    creator_handle: "LisaMAUSA"
     description: "Audits roofing, plumbing, HVAC and remodel bids line by line; flags padded markups and missing specs"
     category: "home-car-and-household"
     subcategory: ""
@@ -1558,6 +1715,7 @@ bots:
 
   - name: "Coach"
     creator: "@Phil_Holland"
+    creator_handle: "Phil_Holland"
     description: "Plans workouts and logs sets and meals from texts or plate photos, adjusting to WHOOP, Oura or Fitbit"
     category: "health-fitness-and-food"
     subcategory: ""
@@ -1567,6 +1725,7 @@ bots:
 
   - name: "Claim Denied"
     creator: "@drbellahqw"
+    creator_handle: "drbellahqw"
     description: "Explains an insurance claim denial in plain words, then drafts a review letter, doctor checklist and call log"
     category: "health-fitness-and-food"
     subcategory: ""
@@ -1576,6 +1735,7 @@ bots:
 
   - name: "Health Concierge"
     creator: "@gambrill"
+    creator_handle: "gambrill"
     description: "Tracks your family's insurance, labs, doctors and reimbursements, and preps you for appointments"
     category: "health-fitness-and-food"
     subcategory: ""
@@ -1585,6 +1745,7 @@ bots:
 
   - name: "Sazón"
     creator: "@Ortix008"
+    creator_handle: "Ortix008"
     description: "Turns what's in your kitchen into meals, with recipes, meal plans, shopping lists and allergen flags"
     category: "health-fitness-and-food"
     subcategory: ""
@@ -1594,6 +1755,7 @@ bots:
 
   - name: "Personal Chef"
     creator: "@ChefMcMakin"
+    creator_handle: "ChefMcMakin"
     description: "Plans weekly family dinners around budget and diet, prints recipe cards, loads a Walmart pickup cart"
     category: "health-fitness-and-food"
     subcategory: ""
@@ -1603,6 +1765,7 @@ bots:
 
   - name: "Atlas"
     creator: "@Jprz1321"
+    creator_handle: "Jprz1321"
     description: "Start, destination and dates → road-trip page with route map, daily legs and stays with live prices"
     category: "travel"
     subcategory: ""
@@ -1612,6 +1775,7 @@ bots:
 
   - name: "Tammy — True-Total Travel & Points Scout"
     creator: "@wjenson"
+    creator_handle: "wjenson"
     description: "Flight/hotel/award scout that exposes hidden resort and Basic Economy fees and does the points math"
     category: "travel"
     subcategory: ""
@@ -1621,6 +1785,7 @@ bots:
 
   - name: "Parks"
     creator: "@bradshannon"
+    creator_handle: "bradshannon"
     description: "US national parks planner: picks parks, plans the road trip and day sheets, checks timed entry and permits"
     category: "travel"
     subcategory: ""
@@ -1630,6 +1795,7 @@ bots:
 
   - name: "Pack Out"
     creator: "@wayovrmyhed"
+    creator_handle: "wayovrmyhed"
     description: "Reusable packing kits by trip type plus T-minus reminders and the destination forecast"
     category: "travel"
     subcategory: ""
@@ -1639,6 +1805,7 @@ bots:
 
   - name: "Powder Alert"
     creator: "@JVonFSDinMD"
+    creator_handle: "JVonFSDinMD"
     description: "Tracks snow forecasts for your ski resorts, alerts before big storms, gives morning snow totals"
     category: "travel"
     subcategory: ""
@@ -1648,6 +1815,7 @@ bots:
 
   - name: "Career Agent"
     creator: "@phillipggreen"
+    creator_handle: "phillipggreen"
     description: "Finds verified openings that fit you, tracks them, prepares tailored truthful applications; nothing submitted without you"
     category: "career-and-job-search"
     subcategory: ""
@@ -1657,6 +1825,7 @@ bots:
 
   - name: "Resume Optimizer"
     creator: "@GrokBotGod"
+    creator_handle: "GrokBotGod"
     description: "Tailors your resume to a pasted job post and lists gaps to fill, without inventing experience"
     category: "career-and-job-search"
     subcategory: ""
@@ -1666,6 +1835,7 @@ bots:
 
   - name: "The Interviewer"
     creator: "@SuddenlyJon"
+    creator_handle: "SuddenlyJon"
     description: "Researches the role from your job + resume, runs a realistic mock interview, and scores you"
     category: "career-and-job-search"
     subcategory: ""
@@ -1675,6 +1845,7 @@ bots:
 
   - name: "Afterglow"
     creator: "@thecsguy"
+    creator_handle: "thecsguy"
     description: "Charts how your X posts did each morning and tells you which ones worked"
     category: "x-creators-and-content"
     subcategory: ""
@@ -1684,6 +1855,7 @@ bots:
 
   - name: "Clip & Credit"
     creator: "@Kevin_Logan"
+    creator_handle: "Kevin_Logan"
     description: "Turns a YouTube link or X video into captioned highlight clips with proper creator credit, drafted for review"
     category: "x-creators-and-content"
     subcategory: ""
@@ -1693,6 +1865,7 @@ bots:
 
   - name: "Cue"
     creator: "@wayovrmyhed"
+    creator_handle: "wayovrmyhed"
     description: "Watches X for threads where your brand fits and alerts you with paste-ready reply drafts; never auto-posts"
     category: "x-creators-and-content"
     subcategory: ""
@@ -1702,6 +1875,7 @@ bots:
 
   - name: "Sports Fan Desk"
     creator: "@ashleyschendel"
+    creator_handle: "ashleyschendel"
     description: "Tracks your teams' kickoffs, channels, live scores, odds and injuries across pro, college and school"
     category: "fun-and-lifestyle"
     subcategory: ""
@@ -1711,6 +1885,7 @@ bots:
 
   - name: "Skywatcher Buzz"
     creator: "@jimaggie"
+    creator_handle: "jimaggie"
     description: "Tells you what's worth stepping outside for: ISS passes, northern lights chances, meteor showers"
     category: "fun-and-lifestyle"
     subcategory: ""
@@ -1720,6 +1895,7 @@ bots:
 
   - name: "Tavern"
     creator: "@ChefMcMakin"
+    creator_handle: "ChefMcMakin"
     description: "Tabletop RPG game master for solo or multiplayer adventures in chat, with scene art and AI party members"
     category: "fun-and-lifestyle"
     subcategory: ""
@@ -1729,6 +1905,7 @@ bots:
 
   - name: "Unmute America"
     creator: "@ALL_Jonah"
+    creator_handle: "ALL_Jonah"
     description: "Voter registration, sample ballots, custom voter guides, and tracking your reps, bills and votes"
     category: "fun-and-lifestyle"
     subcategory: ""

@@ -17,7 +17,12 @@ body:
     id: creator
     attributes:
       label: Creator
-      description: Handle or name from the template. Leave blank if the template does not list one.
+      description: The @handle or plain name from the template. Leave blank if the template does not list one.
+  - type: input
+    id: creator_handle
+    attributes:
+      label: X handle
+      description: Handle without @ when the template shows one, for example bradshannon. Leave blank for a first name with no handle. Do not guess.
   - type: textarea
     id: description
     attributes:
