@@ -4,11 +4,11 @@
 
 Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home Assistant, and everyday tech help.
 
-**35** bots. Third-party and unofficial. Read the template before you add it.
+**37** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
-- [Homelab, self-hosted & remote access](#homelab) (16)
+- [Homelab, self-hosted & remote access](#homelab) (17)
   - [Net Watch](#bot-0vuunQUBFlb4SnStUCtLt)
   - [Omnipresence](#bot-HsqCRD8q_eZII9ewRNkpm)
   - [Dexter the home lab boss](#bot-wsyMavZM6PYzV3lgklehG)
@@ -25,9 +25,10 @@ Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home A
   - [IT Department Lead](#bot-28cjt6-FRq2D69vUX5F9L)
   - [Cloudflare Admin](#bot-R8z7Gt048fEu5Z8xqtgTQ)
   - [Media Center Engineer](#bot-M67wmr4HRv74Xv6TF8qk8)
+  - [Dry Run Lab](#bot-dnCnydyRm8J_xYeekmVCp)
 - [Wi-Fi, router & internet](#wifi) (6)
 - [Smart home & TV](#smart-home) (9)
-- [Bot computer upkeep & everyday tech help](#upkeep) (4)
+- [Bot computer upkeep & everyday tech help](#upkeep) (5)
 
 ## <a id="homelab"></a>Homelab, self-hosted & remote access
 
@@ -49,6 +50,7 @@ Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home A
 | <a id="bot-28cjt6-FRq2D69vUX5F9L"></a>**IT Department Lead** | Coordinates a fleet of specialist IT bots: fleet health checks, secret intake, and cross-cutting IT asks | [@braytron](https://x.com/braytron) | [Add](https://x.ai/bot/28cjt6-FRq2D69vUX5F9L) |
 | <a id="bot-R8z7Gt048fEu5Z8xqtgTQ"></a>**Cloudflare Admin** | Weekly audit and tidy-up of your Cloudflare account: security gaps, waste, leftover resources, and cost risks, with fixes recommended and nothing changed without approval | [@jonbeckman](https://x.com/jonbeckman) | [Add](https://x.ai/bot/R8z7Gt048fEu5Z8xqtgTQ) |
 | <a id="bot-M67wmr4HRv74Xv6TF8qk8"></a>**Media Center Engineer** | Sets up a self-hosted streaming library for shows and movies you legally own, including the server, subtitles, backups, and a private web remote, explained in plain words | [@SnarfLab](https://x.com/SnarfLab) | [Add](https://x.ai/bot/M67wmr4HRv74Xv6TF8qk8) |
+| <a id="bot-dnCnydyRm8J_xYeekmVCp"></a>**Dry Run Lab** | Free, open-source network simulator: load your real router and switch configs, try a change, and see what breaks before you make it | [@pawel7](https://x.com/pawel7) | [Add](https://x.ai/bot/dnCnydyRm8J_xYeekmVCp) |
 
 ## <a id="wifi"></a>Wi-Fi, router & internet
 
@@ -83,6 +85,7 @@ Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home A
 | <a id="bot-J2KcLtVxkvCjXiChu2j_f"></a>**Ops Bot** | Keeps the tools, packages and connectors on your bots' shared computer installed, pinned, patched and healthy, with a rollback for every change | [@TheodosianMind7](https://x.com/TheodosianMind7) | [Add](https://x.ai/bot/J2KcLtVxkvCjXiChu2j_f) |
 | <a id="bot-9UZp5k0Fp0LYmkyos5swQ"></a>**Grok VM maintenance** | Looks after your bot's cloud Linux computer: installs, services, diagnostics, disk and memory reports; measures before it changes | [@old\_pgmrs\_will](https://x.com/old_pgmrs_will) | [Add](https://x.ai/bot/9UZp5k0Fp0LYmkyos5swQ) |
 | <a id="bot-a1QqX6YAK6rute6G0bb9h"></a>**Pulse · Gaming Laptop Tech** | Windows gaming-laptop tech that explains why your PC is slow, hot, loud, or acting up and gives ranked fixes; changes nothing without approval | [@Adamdesgns](https://x.com/Adamdesgns) | [Add](https://x.ai/bot/a1QqX6YAK6rute6G0bb9h) |
+| <a id="bot-QRlE_6dqqnXr_WRGr2eMU"></a>**helpdesk** | Tech broke? From Starlink dishes to laptops, describe it or send a photo and it walks you through the fix step by step, safest first (works with Starlink, not official) | [@moondough](https://x.com/moondough) | [Add](https://x.ai/bot/QRlE_6dqqnXr_WRGr2eMU) |
 
 ---
 

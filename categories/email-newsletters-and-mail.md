@@ -4,7 +4,7 @@
 
 Unsubscribe, cancel recurring charges, triage inboxes, and stop junk mail.
 
-**15** bots. Third-party and unofficial. Read the template before you add it.
+**18** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -23,6 +23,9 @@ Unsubscribe, cancel recurring charges, triage inboxes, and stop junk mail.
 - [Login Ledger](#bot-61VJpKKuiAnaJAZakWjdH)
 - [Porch](#bot-R_o82f2Mjkqo1PZKwL-NK)
 - [Karen the Canceller of Paid Subs](#bot-J92ojdzPDp37P2Pu_Opbx)
+- [Reply-Only Inbox](#bot-eLbpNePyctDIPNHImm6Qi)
+- [Inbox Sorter](#bot-j8yNU7RzUmN3oB3IrnRo8)
+- [Email Bot](#bot-v5U_zbJBHfp6jZU6R3buT)
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -41,6 +44,9 @@ Unsubscribe, cancel recurring charges, triage inboxes, and stop junk mail.
 | <a id="bot-61VJpKKuiAnaJAZakWjdH"></a>**Login Ledger** | Builds an index from your inbox of which email/username you used for every account (great for deletion requests). Never stores passwords | [@agent\_nick\_](https://x.com/agent_nick_) | [Add](https://x.ai/bot/61VJpKKuiAnaJAZakWjdH) |
 | <a id="bot-R_o82f2Mjkqo1PZKwL-NK"></a>**Porch** | Reads your USPS Informed Delivery daily and posts a clear list of incoming mail and packages | [@MiloniAdams](https://x.com/MiloniAdams) | [Add](https://x.ai/bot/R_o82f2Mjkqo1PZKwL-NK) |
 | <a id="bot-J92ojdzPDp37P2Pu_Opbx"></a>**Karen the Canceller of Paid Subs** | Finds paid subscriptions hiding in your inboxes, asks Keep or Cancel for each, then cancels the ones you pick and turns down retention offers | [@allanbranch](https://x.com/allanbranch) | [Add](https://x.ai/bot/J92ojdzPDp37P2Pu_Opbx) |
+| <a id="bot-eLbpNePyctDIPNHImm6Qi"></a>**Reply-Only Inbox** | Zeroes a huge unread pile, then only pings you for emails that actually need a reply; drafts stay behind your approval | [@TONYxTWO](https://x.com/TONYxTWO) | [Add](https://x.ai/bot/eLbpNePyctDIPNHImm6Qi) |
+| <a id="bot-j8yNU7RzUmN3oB3IrnRo8"></a>**Inbox Sorter** | Email triage that never sends: sorts mail into needs-reply, FYI, receipts and newsletters, flags the few that matter, and drafts replies | [@natebuildsgroks](https://x.com/natebuildsgroks) | [Add](https://x.ai/bot/j8yNU7RzUmN3oB3IrnRo8) |
+| <a id="bot-v5U_zbJBHfp6jZU6R3buT"></a>**Email Bot** | Hourly inbox triage across accounts: archives noise, unsubscribes from junk, keeps what needs you, and drafts replies in your voice; never sends | [@Austen](https://x.com/Austen) | [Add](https://x.ai/bot/v5U_zbJBHfp6jZU6R3buT) |
 
 ---
 

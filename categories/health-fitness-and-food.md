@@ -4,7 +4,7 @@
 
 Training, meals, insurance claims, and appointment prep.
 
-**6** bots. Third-party and unofficial. Read the template before you add it.
+**7** bots. Third-party and unofficial. Read the template before you add it.
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -14,6 +14,7 @@ Training, meals, insurance claims, and appointment prep.
 | <a id="bot-tyRlsV6jn7_vZpeNpFy-s"></a>**Sazón** | Turns what's in your kitchen into meals, with recipes, meal plans, shopping lists and allergen flags | [@Ortix008](https://x.com/Ortix008) | [Add](https://x.ai/bot/tyRlsV6jn7_vZpeNpFy-s) |
 | <a id="bot-gMrnNpgylgu11PImcWTdy"></a>**Personal Chef** | Plans weekly family dinners around budget and diet, prints recipe cards, loads a Walmart pickup cart | [@ChefMcMakin](https://x.com/ChefMcMakin) | [Add](https://x.ai/bot/gMrnNpgylgu11PImcWTdy) |
 | <a id="bot-zyD4E6ZPHByNTsEzWTxHV"></a>**Sobriety Bot** | Tracks your sobriety date and clean time, marks milestones, finds local AA and NA meetings, and digs into recovery literature | [@Dave04291978](https://x.com/Dave04291978) | [Add](https://x.ai/bot/zyD4E6ZPHByNTsEzWTxHV) |
+| <a id="bot-seHW20WXLntgNHX1mOOOV"></a>**Pantry And Shopping Manager** | Keeps a running inventory of your fridge, pantry and household supplies from photos and receipts, then builds a weekly shopping list grouped by aisle | [@Totao](https://x.com/Totao) | [Add](https://x.ai/bot/seHW20WXLntgNHX1mOOOV) |
 
 ---
 

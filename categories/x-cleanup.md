@@ -4,7 +4,7 @@
 
 Audit old posts and clean followers, following, and spam accounts on X.
 
-**12** bots. Third-party and unofficial. Read the template before you add it.
+**13** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -20,6 +20,7 @@ Audit old posts and clean followers, following, and spam accounts on X.
 - [Sneaky Unfollowers Caught](#bot-2IR-ABotGZ2crO8XoFYfc)
 - [X List Blocker](#bot-bF4hLOgzhJ1fezN3Ex7ry)
 - [Sweep · X Hygiene](#bot-LHzqMbOeyqA7GZV_aq6gD)
+- [Reply Guy Filter](#bot-Ziv_ijWI1Phj_3zk4I9nE)
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -35,6 +36,7 @@ Audit old posts and clean followers, following, and spam accounts on X.
 | <a id="bot-2IR-ABotGZ2crO8XoFYfc"></a>**Sneaky Unfollowers Caught** | Morning report of who followed back and who unfollowed you on X, with profile links | [@JVonFSDinMD](https://x.com/JVonFSDinMD) | [Add](https://x.ai/bot/2IR-ABotGZ2crO8XoFYfc) |
 | <a id="bot-bF4hLOgzhJ1fezN3Ex7ry"></a>**X List Blocker** | Finds the X lists you've been added to, flags hostile or spammy ones, and blocks only the list owners you approve | Pierce | [Add](https://x.ai/bot/bF4hLOgzhJ1fezN3Ex7ry) |
 | <a id="bot-LHzqMbOeyqA7GZV_aq6gD"></a>**Sweep · X Hygiene** | Reviews your X followers, who you follow, and replies on your posts; flags who to keep, remove, mute, or block and acts only on approved batches within safe daily limits | [@MstrHappyJustin](https://x.com/MstrHappyJustin) | [Add](https://x.ai/bot/LHzqMbOeyqA7GZV_aq6gD) |
+| <a id="bot-Ziv_ijWI1Phj_3zk4I9nE"></a>**Reply Guy Filter** | Daily digest of your X mentions: real conversations first with draft reply ideas, spam and scam accounts separated out; nothing posts without your OK | [@\_ARob](https://x.com/_ARob) | [Add](https://x.ai/bot/Ziv_ijWI1Phj_3zk4I9nE) |
 
 ---
 

@@ -1,5 +1,24 @@
 # Changelog
 
+## 2026-10-30
+
+Added 38 bots. Each new entry keeps `date_added: 2026-10-30`. Category and subcategory slugs already matched this list, so none were remapped. No existing name or link was duplicated, so none were skipped.
+
+- People-Search & Data Broker Removal (3): Privacy Shield, Privacy Bot, Cloaked Bot
+- Spam Calls & Do Not Call (3): Spam Shield, Political Spam Blocker, Spam Text Tracker
+- Email, Newsletters, Subscriptions & Physical Mail (3): Reply-Only Inbox, Inbox Sorter, Email Bot
+- X (Twitter) Cleanup (1): Reply Guy Filter
+- Security & Bot Safety (2): Inbox Injection Guard, DM Screen
+- Home Network, Smart Home & Tech Help (2): helpdesk, Dry Run Lab
+- Money, Bills & Insurance (7): Medical Bill Auditor, Unclaimed Money Finder, Ducat$ · Unclaimed Money, Subby, Refund & Renewal Tracker, Health Insurance Claims, Mortgage Servicer Desk (Beta)
+- Shopping, Deals & Packages (3): Receipt Keeper, Deal Hunter Pro, Vivian
+- Productivity, Research & News (3): Dropped-Ball Scanner, Bookmarks Brain, Doc Merger
+- Bot Tools (Manage Your Bots) (4): Bot Self Improvement, iMessage Relay, iOS Messages Connector, Grokbot Mail
+- Home, Car & Household (3): Civic & Utility Reporter, Car Review, Tesla Owners Bot
+- Health, Fitness & Food (1): Pantry And Shopping Manager
+- Career & Job Search (1): Azure DevOps Interview Coach
+- X Creators & Content (2): Spaces Recap, Giveaway Picker
+
 ## 2026-10-29
 
 Added 38 bots. Each new entry keeps `date_added: 2026-10-29`. Category and subcategory slugs already matched this list, so none were remapped. Creators with an empty `creator_handle` stay plain text: Pierce, Troy, SoCalFSD, Brian, and EVOO. Privacy Cleanup names no creator.

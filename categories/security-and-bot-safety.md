@@ -4,7 +4,7 @@
 
 Vet third-party bots before you add them, lock down accounts, catch scams, and watch for vulnerabilities that touch what you run.
 
-**47** bots. Third-party and unofficial. Read the template before you add it.
+**49** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -22,7 +22,19 @@ Vet third-party bots before you add them, lock down accounts, catch scams, and w
   - [BotSec](#bot-1YzVIsTRcLxaqlLZouJiB)
   - [Box Inspector](#bot-q7GLbLhMZDpJXBGuuci1J)
 - [Account security, breaches & identity](#account-security) (8)
-- [Scams, phishing & imposters](#scams-phishing) (10)
+- [Scams, phishing & imposters](#scams-phishing) (12)
+  - [Is This a Scam?](#bot-Jc3Eh6tRUvTLYqdGjTm7q)
+  - [Scam Check](#bot-t9mlx--OQnQ2itHxQYQmd)
+  - [Inbox Guardian](#bot-n6bSJ2vt2rZuIQahc6G1h)
+  - [Scam Guard (inbox)](#bot-6kHbobtMr8SAM91KgxHcw)
+  - [Mailman](#bot-JpyZ_4XxyarEASAyt4OWJ)
+  - [Columbo](#bot-4FhgQWGMAq25XrprzX6Dh)
+  - [𝕏 Imposter Account Checker](#bot-n1-T2WUHMQ9YfkdD-raZU)
+  - [Botman](#bot-ZsgeyFyAlUtxHbRgDBZqx)
+  - [Crypto Scam Shield](#bot-yu5DTLbi2VHKOSGJdZ6zk)
+  - [Scam Email Detector](#bot-E3_qOY1VUJWZMh2inUvwT)
+  - [Inbox Injection Guard](#bot-lsXZ6NdEqAdCHe8z88QAl)
+  - [DM Screen](#bot-94kCbVV39EYR-lt_PaFJF)
 - [Vulnerabilities, patches, domains & code](#vulnerabilities) (17)
   - [Patch Alert](#bot-GJ6wSFte1rfQRD8oZVrpK)
   - [Vuln Scout](#bot-IiV3YZZ2TAF63sPORZmWy)
@@ -86,6 +98,8 @@ Vet third-party bots before you add them, lock down accounts, catch scams, and w
 | <a id="bot-ZsgeyFyAlUtxHbRgDBZqx"></a>**Botman** | Detective bot that vets your followers, DMs, lists and inbox and writes evidence-backed case files on scammers, bots and impersonators | [@Rune\_King\_Jake](https://x.com/Rune_King_Jake) | [Add](https://x.ai/bot/ZsgeyFyAlUtxHbRgDBZqx) |
 | <a id="bot-yu5DTLbi2VHKOSGJdZ6zk"></a>**Crypto Scam Shield** | Friendly coach that teaches how to spot crypto scams, with quizzes, examples, and link or message checks | [@allthemoney](https://x.com/allthemoney) | [Add](https://x.ai/bot/yu5DTLbi2VHKOSGJdZ6zk) |
 | <a id="bot-E3_qOY1VUJWZMh2inUvwT"></a>**Scam Email Detector** | Watches your inbox and warns you about phishing and scam emails before you fall for them; quiet otherwise | [@DirtyTesLa](https://x.com/DirtyTesLa) | [Add](https://x.ai/bot/E3_qOY1VUJWZMh2inUvwT) |
+| <a id="bot-lsXZ6NdEqAdCHe8z88QAl"></a>**Inbox Injection Guard** | Screens your email for hidden instructions aimed at AI assistants (white text, zero-width characters, "ignore previous instructions") and flags them without ever following them | [@teeRex247](https://x.com/teeRex247) | [Add](https://x.ai/bot/lsXZ6NdEqAdCHe8z88QAl) |
+| <a id="bot-94kCbVV39EYR-lt_PaFJF"></a>**DM Screen** | Screens new X DMs and message requests every night, flags scams and pitches, and drafts short replies to the real ones for you to send; can't reply or block on its own | [@JonHolland1776](https://x.com/JonHolland1776) | [Add](https://x.ai/bot/94kCbVV39EYR-lt_PaFJF) |
 
 ## <a id="vulnerabilities"></a>Vulnerabilities, patches, domains & code
 

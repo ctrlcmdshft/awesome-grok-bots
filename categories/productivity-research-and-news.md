@@ -4,7 +4,7 @@
 
 Research, news, reading, and learning.
 
-**7** bots. Third-party and unofficial. Read the template before you add it.
+**10** bots. Third-party and unofficial. Read the template before you add it.
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -15,6 +15,9 @@ Research, news, reading, and learning.
 | <a id="bot-LXZMn9iFYykfjhOdwffV6"></a>**Kindle Courier** | Turns articles, X posts/threads and video links into checked EPUBs and emails them to your Kindle | [@DomainMaster](https://x.com/DomainMaster) | [Add](https://x.ai/bot/LXZMn9iFYykfjhOdwffV6) |
 | <a id="bot-WjQ0Az3myfhbARRzoAK89"></a>**Max News** | Short, neutral news briefs on your topics and area a few times a day, every story linked to its source | [@jimaggie](https://x.com/jimaggie) | [Add](https://x.ai/bot/WjQ0Az3myfhbARRzoAK89) |
 | <a id="bot-x24KSm9R7DzNiaSeekeKY"></a>**Course Builder & Coach** | Name a skill + daily time; it builds a course with short lessons, quizzes, flashcards, progress tracking and optional daily coaching | [@JesseHeredia](https://x.com/JesseHeredia) | [Add](https://x.ai/bot/x24KSm9R7DzNiaSeekeKY) |
+| <a id="bot-E-uo4CQ__9GjtWYhWLPQF"></a>**Dropped-Ball Scanner** | Evening sweep of your email, texts, chat and meeting notes that catches unanswered asks and promises you made, ranked by how much they matter | [@Austen](https://x.com/Austen) | [Add](https://x.ai/bot/E-uo4CQ__9GjtWYhWLPQF) |
+| <a id="bot-e6ZhqDkcH5ch4vCMwvpvp"></a>**Bookmarks Brain** | Turns your X bookmarks into a searchable Markdown wiki with topic pages, saved in Git and updated weekly; only reads X and never posts | [@sayfism](https://x.com/sayfism) | [Add](https://x.ai/bot/e6ZhqDkcH5ch4vCMwvpvp) |
+| <a id="bot-tMEJdHdRUQHgQMOOy-xjj"></a>**Doc Merger** | Turns a scattered pile of documents into one master file (PDF plus HTML, Word and TXT) with an ordered table of contents and a check that every file made it in | [@BrianRoemmele](https://x.com/BrianRoemmele) | [Add](https://x.ai/bot/tMEJdHdRUQHgQMOOy-xjj) |
 
 ---
 

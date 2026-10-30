@@ -4,7 +4,24 @@
 
 Build plugins, cut routine usage, and back up bot setups.
 
-**10** bots. Third-party and unofficial. Read the template before you add it.
+**14** bots. Third-party and unofficial. Read the template before you add it.
+
+## On this page
+
+- [TinkaBot](#bot-br5f3C4mc75QCMEHaszXd)
+- [Script This Routine](#bot-9E8iw2zlg2fTWzUT6RUsP)
+- [Burn Watch](#bot-JEpich3S4Dlid1ACt3I6v)
+- [Backup Bot](#bot-rqXQbdE-1PSCsqgjRyFVz)
+- [Libby, Tool Scout](#bot-8tBB5UzziKPPu8TQKTTET)
+- [Future-Proof](#bot-2H9rDVs8A77MvizZ-hjGb)
+- [Backup Bot](#bot-G3Du-G9_8zTwynr6sl9Z2)
+- [Save Usage Bot](#bot-fSPQ2Eng6g8gZppDTf0QV)
+- [Archivist](#bot-vAgUsbH4SHOudh96KXEk0)
+- [Penny DOGE](#bot-ddv4iJmX4WD1mU2s7WPm0)
+- [Bot Self Improvement](#bot-9BHgJqRj-s38cp8vfMQUc)
+- [iMessage Relay](#bot-HeVOGnrIY9oMcgGkl3hO5)
+- [iOS Messages Connector](#bot-sleuFUT9GdxW2e4eyRAv7)
+- [Grokbot Mail](#bot-vHWtUqHtdpfhnwTFOfEVT)
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -18,6 +35,10 @@ Build plugins, cut routine usage, and back up bot setups.
 | <a id="bot-fSPQ2Eng6g8gZppDTf0QV"></a>**Save Usage Bot** | Audits what your bots do on repeat and turns no-judgment checks into plain scripts that only wake a bot on a change, with dry run, fallback, rollback, and a savings report | [@howdyollie](https://x.com/howdyollie) | [Add](https://x.ai/bot/fSPQ2Eng6g8gZppDTf0QV) |
 | <a id="bot-vAgUsbH4SHOudh96KXEk0"></a>**Archivist** | Reads your bots' chats weekly, finds standing instructions you gave (always, never, from now on), and adds any missing ones to each bot after you approve | [@Phil\_Holland](https://x.com/Phil_Holland) | [Add](https://x.ai/bot/vAgUsbH4SHOudh96KXEk0) |
 | <a id="bot-ddv4iJmX4WD1mU2s7WPm0"></a>**Penny DOGE** | Finds where your Grok Bot fleet wastes usage and ranks the fixes; recommend-only, works from a weekly scan or a pasted Usage screenshot | [@BowieHole](https://x.com/BowieHole) | [Add](https://x.ai/bot/ddv4iJmX4WD1mU2s7WPm0) |
+| <a id="bot-9BHgJqRj-s38cp8vfMQUc"></a>**Bot Self Improvement** | Upload your Grok Bot usage export and get an audit of where your tokens go, which runs repeat without adding much, and which tasks a bot can fully own | [@BrianRoemmele](https://x.com/BrianRoemmele) | [Add](https://x.ai/bot/9BHgJqRj-s38cp8vfMQUc) |
+| <a id="bot-HeVOGnrIY9oMcgGkl3hO5"></a>**iMessage Relay** | Brings your iMessages into X Chat so you can reply from there: one-minute Mac setup, picked contacts or all texts, quiet hours and one-tap /block | [@Phil\_Holland](https://x.com/Phil_Holland) | [Add](https://x.ai/bot/HeVOGnrIY9oMcgGkl3hO5) |
+| <a id="bot-sleuFUT9GdxW2e4eyRAv7"></a>**iOS Messages Connector** | Sets up BlueBubbles on an always-on Mac so your bots can read and send iMessages, then checks hourly and only speaks up if it goes down | [@Austen](https://x.com/Austen) | [Add](https://x.ai/bot/sleuFUT9GdxW2e4eyRAv7) |
+| <a id="bot-vHWtUqHtdpfhnwTFOfEVT"></a>**Grokbot Mail** | Private, iPhone-first web mailbox for your Grok Bot's own email address (name@mail.grokbot.com and +tags), hosted on your own Vercel account | [@Phil\_Holland](https://x.com/Phil_Holland) | [Add](https://x.ai/bot/vHWtUqHtdpfhnwTFOfEVT) |
 
 ---
 
