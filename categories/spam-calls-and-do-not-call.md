@@ -4,7 +4,7 @@
 
 Get a number off telemarketer lists, report scam calls, and screen suspicious calls.
 
-**6** bots. Third-party and unofficial. Read the template before you add it.
+**7** bots. Third-party and unofficial. Read the template before you add it.
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -14,6 +14,7 @@ Get a number off telemarketer lists, report scam calls, and screen suspicious ca
 | <a id="bot-9puPR_lskbfu1RTohZ3al"></a>**UK Spam Call Eraser** | UK-focused: TPS registration, data broker removals, UK GDPR erasure | [@AKAMoneyX](https://x.com/AKAMoneyX) | [Add](https://x.ai/bot/9puPR_lskbfu1RTohZ3al) |
 | <a id="bot-qZcBjyxPRa1kWJ_sel0gv"></a>**FTC Report Scam Call** | Paste a scam voicemail, script, or number and it files the FTC fraud report for you and returns the confirmation | [@timsonner](https://x.com/timsonner) | [Add](https://x.ai/bot/qZcBjyxPRa1kWJ_sel0gv) |
 | <a id="bot-ZSSddVUqIl5e6JCa4fDAh"></a>**Scam Guard** | Family scam defense: family safe word, Safe/Caution/Scam verdict on any call, text, email, link, or DM | [@SpaceCowgirlTX](https://x.com/SpaceCowgirlTX) | [Add](https://x.ai/bot/ZSSddVUqIl5e6JCa4fDAh) |
+| <a id="bot-prBxgPrTLksDPKXHFrpyw"></a>**UK Spam-Call Scrubber** | UK-focused: cuts unwanted calls and removes your details from UK people-search sites using free official opt-outs like TPS and site removal forms | [@sbalujaish](https://x.com/sbalujaish) | [Add](https://x.ai/bot/prBxgPrTLksDPKXHFrpyw) |
 
 ---
 

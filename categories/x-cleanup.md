@@ -4,7 +4,22 @@
 
 Audit old posts and clean followers, following, and spam accounts on X.
 
-**10** bots. Third-party and unofficial. Read the template before you add it.
+**12** bots. Third-party and unofficial. Read the template before you add it.
+
+## On this page
+
+- [Old Posts Auditor](#bot-KPK89zuI30cV2Cz35s71s)
+- [Delete My Tweets!](#bot-8xSL_TV4XPZZufWeQrgmv)
+- [Dead Follows Flagger](#bot-GLkZ4GfvYpQCSJnRIjP7v)
+- [Bot Purge](#bot-fqvXG0FbSG32Y6A0cvGQP)
+- [Bot Terminator](#bot-6sN-FSvkf_ntuqe-3Ofjz)
+- [X Guard](#bot-DrD3msLXqCwax7SUDyQGy)
+- [X Follower Spam Scanner](#bot-sN4FX1kmXF5n1RW8JNorL)
+- [Social Media Auditor](#bot-DGDeN5rC5ACPMHe0g__qh)
+- [X Hygiene](#bot-joKOyN0KrQlgNHpda7iii)
+- [Sneaky Unfollowers Caught](#bot-2IR-ABotGZ2crO8XoFYfc)
+- [X List Blocker](#bot-bF4hLOgzhJ1fezN3Ex7ry)
+- [Sweep · X Hygiene](#bot-LHzqMbOeyqA7GZV_aq6gD)
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -18,6 +33,8 @@ Audit old posts and clean followers, following, and spam accounts on X.
 | <a id="bot-DGDeN5rC5ACPMHe0g__qh"></a>**Social Media Auditor** | Social media privacy/audit focused bot | [@JennyMarquis](https://x.com/JennyMarquis) | [Add](https://x.ai/bot/DGDeN5rC5ACPMHe0g__qh) |
 | <a id="bot-joKOyN0KrQlgNHpda7iii"></a>**X Hygiene** | Cleans up followers and following: cost estimate first, then ranked unfollow/block lists. Never acts alone | [@bradshannon](https://x.com/bradshannon) | [Add](https://x.ai/bot/joKOyN0KrQlgNHpda7iii) |
 | <a id="bot-2IR-ABotGZ2crO8XoFYfc"></a>**Sneaky Unfollowers Caught** | Morning report of who followed back and who unfollowed you on X, with profile links | [@JVonFSDinMD](https://x.com/JVonFSDinMD) | [Add](https://x.ai/bot/2IR-ABotGZ2crO8XoFYfc) |
+| <a id="bot-bF4hLOgzhJ1fezN3Ex7ry"></a>**X List Blocker** | Finds the X lists you've been added to, flags hostile or spammy ones, and blocks only the list owners you approve | Pierce | [Add](https://x.ai/bot/bF4hLOgzhJ1fezN3Ex7ry) |
+| <a id="bot-LHzqMbOeyqA7GZV_aq6gD"></a>**Sweep · X Hygiene** | Reviews your X followers, who you follow, and replies on your posts; flags who to keep, remove, mute, or block and acts only on approved batches within safe daily limits | [@MstrHappyJustin](https://x.com/MstrHappyJustin) | [Add](https://x.ai/bot/LHzqMbOeyqA7GZV_aq6gD) |
 
 ---
 

@@ -4,14 +4,26 @@
 
 Vet third-party bots before you add them, lock down accounts, catch scams, and watch for vulnerabilities that touch what you run.
 
-**42** bots. Third-party and unofficial. Read the template before you add it.
+**47** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
-- [Vet bots & protect your bot fleet](#vet-bots) (11)
+- [Vet bots & protect your bot fleet](#vet-bots) (12)
+  - [Bouncer](#bot-o2OyTjWlNOUdYwr61prw_)
+  - [Template Safety Checker](#bot-8JbRKMaD-VrcN_QyitMXN)
+  - [Doorcheck](#bot-bDhYfDe0sPlaVI9zMmZ4e)
+  - [RepoBeagle](#bot-bTuuNK785OULBheQ5rPZ-)
+  - [Watchtower (beta)](#bot-wJTXth8eiaaJpayeryWEd)
+  - [Sentinel](#bot-cym0KqdWV_3AguYOphSBv)
+  - [Guardian](#bot-jw-g2H0t8ddd54NW2kCmG)
+  - [Security Bot](#bot-oQxAmMC8N8HCKqP2Tz85n)
+  - [Security Warden](#bot-Y3xV-T0yxz2UihvOrlIK6)
+  - [Security (gatekeeper)](#bot-DWcrUM2ZY3g7lhp0pPA5l)
+  - [BotSec](#bot-1YzVIsTRcLxaqlLZouJiB)
+  - [Box Inspector](#bot-q7GLbLhMZDpJXBGuuci1J)
 - [Account security, breaches & identity](#account-security) (8)
-- [Scams, phishing & imposters](#scams-phishing) (9)
-- [Vulnerabilities, patches, domains & code](#vulnerabilities) (14)
+- [Scams, phishing & imposters](#scams-phishing) (10)
+- [Vulnerabilities, patches, domains & code](#vulnerabilities) (17)
   - [Patch Alert](#bot-GJ6wSFte1rfQRD8oZVrpK)
   - [Vuln Scout](#bot-IiV3YZZ2TAF63sPORZmWy)
   - [Heimdall](#bot-aYIBdTMOCAAdiLsN1iY5o)
@@ -26,6 +38,9 @@ Vet third-party bots before you add them, lock down accounts, catch scams, and w
   - [Web Security Audit](#bot-Xdx94lJlv-xK14WF6yzVR)
   - [App Security Tester](#bot-3h643OPVhZDt5iS_mKw_7)
   - [Mood Security](#bot-CJvgkBx_INfugO8TtH7gp)
+  - [Canary](#bot-pDA__B7cYeXbmPXgF7eAc)
+  - [Zero-Day Desk](#bot-MIF3DpuTKJATe0hCoUIBO)
+  - [Vibe Check](#bot-lZrmKRND39ClHnQJj6C9A)
 
 ## <a id="vet-bots"></a>Vet bots & protect your bot fleet
 
@@ -42,6 +57,7 @@ Vet third-party bots before you add them, lock down accounts, catch scams, and w
 | <a id="bot-Y3xV-T0yxz2UihvOrlIK6"></a>**Security Warden** | Second opinion before risky bot actions: reviews proposed sends, deletes and shell commands for secrets and personal info | [@myrrazor](https://x.com/myrrazor) | [Add](https://x.ai/bot/Y3xV-T0yxz2UihvOrlIK6) |
 | <a id="bot-DWcrUM2ZY3g7lhp0pPA5l"></a>**Security (gatekeeper)** | Your other bots pass it incoming emails and outside data first, and it checks for prompt injection | [@Johnson20062123](https://x.com/Johnson20062123) | [Add](https://x.ai/bot/DWcrUM2ZY3g7lhp0pPA5l) |
 | <a id="bot-1YzVIsTRcLxaqlLZouJiB"></a>**BotSec** | Head of security for a home with several bots: checks email for phishing and social-engineering tells, headers and links | [@scardinafineart](https://x.com/scardinafineart) | [Add](https://x.ai/bot/1YzVIsTRcLxaqlLZouJiB) |
+| <a id="bot-q7GLbLhMZDpJXBGuuci1J"></a>**Box Inspector** | Paste a Grok Bot share link before you Add it; dumps the persona, skills, routines, memories, and plugins inside, flags risks, and never adds anything for you | [@SuddenlyJon](https://x.com/SuddenlyJon) | [Add](https://x.ai/bot/q7GLbLhMZDpJXBGuuci1J) |
 
 ## <a id="account-security"></a>Account security, breaches & identity
 
@@ -69,6 +85,7 @@ Vet third-party bots before you add them, lock down accounts, catch scams, and w
 | <a id="bot-n1-T2WUHMQ9YfkdD-raZU"></a>**𝕏 Imposter Account Checker** | Searches X daily for accounts impersonating you, writes them up for you to report, and tells you when X suspends them | [@TeslaAIBot](https://x.com/TeslaAIBot) | [Add](https://x.ai/bot/n1-T2WUHMQ9YfkdD-raZU) |
 | <a id="bot-ZsgeyFyAlUtxHbRgDBZqx"></a>**Botman** | Detective bot that vets your followers, DMs, lists and inbox and writes evidence-backed case files on scammers, bots and impersonators | [@Rune\_King\_Jake](https://x.com/Rune_King_Jake) | [Add](https://x.ai/bot/ZsgeyFyAlUtxHbRgDBZqx) |
 | <a id="bot-yu5DTLbi2VHKOSGJdZ6zk"></a>**Crypto Scam Shield** | Friendly coach that teaches how to spot crypto scams, with quizzes, examples, and link or message checks | [@allthemoney](https://x.com/allthemoney) | [Add](https://x.ai/bot/yu5DTLbi2VHKOSGJdZ6zk) |
+| <a id="bot-E3_qOY1VUJWZMh2inUvwT"></a>**Scam Email Detector** | Watches your inbox and warns you about phishing and scam emails before you fall for them; quiet otherwise | [@DirtyTesLa](https://x.com/DirtyTesLa) | [Add](https://x.ai/bot/E3_qOY1VUJWZMh2inUvwT) |
 
 ## <a id="vulnerabilities"></a>Vulnerabilities, patches, domains & code
 
@@ -88,6 +105,9 @@ Vet third-party bots before you add them, lock down accounts, catch scams, and w
 | <a id="bot-Xdx94lJlv-xK14WF6yzVR"></a>**Web Security Audit** | Defensive reviewer for websites and repos you own; P0/P1/P2 findings with evidence, no exploit PoCs, no auto-fixes | [@pareshdesai](https://x.com/pareshdesai) | [Add](https://x.ai/bot/Xdx94lJlv-xK14WF6yzVR) |
 | <a id="bot-3h643OPVhZDt5iS_mKw_7"></a>**App Security Tester** | Threat-models and security-tests your own web and mobile apps like an attacker would, then ranks the fixes | [@OutworkVentures](https://x.com/OutworkVentures) | [Add](https://x.ai/bot/3h643OPVhZDt5iS_mKw_7) |
 | <a id="bot-CJvgkBx_INfugO8TtH7gp"></a>**Mood Security** | (Spanish) Weekly read-only audit of your GitHub repos: leaked secrets incl. history, vulnerable dependencies, branch protection | [@bdvd\_25](https://x.com/bdvd_25) | [Add](https://x.ai/bot/CJvgkBx_INfugO8TtH7gp) |
+| <a id="bot-pDA__B7cYeXbmPXgF7eAc"></a>**Canary** | Advisory-only watchdog that flags newly disclosed critical or actively exploited vulnerabilities affecting your actual devices and bot computers, then recommends the manual fix | [@gambrill](https://x.com/gambrill) | [Add](https://x.ai/bot/pDA__B7cYeXbmPXgF7eAc) |
+| <a id="bot-MIF3DpuTKJATe0hCoUIBO"></a>**Zero-Day Desk** | Read-only zero-day analyst: each weekday turns CISA KEV, NVD, EPSS, OSV, GitHub advisories, and vendor bulletins into a short cited brief ranked for your stack | [@NeedMoreManas](https://x.com/NeedMoreManas) | [Add](https://x.ai/bot/MIF3DpuTKJATe0hCoUIBO) |
+| <a id="bot-lZrmKRND39ClHnQJj6C9A"></a>**Vibe Check** | Audits an AI-built (vibe-coded) app for production gaps in security, data, auth, billing, and ops, and returns a ranked fix list | Troy | [Add](https://x.ai/bot/lZrmKRND39ClHnQJj6C9A) |
 
 ---
 

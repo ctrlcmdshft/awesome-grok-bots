@@ -4,7 +4,7 @@
 
 Find people-search and data-broker listings, file removals, and recheck.
 
-**13** bots. Third-party and unofficial. Read the template before you add it.
+**14** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -21,6 +21,7 @@ Find people-search and data-broker listings, file removals, and recheck.
 - [Personal Information Removal](#bot-k9bVTKlulPhY337O9us_O)
 - [Agent Zero](#bot-DFnZYjCELW2QdywUWZRiG)
 - [Remove Me](#bot-qlDBDdHjGkHD9pka-9fRy)
+- [Arthur](#bot-0n3_NyM3Y_LZ8dbMnncmc)
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -37,6 +38,7 @@ Find people-search and data-broker listings, file removals, and recheck.
 | <a id="bot-k9bVTKlulPhY337O9us_O"></a>**Personal Information Removal** | Dedicated personal info removal bot | [@TechGeekAnthony](https://x.com/TechGeekAnthony) | [Add](https://x.ai/bot/k9bVTKlulPhY337O9us_O) |
 | <a id="bot-DFnZYjCELW2QdywUWZRiG"></a>**Agent Zero** | Finds your listings on people-search and data-broker sites and files removal requests with your consent | [@liam\_fallen](https://x.com/liam_fallen) | [Add](https://x.ai/bot/DFnZYjCELW2QdywUWZRiG) |
 | <a id="bot-qlDBDdHjGkHD9pka-9fRy"></a>**Remove Me** | Finds you on people-search sites, data brokers, old forums and scraper directories; sends approved removals from your own email; rechecks in 30 days | [@OutworkVentures](https://x.com/OutworkVentures) | [Add](https://x.ai/bot/qlDBDdHjGkHD9pka-9fRy) |
+| <a id="bot-0n3_NyM3Y_LZ8dbMnncmc"></a>**Arthur** | Finds your name, phone, and address on people-search sites and spam lists, files the opt-outs, and keeps rechecking so they stay gone | [@congressdj](https://x.com/congressdj) | [Add](https://x.ai/bot/0n3_NyM3Y_LZ8dbMnncmc) |
 
 ---
 

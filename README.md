@@ -1,9 +1,9 @@
 # Awesome Grok Bots
 
-[![Bots](https://img.shields.io/badge/bots-177-2563eb?style=flat-square)](#categories)
-[![Updated October 27, 2026](https://img.shields.io/badge/updated-2026--10--27-64748b?style=flat-square)](CHANGELOG.md)
+[![Bots](https://img.shields.io/badge/bots-215-2563eb?style=flat-square)](#categories)
+[![Updated October 29, 2026](https://img.shields.io/badge/updated-2026--10--29-64748b?style=flat-square)](CHANGELOG.md)
 
-A curated list of **177** third-party Grok Bots. Privacy and cleanup come first: people-search removals, spam, inboxes, and old posts. The rest cover security, home network, money, shopping, productivity, and everyday life.
+A curated list of **215** third-party Grok Bots. Privacy and cleanup come first: people-search removals, spam, inboxes, and old posts. The rest cover security, home network, money, shopping, productivity, and everyday life.
 
 These bots are unofficial and third-party. They are not made or endorsed by xAI. Review each bot before you add it. Most ask before they send email, file a form, delete, or block anything.
 
@@ -16,25 +16,25 @@ Counts and category pages are generated from [`data/bots.yaml`](data/bots.yaml).
 - [Recently added](#recently-added)
 - [Categories](#categories)
   - [Privacy and cleanup](#privacy)
-    - [People-Search & Data Broker Removal](categories/people-search-and-data-brokers.md) (13)
-    - [Spam Calls & Do Not Call](categories/spam-calls-and-do-not-call.md) (6)
-    - [Email, Newsletters, Subscriptions & Physical Mail](categories/email-newsletters-and-mail.md) (14)
-    - [X (Twitter) Cleanup](categories/x-cleanup.md) (10)
-    - [Bonus / Adjacent](categories/bonus-and-adjacent.md) (4)
+    - [People-Search & Data Broker Removal](categories/people-search-and-data-brokers.md) (14)
+    - [Spam Calls & Do Not Call](categories/spam-calls-and-do-not-call.md) (7)
+    - [Email, Newsletters, Subscriptions & Physical Mail](categories/email-newsletters-and-mail.md) (15)
+    - [X (Twitter) Cleanup](categories/x-cleanup.md) (12)
+    - [Bonus / Adjacent](categories/bonus-and-adjacent.md) (5)
   - [Security and home network](#security)
-    - [Security & Bot Safety](categories/security-and-bot-safety.md) (42)
-    - [Home Network, Smart Home & Tech Help](categories/home-network-and-tech.md) (30)
+    - [Security & Bot Safety](categories/security-and-bot-safety.md) (47)
+    - [Home Network, Smart Home & Tech Help](categories/home-network-and-tech.md) (35)
   - [Money and shopping](#money)
-    - [Money, Bills & Insurance](categories/money-bills-and-insurance.md) (9)
-    - [Shopping, Deals & Packages](categories/shopping-deals-and-packages.md) (6)
+    - [Money, Bills & Insurance](categories/money-bills-and-insurance.md) (14)
+    - [Shopping, Deals & Packages](categories/shopping-deals-and-packages.md) (10)
   - [Work and tools](#work)
     - [Productivity, Research & News](categories/productivity-research-and-news.md) (7)
     - [Developer & Power-User](categories/developer-and-power-user.md) (6)
-    - [Bot Tools (Manage Your Bots)](categories/bot-tools.md) (5)
+    - [Bot Tools (Manage Your Bots)](categories/bot-tools.md) (10)
   - [Home and life](#life)
-    - [Home, Car & Household](categories/home-car-and-household.md) (5)
-    - [Health, Fitness & Food](categories/health-fitness-and-food.md) (5)
-    - [Travel](categories/travel.md) (5)
+    - [Home, Car & Household](categories/home-car-and-household.md) (11)
+    - [Health, Fitness & Food](categories/health-fitness-and-food.md) (6)
+    - [Travel](categories/travel.md) (6)
     - [Career & Job Search](categories/career-and-job-search.md) (3)
     - [X Creators & Content](categories/x-creators-and-content.md) (3)
     - [Fun & Lifestyle](categories/fun-and-lifestyle.md) (4)
@@ -66,28 +66,23 @@ More combinations are on [Suggested Stacks](guides/suggested-stacks.md).
 <a id="recently-added"></a>
 ## Recently added
 
-177 bots have `date_added` on October 27, 2026. This section lists each bot when that date has 20 or fewer. This one is larger, so here is the count by category.
+38 bots have `date_added` on October 29, 2026. This section lists each bot when that date has 20 or fewer. This one is larger, so here is the count by category.
 
 | Category | Bots |
 | --- | --- |
-| [People-Search & Data Broker Removal](categories/people-search-and-data-brokers.md) | 13 |
-| [Spam Calls & Do Not Call](categories/spam-calls-and-do-not-call.md) | 6 |
-| [Email, Newsletters, Subscriptions & Physical Mail](categories/email-newsletters-and-mail.md) | 14 |
-| [X (Twitter) Cleanup](categories/x-cleanup.md) | 10 |
-| [Bonus / Adjacent](categories/bonus-and-adjacent.md) | 4 |
-| [Security & Bot Safety](categories/security-and-bot-safety.md) | 42 |
-| [Home Network, Smart Home & Tech Help](categories/home-network-and-tech.md) | 30 |
-| [Money, Bills & Insurance](categories/money-bills-and-insurance.md) | 9 |
-| [Shopping, Deals & Packages](categories/shopping-deals-and-packages.md) | 6 |
-| [Productivity, Research & News](categories/productivity-research-and-news.md) | 7 |
-| [Developer & Power-User](categories/developer-and-power-user.md) | 6 |
+| [People-Search & Data Broker Removal](categories/people-search-and-data-brokers.md) | 1 |
+| [Spam Calls & Do Not Call](categories/spam-calls-and-do-not-call.md) | 1 |
+| [Email, Newsletters, Subscriptions & Physical Mail](categories/email-newsletters-and-mail.md) | 1 |
+| [X (Twitter) Cleanup](categories/x-cleanup.md) | 2 |
+| [Bonus / Adjacent](categories/bonus-and-adjacent.md) | 1 |
+| [Security & Bot Safety](categories/security-and-bot-safety.md) | 5 |
+| [Home Network, Smart Home & Tech Help](categories/home-network-and-tech.md) | 5 |
+| [Money, Bills & Insurance](categories/money-bills-and-insurance.md) | 5 |
+| [Shopping, Deals & Packages](categories/shopping-deals-and-packages.md) | 4 |
 | [Bot Tools (Manage Your Bots)](categories/bot-tools.md) | 5 |
-| [Home, Car & Household](categories/home-car-and-household.md) | 5 |
-| [Health, Fitness & Food](categories/health-fitness-and-food.md) | 5 |
-| [Travel](categories/travel.md) | 5 |
-| [Career & Job Search](categories/career-and-job-search.md) | 3 |
-| [X Creators & Content](categories/x-creators-and-content.md) | 3 |
-| [Fun & Lifestyle](categories/fun-and-lifestyle.md) | 4 |
+| [Home, Car & Household](categories/home-car-and-household.md) | 6 |
+| [Health, Fitness & Food](categories/health-fitness-and-food.md) | 1 |
+| [Travel](categories/travel.md) | 1 |
 
 <a id="categories"></a>
 ## Categories
@@ -97,27 +92,27 @@ More combinations are on [Suggested Stacks](guides/suggested-stacks.md).
 
 Removing personal data, stopping spam, cleaning inboxes, and shrinking an online footprint.
 
-- [**People-Search & Data Broker Removal**](categories/people-search-and-data-brokers.md) (13) — Find people-search and data-broker listings, file removals, and recheck.
-- [**Spam Calls & Do Not Call**](categories/spam-calls-and-do-not-call.md) (6) — Get a number off telemarketer lists, report scam calls, and screen suspicious calls.
-- [**Email, Newsletters, Subscriptions & Physical Mail**](categories/email-newsletters-and-mail.md) (14) — Unsubscribe, cancel recurring charges, triage inboxes, and stop junk mail.
-- [**X (Twitter) Cleanup**](categories/x-cleanup.md) (10) — Audit old posts and clean followers, following, and spam accounts on X.
-- [**Bonus / Adjacent**](categories/bonus-and-adjacent.md) (4) — Nearby privacy jobs: credit-report errors, phishing checks, account lockdown, and refunds.
+- [**People-Search & Data Broker Removal**](categories/people-search-and-data-brokers.md) (14) — Find people-search and data-broker listings, file removals, and recheck.
+- [**Spam Calls & Do Not Call**](categories/spam-calls-and-do-not-call.md) (7) — Get a number off telemarketer lists, report scam calls, and screen suspicious calls.
+- [**Email, Newsletters, Subscriptions & Physical Mail**](categories/email-newsletters-and-mail.md) (15) — Unsubscribe, cancel recurring charges, triage inboxes, and stop junk mail.
+- [**X (Twitter) Cleanup**](categories/x-cleanup.md) (12) — Audit old posts and clean followers, following, and spam accounts on X.
+- [**Bonus / Adjacent**](categories/bonus-and-adjacent.md) (5) — Nearby privacy jobs: credit-report errors, phishing checks, account lockdown, and refunds.
 
 <a id="security"></a>
 ### Security and home network
 
 Vetting bots, account security, scams, patches, and the home network.
 
-- [**Security & Bot Safety**](categories/security-and-bot-safety.md) (42) — Vet third-party bots before you add them, lock down accounts, catch scams, and watch for vulnerabilities that touch what you run.
-- [**Home Network, Smart Home & Tech Help**](categories/home-network-and-tech.md) (30) — Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home Assistant, and everyday tech help.
+- [**Security & Bot Safety**](categories/security-and-bot-safety.md) (47) — Vet third-party bots before you add them, lock down accounts, catch scams, and watch for vulnerabilities that touch what you run.
+- [**Home Network, Smart Home & Tech Help**](categories/home-network-and-tech.md) (35) — Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home Assistant, and everyday tech help.
 
 <a id="money"></a>
 ### Money and shopping
 
 Bills, insurance, shopping, and packages.
 
-- [**Money, Bills & Insurance**](categories/money-bills-and-insurance.md) (9) — Cut bills, find money you may be owed, and track spending, taxes, and insurance.
-- [**Shopping, Deals & Packages**](categories/shopping-deals-and-packages.md) (6) — Compare prices, watch drops, track packages, and shop for cars or resale.
+- [**Money, Bills & Insurance**](categories/money-bills-and-insurance.md) (14) — Cut bills, find money you may be owed, and track spending, taxes, and insurance.
+- [**Shopping, Deals & Packages**](categories/shopping-deals-and-packages.md) (10) — Compare prices, watch drops, track packages, and shop for cars or resale.
 
 <a id="work"></a>
 ### Work and tools
@@ -126,16 +121,16 @@ Research, developer tools, and bots that manage other bots.
 
 - [**Productivity, Research & News**](categories/productivity-research-and-news.md) (7) — Research, news, reading, and learning.
 - [**Developer & Power-User**](categories/developer-and-power-user.md) (6) — Shell, local models, Mac tools, and bridges from other assistants.
-- [**Bot Tools (Manage Your Bots)**](categories/bot-tools.md) (5) — Build plugins, cut routine usage, and back up bot setups.
+- [**Bot Tools (Manage Your Bots)**](categories/bot-tools.md) (10) — Build plugins, cut routine usage, and back up bot setups.
 
 <a id="life"></a>
 ### Home and life
 
 Home, health, travel, work, and everything else.
 
-- [**Home, Car & Household**](categories/home-car-and-household.md) (5) — Warranties, maintenance, home search, and contractor bids.
-- [**Health, Fitness & Food**](categories/health-fitness-and-food.md) (5) — Training, meals, insurance claims, and appointment prep.
-- [**Travel**](categories/travel.md) (5) — Road trips, flights, parks, packing, and snow.
+- [**Home, Car & Household**](categories/home-car-and-household.md) (11) — Warranties, maintenance, home search, and contractor bids.
+- [**Health, Fitness & Food**](categories/health-fitness-and-food.md) (6) — Training, meals, insurance claims, and appointment prep.
+- [**Travel**](categories/travel.md) (6) — Road trips, flights, parks, packing, and snow.
 - [**Career & Job Search**](categories/career-and-job-search.md) (3) — Find roles, tailor a resume, and practice interviews.
 - [**X Creators & Content**](categories/x-creators-and-content.md) (3) — See what posted well, cut clips, and draft replies.
 - [**Fun & Lifestyle**](categories/fun-and-lifestyle.md) (4) — Sports, skywatching, tabletop games, and voting.

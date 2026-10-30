@@ -4,7 +4,7 @@
 
 Road trips, flights, parks, packing, and snow.
 
-**5** bots. Third-party and unofficial. Read the template before you add it.
+**6** bots. Third-party and unofficial. Read the template before you add it.
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -13,6 +13,7 @@ Road trips, flights, parks, packing, and snow.
 | <a id="bot-p3AZnkzysvRypGWCAJXVT"></a>**Parks** | US national parks planner: picks parks, plans the road trip and day sheets, checks timed entry and permits | [@bradshannon](https://x.com/bradshannon) | [Add](https://x.ai/bot/p3AZnkzysvRypGWCAJXVT) |
 | <a id="bot-NvXhjW2O-Q711MGCyQDl_"></a>**Pack Out** | Reusable packing kits by trip type plus T-minus reminders and the destination forecast | [@wayovrmyhed](https://x.com/wayovrmyhed) | [Add](https://x.ai/bot/NvXhjW2O-Q711MGCyQDl_) |
 | <a id="bot-9Plr-sYUGd7EyrRjXNn7E"></a>**Powder Alert** | Tracks snow forecasts for your ski resorts, alerts before big storms, gives morning snow totals | [@JVonFSDinMD](https://x.com/JVonFSDinMD) | [Add](https://x.ai/bot/9Plr-sYUGd7EyrRjXNn7E) |
+| <a id="bot-nCmF4qR0936pN-fTmDTKG"></a>**Starlink Scout** | Finds United flights with free Starlink Wi-Fi, confirms them on United's tracker three days out, and alerts you if the plane changes | [@congressdj](https://x.com/congressdj) | [Add](https://x.ai/bot/nCmF4qR0936pN-fTmDTKG) |
 
 ---
 

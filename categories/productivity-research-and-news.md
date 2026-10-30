@@ -8,7 +8,7 @@ Research, news, reading, and learning.
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
-| <a id="bot-dEFFB5_KX5U06lNJWVZCi"></a>**What's New** | Sends the latest Grok Bot release notes and checks every morning for anything new (one of the most-bookmarked bots on X) | [@mattyp](https://x.com/mattyp) | [Add](https://x.ai/bot/dEFFB5_KX5U06lNJWVZCi) |
+| <a id="bot-dEFFB5_KX5U06lNJWVZCi"></a>**What's New** | Sends the latest Grok Bot release notes and checks every morning for anything new (one of the most-bookmarked bots on X). The link currently opens What's New by Matt. | [@mattyp](https://x.com/mattyp) | [Add](https://x.ai/bot/dEFFB5_KX5U06lNJWVZCi) |
 | <a id="bot-T_ywHG8O1Wa-haah7ot9K"></a>**Deep Research** | Digs through court records, laws, filings, lobbying data, papers and archives, cross-checking sources | [@ALL\_Jonah](https://x.com/ALL_Jonah) | [Add](https://x.ai/bot/T_ywHG8O1Wa-haah7ot9K) |
 | <a id="bot-b6mUEkSKsWyhe_ITaKW0t"></a>**Swarm** | Fans out across many angles on one topic, audits every source, delivers a cited conclusion-first report | [@joshdbirdwell](https://x.com/joshdbirdwell) | [Add](https://x.ai/bot/b6mUEkSKsWyhe_ITaKW0t) |
 | <a id="bot-HgJAKibC-EAZQ-Myn6tEM"></a>**Centelligence Brain Bot** | Keeps your priorities, people, decisions and promises in plain files and answers from what's on file | [@levi\_w\_eck](https://x.com/levi_w_eck) | [Add](https://x.ai/bot/HgJAKibC-EAZQ-Myn6tEM) |

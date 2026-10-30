@@ -4,7 +4,7 @@
 
 Nearby privacy jobs: credit-report errors, phishing checks, account lockdown, and refunds.
 
-**4** bots. Third-party and unofficial. Read the template before you add it.
+**5** bots. Third-party and unofficial. Read the template before you add it.
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -12,6 +12,7 @@ Nearby privacy jobs: credit-report errors, phishing checks, account lockdown, an
 | <a id="bot-Tjv5y1JtQGdUGviJNlUQY"></a>**Phishing Email Checker** | Checks emails for phishing | [@milkydarkstar](https://x.com/milkydarkstar) | [Add](https://x.ai/bot/Tjv5y1JtQGdUGviJNlUQY) |
 | <a id="bot-vEl_iMl8eLa6pOYAeey--"></a>**Cyber Stud (Personal Cybersecurity Coach)** | Six weekend sessions to lock down accounts, phone, Wi-Fi, credit, and family against hacks, identity theft, and AI scams | [@LowTimePrefrenz](https://x.com/LowTimePrefrenz) | [Add](https://x.ai/bot/vEl_iMl8eLa6pOYAeey--) |
 | <a id="bot-KllRxIDr-s6KjmFjJBRJV"></a>**Karenbot** | Finds where companies shortchanged you (subscriptions, price drops, warranties, flights) and pushes back with receipts | [@SuddenlyJon](https://x.com/SuddenlyJon) | [Add](https://x.ai/bot/KllRxIDr-s6KjmFjJBRJV) |
+| <a id="bot-YzKteiptqxruo2Wdt_n9m"></a>**Privacy Cleanup** | Gets outdated or sensitive pages about you or your family (like old news stories naming minor children) removed or reduced in search results; finds the pages, picks the removal route, and drafts requests for approval | — | [Add](https://x.ai/bot/YzKteiptqxruo2Wdt_n9m) |
 
 ---
 
