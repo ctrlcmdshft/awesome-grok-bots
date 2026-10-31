@@ -1,5 +1,20 @@
 # Changelog
 
+## 2026-10-31
+
+Added 26 bots and 3 categories. Each new entry keeps `date_added: 2026-10-31`. The new categories have no subsections, so those bots keep an empty `subcategory`. Home robots and Magnum P.I. use existing subsections (`smart-home` and `scams-phishing`). No existing name or link was duplicated, so none were skipped. Appealinator and Apple Shortcut bot name no creator.
+
+- Security & Bot Safety (1): Magnum P.I.
+- Home Network, Smart Home & Tech Help (1): Home robots
+- Renters, Legal & Benefits (5): Lexy, Move Ready, Renter Desk (Beta), Claim Ready, Appealinator
+- Productivity, Research & News (1): One Thing
+- Small Business & Freelance (3): Steward, Small Business Bookkeeper, Invoice Chaser
+- Developer & Power-User (2): Action Button Bot, Apple Shortcut bot
+- Home, Car & Household (1): Fetch
+- Family, School & Learning (7): Tradbot, Homeroom, IEP Keeper, Co-Parent Keeper, Parent Math Helper, Library Mary, Language Coach
+- Health, Fitness & Food (3): 30 Days to Pain Freedom, Open Enrollment, Medicine & Appointment Reminders
+- Travel (2): Travel Guru, Travel Delay Copilot
+
 ## 2026-10-30
 
 Added 38 bots. Each new entry keeps `date_added: 2026-10-30`. Category and subcategory slugs already matched this list, so none were remapped. No existing name or link was duplicated, so none were skipped.

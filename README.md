@@ -1,9 +1,9 @@
 # Awesome Grok Bots
 
-[![Bots](https://img.shields.io/badge/bots-253-2563eb?style=flat-square)](#categories)
-[![Updated October 30, 2026](https://img.shields.io/badge/updated-2026--10--30-64748b?style=flat-square)](CHANGELOG.md)
+[![Bots](https://img.shields.io/badge/bots-279-2563eb?style=flat-square)](#categories)
+[![Updated October 31, 2026](https://img.shields.io/badge/updated-2026--10--31-64748b?style=flat-square)](CHANGELOG.md)
 
-A curated list of **253** third-party Grok Bots. Privacy and cleanup come first: people-search removals, spam, inboxes, and old posts. The rest cover security, home network, money, shopping, productivity, and everyday life.
+A curated list of **279** third-party Grok Bots. Privacy and cleanup come first: people-search removals, spam, inboxes, and old posts. The rest cover security, home network, money, shopping, productivity, and everyday life.
 
 These bots are unofficial and third-party. They are not made or endorsed by xAI. Review each bot before you add it. Most ask before they send email, file a form, delete, or block anything.
 
@@ -22,19 +22,22 @@ Counts and category pages are generated from [`data/bots.yaml`](data/bots.yaml).
     - [X (Twitter) Cleanup](categories/x-cleanup.md) (13)
     - [Bonus / Adjacent](categories/bonus-and-adjacent.md) (5)
   - [Security and home network](#security)
-    - [Security & Bot Safety](categories/security-and-bot-safety.md) (49)
-    - [Home Network, Smart Home & Tech Help](categories/home-network-and-tech.md) (37)
+    - [Security & Bot Safety](categories/security-and-bot-safety.md) (50)
+    - [Home Network, Smart Home & Tech Help](categories/home-network-and-tech.md) (38)
   - [Money and shopping](#money)
     - [Money, Bills & Insurance](categories/money-bills-and-insurance.md) (21)
+    - [Renters, Legal & Benefits](categories/renters-legal-and-benefits.md) (5)
     - [Shopping, Deals & Packages](categories/shopping-deals-and-packages.md) (13)
   - [Work and tools](#work)
-    - [Productivity, Research & News](categories/productivity-research-and-news.md) (10)
-    - [Developer & Power-User](categories/developer-and-power-user.md) (6)
+    - [Productivity, Research & News](categories/productivity-research-and-news.md) (11)
+    - [Small Business & Freelance](categories/small-business-and-freelance.md) (3)
+    - [Developer & Power-User](categories/developer-and-power-user.md) (8)
     - [Bot Tools (Manage Your Bots)](categories/bot-tools.md) (14)
   - [Home and life](#life)
-    - [Home, Car & Household](categories/home-car-and-household.md) (14)
-    - [Health, Fitness & Food](categories/health-fitness-and-food.md) (7)
-    - [Travel](categories/travel.md) (6)
+    - [Home, Car & Household](categories/home-car-and-household.md) (15)
+    - [Family, School & Learning](categories/family-school-and-learning.md) (7)
+    - [Health, Fitness & Food](categories/health-fitness-and-food.md) (10)
+    - [Travel](categories/travel.md) (8)
     - [Career & Job Search](categories/career-and-job-search.md) (4)
     - [X Creators & Content](categories/x-creators-and-content.md) (5)
     - [Fun & Lifestyle](categories/fun-and-lifestyle.md) (4)
@@ -66,24 +69,20 @@ More combinations are on [Suggested Stacks](guides/suggested-stacks.md).
 <a id="recently-added"></a>
 ## Recently added
 
-38 bots have `date_added` on October 30, 2026. This section lists each bot when that date has 20 or fewer. This one is larger, so here is the count by category.
+26 bots have `date_added` on October 31, 2026. This section lists each bot when that date has 20 or fewer. This one is larger, so here is the count by category.
 
 | Category | Bots |
 | --- | --- |
-| [People-Search & Data Broker Removal](categories/people-search-and-data-brokers.md) | 3 |
-| [Spam Calls & Do Not Call](categories/spam-calls-and-do-not-call.md) | 3 |
-| [Email, Newsletters, Subscriptions & Physical Mail](categories/email-newsletters-and-mail.md) | 3 |
-| [X (Twitter) Cleanup](categories/x-cleanup.md) | 1 |
-| [Security & Bot Safety](categories/security-and-bot-safety.md) | 2 |
-| [Home Network, Smart Home & Tech Help](categories/home-network-and-tech.md) | 2 |
-| [Money, Bills & Insurance](categories/money-bills-and-insurance.md) | 7 |
-| [Shopping, Deals & Packages](categories/shopping-deals-and-packages.md) | 3 |
-| [Productivity, Research & News](categories/productivity-research-and-news.md) | 3 |
-| [Bot Tools (Manage Your Bots)](categories/bot-tools.md) | 4 |
-| [Home, Car & Household](categories/home-car-and-household.md) | 3 |
-| [Health, Fitness & Food](categories/health-fitness-and-food.md) | 1 |
-| [Career & Job Search](categories/career-and-job-search.md) | 1 |
-| [X Creators & Content](categories/x-creators-and-content.md) | 2 |
+| [Security & Bot Safety](categories/security-and-bot-safety.md) | 1 |
+| [Home Network, Smart Home & Tech Help](categories/home-network-and-tech.md) | 1 |
+| [Renters, Legal & Benefits](categories/renters-legal-and-benefits.md) | 5 |
+| [Productivity, Research & News](categories/productivity-research-and-news.md) | 1 |
+| [Small Business & Freelance](categories/small-business-and-freelance.md) | 3 |
+| [Developer & Power-User](categories/developer-and-power-user.md) | 2 |
+| [Home, Car & Household](categories/home-car-and-household.md) | 1 |
+| [Family, School & Learning](categories/family-school-and-learning.md) | 7 |
+| [Health, Fitness & Food](categories/health-fitness-and-food.md) | 3 |
+| [Travel](categories/travel.md) | 2 |
 
 <a id="categories"></a>
 ## Categories
@@ -104,8 +103,8 @@ Removing personal data, stopping spam, cleaning inboxes, and shrinking an online
 
 Vetting bots, account security, scams, patches, and the home network.
 
-- [**Security & Bot Safety**](categories/security-and-bot-safety.md) (49) — Vet third-party bots before you add them, lock down accounts, catch scams, and watch for vulnerabilities that touch what you run.
-- [**Home Network, Smart Home & Tech Help**](categories/home-network-and-tech.md) (37) — Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home Assistant, and everyday tech help.
+- [**Security & Bot Safety**](categories/security-and-bot-safety.md) (50) — Vet third-party bots before you add them, lock down accounts, catch scams, and watch for vulnerabilities that touch what you run.
+- [**Home Network, Smart Home & Tech Help**](categories/home-network-and-tech.md) (38) — Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home Assistant, and everyday tech help.
 
 <a id="money"></a>
 ### Money and shopping
@@ -113,6 +112,7 @@ Vetting bots, account security, scams, patches, and the home network.
 Bills, insurance, shopping, and packages.
 
 - [**Money, Bills & Insurance**](categories/money-bills-and-insurance.md) (21) — Cut bills, find money you may be owed, and track spending, taxes, and insurance.
+- [**Renters, Legal & Benefits**](categories/renters-legal-and-benefits.md) (5) — Leases and deposits, consumer-rights letters, property-tax appeals, and veterans' claims.
 - [**Shopping, Deals & Packages**](categories/shopping-deals-and-packages.md) (13) — Compare prices, watch drops, track packages, and shop for cars or resale.
 
 <a id="work"></a>
@@ -120,8 +120,9 @@ Bills, insurance, shopping, and packages.
 
 Research, developer tools, and bots that manage other bots.
 
-- [**Productivity, Research & News**](categories/productivity-research-and-news.md) (10) — Research, news, reading, and learning.
-- [**Developer & Power-User**](categories/developer-and-power-user.md) (6) — Shell, local models, Mac tools, and bridges from other assistants.
+- [**Productivity, Research & News**](categories/productivity-research-and-news.md) (11) — Research, news, reading, and learning.
+- [**Small Business & Freelance**](categories/small-business-and-freelance.md) (3) — Bookkeeping, month-end close, and chasing unpaid invoices.
+- [**Developer & Power-User**](categories/developer-and-power-user.md) (8) — Shell, local models, Mac tools, and bridges from other assistants.
 - [**Bot Tools (Manage Your Bots)**](categories/bot-tools.md) (14) — Build plugins, cut routine usage, and back up bot setups.
 
 <a id="life"></a>
@@ -129,9 +130,10 @@ Research, developer tools, and bots that manage other bots.
 
 Home, health, travel, work, and everything else.
 
-- [**Home, Car & Household**](categories/home-car-and-household.md) (14) — Warranties, maintenance, home search, and contractor bids.
-- [**Health, Fitness & Food**](categories/health-fitness-and-food.md) (7) — Training, meals, insurance claims, and appointment prep.
-- [**Travel**](categories/travel.md) (6) — Road trips, flights, parks, packing, and snow.
+- [**Home, Car & Household**](categories/home-car-and-household.md) (15) — Warranties, maintenance, home search, and contractor bids.
+- [**Family, School & Learning**](categories/family-school-and-learning.md) (7) — School portals, IEPs, co-parenting, homework help, library cards, and languages.
+- [**Health, Fitness & Food**](categories/health-fitness-and-food.md) (10) — Training, meals, insurance claims, and appointment prep.
+- [**Travel**](categories/travel.md) (8) — Road trips, flights, parks, packing, and snow.
 - [**Career & Job Search**](categories/career-and-job-search.md) (4) — Find roles, tailor a resume, and practice interviews.
 - [**X Creators & Content**](categories/x-creators-and-content.md) (5) — See what posted well, cut clips, and draft replies.
 - [**Fun & Lifestyle**](categories/fun-and-lifestyle.md) (4) — Sports, skywatching, tabletop games, and voting.

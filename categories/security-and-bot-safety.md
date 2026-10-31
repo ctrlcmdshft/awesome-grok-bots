@@ -4,7 +4,7 @@
 
 Vet third-party bots before you add them, lock down accounts, catch scams, and watch for vulnerabilities that touch what you run.
 
-**49** bots. Third-party and unofficial. Read the template before you add it.
+**50** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -22,7 +22,7 @@ Vet third-party bots before you add them, lock down accounts, catch scams, and w
   - [BotSec](#bot-1YzVIsTRcLxaqlLZouJiB)
   - [Box Inspector](#bot-q7GLbLhMZDpJXBGuuci1J)
 - [Account security, breaches & identity](#account-security) (8)
-- [Scams, phishing & imposters](#scams-phishing) (12)
+- [Scams, phishing & imposters](#scams-phishing) (13)
   - [Is This a Scam?](#bot-Jc3Eh6tRUvTLYqdGjTm7q)
   - [Scam Check](#bot-t9mlx--OQnQ2itHxQYQmd)
   - [Inbox Guardian](#bot-n6bSJ2vt2rZuIQahc6G1h)
@@ -35,6 +35,7 @@ Vet third-party bots before you add them, lock down accounts, catch scams, and w
   - [Scam Email Detector](#bot-E3_qOY1VUJWZMh2inUvwT)
   - [Inbox Injection Guard](#bot-lsXZ6NdEqAdCHe8z88QAl)
   - [DM Screen](#bot-94kCbVV39EYR-lt_PaFJF)
+  - [Magnum P.I.](#bot-hSJYHTSH02J0ZchLG-zu8)
 - [Vulnerabilities, patches, domains & code](#vulnerabilities) (17)
   - [Patch Alert](#bot-GJ6wSFte1rfQRD8oZVrpK)
   - [Vuln Scout](#bot-IiV3YZZ2TAF63sPORZmWy)
@@ -100,6 +101,7 @@ Vet third-party bots before you add them, lock down accounts, catch scams, and w
 | <a id="bot-E3_qOY1VUJWZMh2inUvwT"></a>**Scam Email Detector** | Watches your inbox and warns you about phishing and scam emails before you fall for them; quiet otherwise | [@DirtyTesLa](https://x.com/DirtyTesLa) | [Add](https://x.ai/bot/E3_qOY1VUJWZMh2inUvwT) |
 | <a id="bot-lsXZ6NdEqAdCHe8z88QAl"></a>**Inbox Injection Guard** | Screens your email for hidden instructions aimed at AI assistants (white text, zero-width characters, "ignore previous instructions") and flags them without ever following them | [@teeRex247](https://x.com/teeRex247) | [Add](https://x.ai/bot/lsXZ6NdEqAdCHe8z88QAl) |
 | <a id="bot-94kCbVV39EYR-lt_PaFJF"></a>**DM Screen** | Screens new X DMs and message requests every night, flags scams and pitches, and drafts short replies to the real ones for you to send; can't reply or block on its own | [@JonHolland1776](https://x.com/JonHolland1776) | [Add](https://x.ai/bot/94kCbVV39EYR-lt_PaFJF) |
+| <a id="bot-hSJYHTSH02J0ZchLG-zu8"></a>**Magnum P.I.** | Vets websites, sellers, credentials and dating matches against public records and gives a clear trust verdict | [@congressdj](https://x.com/congressdj) | [Add](https://x.ai/bot/hSJYHTSH02J0ZchLG-zu8) |
 
 ## <a id="vulnerabilities"></a>Vulnerabilities, patches, domains & code
 

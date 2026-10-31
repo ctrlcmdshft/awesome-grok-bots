@@ -4,7 +4,7 @@
 
 Shell, local models, Mac tools, and bridges from other assistants.
 
-**6** bots. Third-party and unofficial. Read the template before you add it.
+**8** bots. Third-party and unofficial. Read the template before you add it.
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -14,6 +14,8 @@ Shell, local models, Mac tools, and bridges from other assistants.
 | <a id="bot-_qhDx4CZfm2-h1RkRyef1"></a>**Apple Mac Tools** | Installs ~20 tested Mac CLI tools so your bots can use iMessage, Mail, Reminders, Photos and Notes | [@Kevin\_Logan](https://x.com/Kevin_Logan) | [Add](https://x.ai/bot/_qhDx4CZfm2-h1RkRyef1) |
 | <a id="bot-EVQ-0yhShRgL-2qAfdD-8"></a>**Disk Doctor** | Scans your Mac's storage and deletes only the file groups you approve | [@thecsguy](https://x.com/thecsguy) | [Add](https://x.ai/bot/EVQ-0yhShRgL-2qAfdD-8) |
 | <a id="bot-yQvAz8GjmB73Bv6G30iX8"></a>**Local AI Manager** | Sets up an open AI model on your own hardware, keeps it running, and handles local AI use through Grok Bot | [@ChefMcMakin](https://x.com/ChefMcMakin) | [Add](https://x.ai/bot/yQvAz8GjmB73Bv6G30iX8) |
+| <a id="bot-yc8yWwlDJLRwr0JuyHRhA"></a>**Action Button Bot** | Hold the iPhone Action Button on any reel, video or page, ask out loud, and get a silent answer as a notification | [@everestchris6](https://x.com/everestchris6) | [Add](https://x.ai/bot/yc8yWwlDJLRwr0JuyHRhA) |
+| <a id="bot-stzDdeRg2k_6ckJd3WOWy"></a>**Apple Shortcut bot** | Turns a plain description into an Apple Shortcut you can install on iPhone, iPad or Mac, checked against your OS version | — | [Add](https://x.ai/bot/stzDdeRg2k_6ckJd3WOWy) |
 
 ---
 

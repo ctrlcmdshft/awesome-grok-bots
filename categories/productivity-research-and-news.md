@@ -4,7 +4,7 @@
 
 Research, news, reading, and learning.
 
-**10** bots. Third-party and unofficial. Read the template before you add it.
+**11** bots. Third-party and unofficial. Read the template before you add it.
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -18,6 +18,7 @@ Research, news, reading, and learning.
 | <a id="bot-E-uo4CQ__9GjtWYhWLPQF"></a>**Dropped-Ball Scanner** | Evening sweep of your email, texts, chat and meeting notes that catches unanswered asks and promises you made, ranked by how much they matter | [@Austen](https://x.com/Austen) | [Add](https://x.ai/bot/E-uo4CQ__9GjtWYhWLPQF) |
 | <a id="bot-e6ZhqDkcH5ch4vCMwvpvp"></a>**Bookmarks Brain** | Turns your X bookmarks into a searchable Markdown wiki with topic pages, saved in Git and updated weekly; only reads X and never posts | [@sayfism](https://x.com/sayfism) | [Add](https://x.ai/bot/e6ZhqDkcH5ch4vCMwvpvp) |
 | <a id="bot-tMEJdHdRUQHgQMOOy-xjj"></a>**Doc Merger** | Turns a scattered pile of documents into one master file (PDF plus HTML, Word and TXT) with an ordered table of contents and a check that every file made it in | [@BrianRoemmele](https://x.com/BrianRoemmele) | [Add](https://x.ai/bot/tMEJdHdRUQHgQMOOy-xjj) |
+| <a id="bot-fUdSeYAu8zNxDFZfVmyxt"></a>**One Thing** | For to-do-list paralysis (built for ADHD): dump everything in and get one thing for today plus a 5-minute first step, no setup | [@KomoriGenjiro](https://x.com/KomoriGenjiro) | [Add](https://x.ai/bot/fUdSeYAu8zNxDFZfVmyxt) |
 
 ---
 

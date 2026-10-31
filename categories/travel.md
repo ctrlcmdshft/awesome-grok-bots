@@ -4,7 +4,7 @@
 
 Road trips, flights, parks, packing, and snow.
 
-**6** bots. Third-party and unofficial. Read the template before you add it.
+**8** bots. Third-party and unofficial. Read the template before you add it.
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -14,6 +14,8 @@ Road trips, flights, parks, packing, and snow.
 | <a id="bot-NvXhjW2O-Q711MGCyQDl_"></a>**Pack Out** | Reusable packing kits by trip type plus T-minus reminders and the destination forecast | [@wayovrmyhed](https://x.com/wayovrmyhed) | [Add](https://x.ai/bot/NvXhjW2O-Q711MGCyQDl_) |
 | <a id="bot-9Plr-sYUGd7EyrRjXNn7E"></a>**Powder Alert** | Tracks snow forecasts for your ski resorts, alerts before big storms, gives morning snow totals | [@JVonFSDinMD](https://x.com/JVonFSDinMD) | [Add](https://x.ai/bot/9Plr-sYUGd7EyrRjXNn7E) |
 | <a id="bot-nCmF4qR0936pN-fTmDTKG"></a>**Starlink Scout** | Finds United flights with free Starlink Wi-Fi, confirms them on United's tracker three days out, and alerts you if the plane changes | [@congressdj](https://x.com/congressdj) | [Add](https://x.ai/bot/nCmF4qR0936pN-fTmDTKG) |
+| <a id="bot-wg82QACOYA6z6ZzFURvcZ"></a>**Travel Guru** | Knows your airline, hotel and rental-car programs, finds the smartest mix of cash and points for each trip, and books only with your OK | [@congressdj](https://x.com/congressdj) | [Add](https://x.ai/bot/wg82QACOYA6z6ZzFURvcZ) |
+| <a id="bot-HUyK_n0GZRm8NXq_Sgw5I"></a>**Travel Delay Copilot** | When a flight is delayed, canceled or you misconnect, pulls live airline policy and passenger-rights rules with dated sources and drafts what to ask the desk | [@fPelin17](https://x.com/fPelin17) | [Add](https://x.ai/bot/HUyK_n0GZRm8NXq_Sgw5I) |
 
 ---
 

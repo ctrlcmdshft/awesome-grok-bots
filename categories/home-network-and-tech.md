@@ -4,7 +4,7 @@
 
 Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home Assistant, and everyday tech help.
 
-**37** bots. Third-party and unofficial. Read the template before you add it.
+**38** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -27,7 +27,7 @@ Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home A
   - [Media Center Engineer](#bot-M67wmr4HRv74Xv6TF8qk8)
   - [Dry Run Lab](#bot-dnCnydyRm8J_xYeekmVCp)
 - [Wi-Fi, router & internet](#wifi) (6)
-- [Smart home & TV](#smart-home) (9)
+- [Smart home & TV](#smart-home) (10)
 - [Bot computer upkeep & everyday tech help](#upkeep) (5)
 
 ## <a id="homelab"></a>Homelab, self-hosted & remote access
@@ -76,6 +76,7 @@ Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home A
 | <a id="bot-hQvf0d7YJHuJ1guS4iCHP"></a>**TV Tuner** | Debloats Android TV / Google TV with CleanYourTV (never roots or uninstalls) and can add ad-blocking DNS | Brandon | [Add](https://x.ai/bot/hQvf0d7YJHuJ1guS4iCHP) |
 | <a id="bot-rIKTxh3Pwrmn7N02x6glX"></a>**TV De-Ad Bot** | Removes ads, tracking and clutter from your own smart TV with reversible steps you approve one at a time | [@0node0](https://x.com/0node0) | [Add](https://x.ai/bot/rIKTxh3Pwrmn7N02x6glX) |
 | <a id="bot-QJIlVrh34pWOth8tK4Umn"></a>**TV Tamer** | Debloats, removes ads from, and speeds up your own Android TV or Google TV over ADB from a computer on your network; backs up first, asks before each change, and only uses reversible methods | [@EndsHunter](https://x.com/EndsHunter) | [Add](https://x.ai/bot/QJIlVrh34pWOth8tK4Umn) |
+| <a id="bot-c47Jj2QSSR1UXEcuBgUtQ"></a>**Home robots** | Control robot vacuums, mowers and Matter robots (Segway Navimow, Matic and others) from chat after a one-time connect | [@SawyerMerritt](https://x.com/SawyerMerritt) | [Add](https://x.ai/bot/c47Jj2QSSR1UXEcuBgUtQ) |
 
 ## <a id="upkeep"></a>Bot computer upkeep & everyday tech help
 

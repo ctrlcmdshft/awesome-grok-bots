@@ -4,7 +4,7 @@
 
 Training, meals, insurance claims, and appointment prep.
 
-**7** bots. Third-party and unofficial. Read the template before you add it.
+**10** bots. Third-party and unofficial. Read the template before you add it.
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -15,6 +15,9 @@ Training, meals, insurance claims, and appointment prep.
 | <a id="bot-gMrnNpgylgu11PImcWTdy"></a>**Personal Chef** | Plans weekly family dinners around budget and diet, prints recipe cards, loads a Walmart pickup cart | [@ChefMcMakin](https://x.com/ChefMcMakin) | [Add](https://x.ai/bot/gMrnNpgylgu11PImcWTdy) |
 | <a id="bot-zyD4E6ZPHByNTsEzWTxHV"></a>**Sobriety Bot** | Tracks your sobriety date and clean time, marks milestones, finds local AA and NA meetings, and digs into recovery literature | [@Dave04291978](https://x.com/Dave04291978) | [Add](https://x.ai/bot/zyD4E6ZPHByNTsEzWTxHV) |
 | <a id="bot-seHW20WXLntgNHX1mOOOV"></a>**Pantry And Shopping Manager** | Keeps a running inventory of your fridge, pantry and household supplies from photos and receipts, then builds a weekly shopping list grouped by aisle | [@Totao](https://x.com/Totao) | [Add](https://x.ai/bot/seHW20WXLntgNHX1mOOOV) |
+| <a id="bot-rrgu_NZPufQ4D00pF9oAW"></a>**30 Days to Pain Freedom** | Free guided 30-day mind-body program for chronic pain (Sarno / JournalSpeak): daily reminders, journaling prompts, pain check-ins and 10-minute meditations; not medical advice | [@RampCapitalLLC](https://x.com/RampCapitalLLC) | [Add](https://x.ai/bot/rrgu_NZPufQ4D00pF9oAW) |
+| <a id="bot-RilkaH5YhNYhl1tcslvXr"></a>**Open Enrollment** | Helps you decide whether to stay on or switch health plans during open enrollment, based on the care your family may actually need | [@GroksRules](https://x.com/GroksRules) | [Add](https://x.ai/bot/RilkaH5YhNYhl1tcslvXr) |
+| <a id="bot-vJwxzgcTb19BKR3eoII4W"></a>**Medicine & Appointment Reminders** | Reminds you to take your meds on schedule and puts doctor appointments on Google Calendar with a heads-up beforehand | [@dcostaverage](https://x.com/dcostaverage) | [Add](https://x.ai/bot/vJwxzgcTb19BKR3eoII4W) |
 
 ---
 

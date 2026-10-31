@@ -4,7 +4,7 @@
 
 Warranties, maintenance, home search, and contractor bids.
 
-**14** bots. Third-party and unofficial. Read the template before you add it.
+**15** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -22,6 +22,7 @@ Warranties, maintenance, home search, and contractor bids.
 - [Civic & Utility Reporter](#bot-w8CACxeTzPYzhQlTDs-xF)
 - [Car Review](#bot-UikUx6t2d4x9hhfF98dPm)
 - [Tesla Owners Bot](#bot-IfjwtqY3BxMXeHdivRspj)
+- [Fetch](#bot-9MpfFQtgNM_PfG5_KvSKl)
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -39,6 +40,7 @@ Warranties, maintenance, home search, and contractor bids.
 | <a id="bot-w8CACxeTzPYzhQlTDs-xF"></a>**Civic & Utility Reporter** | Turns your sightings of potholes, signals out, downed wires, roadkill and cable/internet outages into accurate reports to the right place; gathers your details once during onboarding | [@gambrill](https://x.com/gambrill) | [Add](https://x.ai/bot/w8CACxeTzPYzhQlTDs-xF) |
 | <a id="bot-UikUx6t2d4x9hhfF98dPm"></a>**Car Review** | Send a used-car listing or CARFAX and get a straight BUY or PASS: accidents, owners, open recalls, warranty left, known model-year problems, fair price and true out-the-door cost | [@AG\_Abhilashg](https://x.com/AG_Abhilashg) | [Add](https://x.ai/bot/UikUx6t2d4x9hhfF98dPm) |
 | <a id="bot-IfjwtqY3BxMXeHdivRspj"></a>**Tesla Owners Bot** | Guide for new Tesla owners: asks your model, year and trim, then gives a delivery checklist and answers on charging, FSD, winter, road trips and troubleshooting from Tesla's manuals | [@TeslaShawn](https://x.com/TeslaShawn) | [Add](https://x.ai/bot/IfjwtqY3BxMXeHdivRspj) |
+| <a id="bot-9MpfFQtgNM_PfG5_KvSKl"></a>**Fetch** | Pet care log for vaccines, meds, flea/tick, grooming and food per pet; quiet weekly scan that nudges only when something is due | [@wayovrmyhed](https://x.com/wayovrmyhed) | [Add](https://x.ai/bot/9MpfFQtgNM_PfG5_KvSKl) |
 
 ---
 
