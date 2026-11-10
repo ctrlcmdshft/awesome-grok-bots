@@ -3277,3 +3277,13 @@ bots:
     link: "https://x.ai/bot/dOrBkhpwk1lUNPmyRC2Mo"
     date_added: "2026-11-09"
     source: "Bot Template Radar (https://bots.neverfail.si/)"
+
+  - name: "Mangrove"
+    creator: "@Mangrove_AI"
+    creator_handle: "Mangrove_AI"
+    description: "A trading agent with guardrails that backtests and paper trades first, and sends a live order only after the user approves that exact order."
+    category: "money-bills-and-insurance"
+    subcategory: ""
+    link: "https://x.ai/bot/VOfh5y4jlFGbZQMxbGsyh"
+    date_added: "2026-11-10"
+    source: "Announced by @Mangrove_AI at https://x.com/Mangrove_AI/status/2119938959752995262"
