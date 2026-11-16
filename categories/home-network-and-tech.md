@@ -4,11 +4,11 @@
 
 Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home Assistant, and everyday tech help.
 
-**40** bots. Third-party and unofficial. Read the template before you add it.
+**38** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
-- [Homelab, self-hosted & remote access](#homelab) (17)
+- [Homelab, self-hosted & remote access](#homelab) (16)
   - [Net Watch](#bot-0vuunQUBFlb4SnStUCtLt)
   - [Omnipresence](#bot-HsqCRD8q_eZII9ewRNkpm)
   - [Dexter the home lab boss](#bot-wsyMavZM6PYzV3lgklehG)
@@ -24,9 +24,8 @@ Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home A
   - [WebOps](#bot-RRpEi9POci-hgE-M25iIE)
   - [IT Department Lead](#bot-28cjt6-FRq2D69vUX5F9L)
   - [Cloudflare Admin](#bot-R8z7Gt048fEu5Z8xqtgTQ)
-  - [Media Center Engineer](#bot-M67wmr4HRv74Xv6TF8qk8)
   - [Dry Run Lab](#bot-dnCnydyRm8J_xYeekmVCp)
-- [Wi-Fi, router & internet](#wifi) (6)
+- [Wi-Fi, router & internet](#wifi) (5)
 - [Smart home & TV](#smart-home) (10)
 - [Bot computer upkeep & everyday tech help](#upkeep) (7)
 
@@ -49,7 +48,6 @@ Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home A
 | <a id="bot-RRpEi9POci-hgE-M25iIE"></a>**WebOps** | Website chores: private previews, static deploys, DNS and uptime checks, forms, redirects, SEO hygiene; launches only on your OK | [@OutworkVentures](https://x.com/OutworkVentures) | [Add](https://x.ai/bot/RRpEi9POci-hgE-M25iIE) |
 | <a id="bot-28cjt6-FRq2D69vUX5F9L"></a>**IT Department Lead** | Coordinates a fleet of specialist IT bots: fleet health checks, secret intake, and cross-cutting IT asks | [@braytron](https://x.com/braytron) | [Add](https://x.ai/bot/28cjt6-FRq2D69vUX5F9L) |
 | <a id="bot-R8z7Gt048fEu5Z8xqtgTQ"></a>**Cloudflare Admin** | Weekly audit and tidy-up of your Cloudflare account: security gaps, waste, leftover resources, and cost risks, with fixes recommended and nothing changed without approval | [@jonbeckman](https://x.com/jonbeckman) | [Add](https://x.ai/bot/R8z7Gt048fEu5Z8xqtgTQ) |
-| <a id="bot-M67wmr4HRv74Xv6TF8qk8"></a>**Media Center Engineer** | Sets up a self-hosted streaming library for shows and movies you legally own, including the server, subtitles, backups, and a private web remote, explained in plain words | [@SnarfLab](https://x.com/SnarfLab) | [Add](https://x.ai/bot/M67wmr4HRv74Xv6TF8qk8) |
 | <a id="bot-dnCnydyRm8J_xYeekmVCp"></a>**Dry Run Lab** | Free, open-source network simulator: load your real router and switch configs, try a change, and see what breaks before you make it | [@pawel7](https://x.com/pawel7) | [Add](https://x.ai/bot/dnCnydyRm8J_xYeekmVCp) |
 
 ## <a id="wifi"></a>Wi-Fi, router & internet
@@ -58,7 +56,6 @@ Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home A
 | --- | --- | --- | --- |
 | <a id="bot-WA8NMMcNsQjCe3OGRr2Qz"></a>**Starlink Check** | Checks whether Starlink home internet reaches your address, with plans and prices | [@thecsguy](https://x.com/thecsguy) | [Add](https://x.ai/bot/WA8NMMcNsQjCe3OGRr2Qz) |
 | <a id="bot-wZ1VAj_TNi1vvyHbaKJOc"></a>**Wifi Wendy** | Takes your room layout (floors, walls, dead zones) and suggests the best router placement for stronger Wi-Fi | [@FrankFindsOut](https://x.com/FrankFindsOut) | [Add](https://x.ai/bot/wZ1VAj_TNi1vvyHbaKJOc) |
-| <a id="bot-9hIrzYGGufiO6k0OEAAWr"></a>**PC Helper** | Hands-on helper for your Windows PC and home network: speed tests, tune-ups, drivers, clean uninstalls, network fixes | [@Tony\_Omega](https://x.com/Tony_Omega) | [Add](https://x.ai/bot/9hIrzYGGufiO6k0OEAAWr) |
 | <a id="bot-8RNIRX-Wj6SnnmYBiz6h5"></a>**Home Network Monitor** | Live monitoring page for a satellite (Starlink-style) home or small-office internet connection and router | [@Rockhocker](https://x.com/Rockhocker) | [Add](https://x.ai/bot/8RNIRX-Wj6SnnmYBiz6h5) |
 | <a id="bot-LDV7Nk4q2mKsWHrkldNzJ"></a>**Hack Your House** | Snap photos of the Wi-Fi gadgets in your home and get step-by-step ideas to speed them up, revive them or connect them | [@BudJohnson](https://x.com/BudJohnson) | [Add](https://x.ai/bot/LDV7Nk4q2mKsWHrkldNzJ) |
 | <a id="bot-TwwL0h36HFLe41PE471WS"></a>**MikroTik Auditor** | Russian-language bot that finds mistakes and security holes in MikroTik RouterOS configs from /export and WinBox screenshots, tests fixes in a CHR lab, and hands back a script with backup, Safe Mode, and rollback | [@scanner721](https://x.com/scanner721) | [Add](https://x.ai/bot/TwwL0h36HFLe41PE471WS) |

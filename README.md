@@ -1,9 +1,9 @@
 # Awesome Grok Bots
 
-[![Bots](https://img.shields.io/badge/bots-327-2563eb?style=flat-square)](#categories)
+[![Bots](https://img.shields.io/badge/bots-321-2563eb?style=flat-square)](#categories)
 [![Updated November 16, 2026](https://img.shields.io/badge/updated-2026--11--16-64748b?style=flat-square)](CHANGELOG.md)
 
-A curated list of **327** third-party Grok Bots. Privacy and cleanup come first: people-search removals, spam, inboxes, and old posts. The rest cover security, home network, money, shopping, productivity, and everyday life.
+A curated list of **321** third-party Grok Bots. Privacy and cleanup come first: people-search removals, spam, inboxes, and old posts. The rest cover security, home network, money, shopping, productivity, and everyday life.
 
 These bots are unofficial and third-party. They are not made or endorsed by xAI. Review each bot before you add it. Most ask before they send email, file a form, delete, or block anything.
 
@@ -17,13 +17,13 @@ Counts and category pages are generated from [`data/bots.yaml`](data/bots.yaml).
 - [Categories](#categories)
   - [Privacy and cleanup](#privacy)
     - [People-Search & Data Broker Removal](categories/people-search-and-data-brokers.md) (17)
-    - [Spam Calls & Do Not Call](categories/spam-calls-and-do-not-call.md) (10)
+    - [Spam Calls & Do Not Call](categories/spam-calls-and-do-not-call.md) (9)
     - [Email, Newsletters, Subscriptions & Physical Mail](categories/email-newsletters-and-mail.md) (18)
-    - [X (Twitter) Cleanup](categories/x-cleanup.md) (13)
+    - [X (Twitter) Cleanup](categories/x-cleanup.md) (12)
     - [Bonus / Adjacent](categories/bonus-and-adjacent.md) (5)
   - [Security and home network](#security)
     - [Security & Bot Safety](categories/security-and-bot-safety.md) (53)
-    - [Home Network, Smart Home & Tech Help](categories/home-network-and-tech.md) (40)
+    - [Home Network, Smart Home & Tech Help](categories/home-network-and-tech.md) (38)
   - [Money and shopping](#money)
     - [Money, Bills & Insurance](categories/money-bills-and-insurance.md) (22)
     - [Renters, Legal & Benefits](categories/renters-legal-and-benefits.md) (5)
@@ -32,14 +32,14 @@ Counts and category pages are generated from [`data/bots.yaml`](data/bots.yaml).
     - [Productivity, Research & News](categories/productivity-research-and-news.md) (20)
     - [Small Business & Freelance](categories/small-business-and-freelance.md) (12)
     - [Developer & Power-User](categories/developer-and-power-user.md) (14)
-    - [Bot Tools (Manage Your Bots)](categories/bot-tools.md) (19)
+    - [Bot Tools (Manage Your Bots)](categories/bot-tools.md) (18)
   - [Home and life](#life)
     - [Home, Car & Household](categories/home-car-and-household.md) (15)
     - [Family, School & Learning](categories/family-school-and-learning.md) (8)
     - [Health, Fitness & Food](categories/health-fitness-and-food.md) (10)
     - [Travel](categories/travel.md) (11)
     - [Career & Job Search](categories/career-and-job-search.md) (5)
-    - [X Creators & Content](categories/x-creators-and-content.md) (11)
+    - [X Creators & Content](categories/x-creators-and-content.md) (10)
     - [Fun & Lifestyle](categories/fun-and-lifestyle.md) (6)
 - [Guides](#guides)
   - [Suggested Stacks](guides/suggested-stacks.md)
@@ -61,7 +61,7 @@ Start with one pair, watch a few runs, then add more.
 5. [Remove Me](categories/people-search-and-data-brokers.md#bot-qlDBDdHjGkHD9pka-9fRy) ([@OutworkVentures](https://x.com/OutworkVentures)) + [Junk Mail Stopper](categories/email-newsletters-and-mail.md#bot-F1XZoNusJXMm92YTTT6kR) ([@Kevin\_Logan](https://x.com/Kevin_Logan)) — data-broker removals plus physical junk mail, with rechecks
 6. [Net Watch](categories/home-network-and-tech.md#bot-0vuunQUBFlb4SnStUCtLt) ([@bradshannon](https://x.com/bradshannon)) + [Patch Alert](categories/security-and-bot-safety.md#bot-GJ6wSFte1rfQRD8oZVrpK) ([@howdyollie](https://x.com/howdyollie)) — home network map and monitor, plus alerts when software you run is actively exploited
 7. [Bill Buster](categories/money-bills-and-insurance.md#bot-ji90nMN5S8qAPDtyVyjfi) ([@oliverparsons](https://x.com/oliverparsons)) + [Last Call](categories/email-newsletters-and-mail.md#bot-YuGzbyI7jVfZedsRUOLCm) ([@thecsguy](https://x.com/thecsguy)) + [Claimed](categories/money-bills-and-insurance.md#bot-wIxb391-9pDKoWXQ8xrbD) ([@liam\_fallen](https://x.com/liam_fallen)) — cut bills, stop trials before they charge, and find money you may be owed
-8. [Script This Routine](categories/bot-tools.md#bot-9E8iw2zlg2fTWzUT6RUsP) ([@Kevin\_Logan](https://x.com/Kevin_Logan)) / [Burn Watch](categories/bot-tools.md#bot-JEpich3S4Dlid1ACt3I6v) ([@CaliLumberJack](https://x.com/CaliLumberJack)) — keep a growing bot fleet from burning usage
+8. [Burn Watch](categories/bot-tools.md#bot-JEpich3S4Dlid1ACt3I6v) ([@CaliLumberJack](https://x.com/CaliLumberJack)) — keep a growing bot fleet from burning usage
 9. [Tripwire](categories/security-and-bot-safety.md#bot-XoYfr_5me3IicLxWfpP3n) ([@ssbrouhard](https://x.com/ssbrouhard)) + [UniFi Network Admin](categories/home-network-and-tech.md#bot-mFhBFJhKItbV4FyUl96Za) ([@cadena\_gus](https://x.com/cadena_gus)) — alerts for software you actually run, and read-only daily health checks for people who use UniFi
 
 More combinations are on [Suggested Stacks](guides/suggested-stacks.md).
@@ -98,9 +98,9 @@ More combinations are on [Suggested Stacks](guides/suggested-stacks.md).
 Removing personal data, stopping spam, cleaning inboxes, and shrinking an online footprint.
 
 - [**People-Search & Data Broker Removal**](categories/people-search-and-data-brokers.md) (17) — Find people-search and data-broker listings, file removals, and recheck.
-- [**Spam Calls & Do Not Call**](categories/spam-calls-and-do-not-call.md) (10) — Get a number off telemarketer lists, report scam calls, and screen suspicious calls.
+- [**Spam Calls & Do Not Call**](categories/spam-calls-and-do-not-call.md) (9) — Get a number off telemarketer lists, report scam calls, and screen suspicious calls.
 - [**Email, Newsletters, Subscriptions & Physical Mail**](categories/email-newsletters-and-mail.md) (18) — Unsubscribe, cancel recurring charges, triage inboxes, and stop junk mail.
-- [**X (Twitter) Cleanup**](categories/x-cleanup.md) (13) — Audit old posts and clean followers, following, and spam accounts on X.
+- [**X (Twitter) Cleanup**](categories/x-cleanup.md) (12) — Audit old posts and clean followers, following, and spam accounts on X.
 - [**Bonus / Adjacent**](categories/bonus-and-adjacent.md) (5) — Nearby privacy jobs: credit-report errors, phishing checks, account lockdown, and refunds.
 
 <a id="security"></a>
@@ -109,7 +109,7 @@ Removing personal data, stopping spam, cleaning inboxes, and shrinking an online
 Vetting bots, account security, scams, patches, and the home network.
 
 - [**Security & Bot Safety**](categories/security-and-bot-safety.md) (53) — Vet third-party bots before you add them, lock down accounts, catch scams, and watch for vulnerabilities that touch what you run.
-- [**Home Network, Smart Home & Tech Help**](categories/home-network-and-tech.md) (40) — Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home Assistant, and everyday tech help.
+- [**Home Network, Smart Home & Tech Help**](categories/home-network-and-tech.md) (38) — Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home Assistant, and everyday tech help.
 
 <a id="money"></a>
 ### Money and shopping
@@ -128,7 +128,7 @@ Research, developer tools, and bots that manage other bots.
 - [**Productivity, Research & News**](categories/productivity-research-and-news.md) (20) — Research, news, reading, and learning.
 - [**Small Business & Freelance**](categories/small-business-and-freelance.md) (12) — Bookkeeping, month-end close, and chasing unpaid invoices.
 - [**Developer & Power-User**](categories/developer-and-power-user.md) (14) — Shell, local models, Mac tools, and bridges from other assistants.
-- [**Bot Tools (Manage Your Bots)**](categories/bot-tools.md) (19) — Build plugins, cut routine usage, and back up bot setups.
+- [**Bot Tools (Manage Your Bots)**](categories/bot-tools.md) (18) — Build plugins, cut routine usage, and back up bot setups.
 
 <a id="life"></a>
 ### Home and life
@@ -140,7 +140,7 @@ Home, health, travel, work, and everything else.
 - [**Health, Fitness & Food**](categories/health-fitness-and-food.md) (10) — Training, meals, insurance claims, and appointment prep.
 - [**Travel**](categories/travel.md) (11) — Road trips, flights, parks, packing, and snow.
 - [**Career & Job Search**](categories/career-and-job-search.md) (5) — Find roles, tailor a resume, and practice interviews.
-- [**X Creators & Content**](categories/x-creators-and-content.md) (11) — See what posted well, cut clips, and draft replies.
+- [**X Creators & Content**](categories/x-creators-and-content.md) (10) — See what posted well, cut clips, and draft replies.
 - [**Fun & Lifestyle**](categories/fun-and-lifestyle.md) (6) — Sports, skywatching, tabletop games, and voting.
 
 <a id="guides"></a>

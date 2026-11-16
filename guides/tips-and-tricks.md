@@ -2,7 +2,7 @@
 
 [← Back to README](../README.md)
 
-Tips that came from a post or page link to it. Official means an xAI Grok Bot doc or guide. Tips 7, 18, and 43 point to bots on this list.
+Tips that came from a post or page link to it. Official means an xAI Grok Bot doc or guide. Tips 7 and 43 point to bots on this list.
 
 ## On this page
 
@@ -53,7 +53,7 @@ Tips that came from a post or page link to it. Official means an xAI Grok Bot do
 
 **17.** Routine-audit prompt: classify each routine as KEEP / SLOW DOWN / EVENT TRIGGER / CHANGE CHECK / RETIRE, rank by usage saved, and "don't make any changes until I approve." ([@Michael_Fenech_](https://x.com/Michael_Fenech_/status/2111478843202818102))
 
-**18.** Turn mechanical "is there work?" checks into a tiny script that runs first and only wakes the bot when there is something to do. ([@wavegod](https://x.com/wavegod/status/2112961302767493490); bot on this list: [Script This Routine](../categories/bot-tools.md#bot-9E8iw2zlg2fTWzUT6RUsP) ([@Kevin\_Logan](https://x.com/Kevin_Logan)))
+**18.** Turn mechanical "is there work?" checks into a tiny script that runs first and only wakes the bot when there is something to do. ([@wavegod](https://x.com/wavegod/status/2112961302767493490))
 
 **19.** Find routines you're running by hand: "Look through the prompts I've sent to my different Bots. Which of these should turn into a routine or its own Bot?" Same check daily = routine; "when X happens" = trigger. ([@GrokBotRadar](https://x.com/GrokBotRadar/status/2114285625688137775))
 
