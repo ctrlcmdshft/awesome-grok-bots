@@ -4,7 +4,7 @@
 
 Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home Assistant, and everyday tech help.
 
-**39** bots. Third-party and unofficial. Read the template before you add it.
+**40** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -28,7 +28,7 @@ Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home A
   - [Dry Run Lab](#bot-dnCnydyRm8J_xYeekmVCp)
 - [Wi-Fi, router & internet](#wifi) (6)
 - [Smart home & TV](#smart-home) (10)
-- [Bot computer upkeep & everyday tech help](#upkeep) (6)
+- [Bot computer upkeep & everyday tech help](#upkeep) (7)
 
 ## <a id="homelab"></a>Homelab, self-hosted & remote access
 
@@ -88,6 +88,7 @@ Homelab and self-hosted helpers, UniFi and Tailscale admins, Wi-Fi fixes, Home A
 | <a id="bot-a1QqX6YAK6rute6G0bb9h"></a>**Pulse · Gaming Laptop Tech** | Windows gaming-laptop tech that explains why your PC is slow, hot, loud, or acting up and gives ranked fixes; changes nothing without approval | [@Adamdesgns](https://x.com/Adamdesgns) | [Add](https://x.ai/bot/a1QqX6YAK6rute6G0bb9h) |
 | <a id="bot-QRlE_6dqqnXr_WRGr2eMU"></a>**helpdesk** | Tech broke? From Starlink dishes to laptops, describe it or send a photo and it walks you through the fix step by step, safest first (works with Starlink, not official) | [@moondough](https://x.com/moondough) | [Add](https://x.ai/bot/QRlE_6dqqnXr_WRGr2eMU) |
 | <a id="bot-oVtHm6fwB4QD1o6lGEfx0"></a>**Device Health Check Bot** | Audit-first checkup for your phone and laptop covering security, privacy, storage, and slowdowns; you get a ranked fix list and an HTML plus PDF report, and it changes only what you approve | [@BrianRoemmele](https://x.com/BrianRoemmele) | [Add](https://x.ai/bot/oVtHm6fwB4QD1o6lGEfx0) |
+| <a id="bot-IrnpucR9vcojl3FfUbBFj"></a>**Photo Cleanup** | Frees up phone storage by finding big videos, screenshots, blurry shots and duplicates in iCloud Photos or Google Photos; nothing is deleted until you approve | [@1BethDutton](https://x.com/1BethDutton) | [Add](https://x.ai/bot/IrnpucR9vcojl3FfUbBFj) |
 
 ---
 

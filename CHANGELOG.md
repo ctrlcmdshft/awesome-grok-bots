@@ -1,5 +1,29 @@
 # Changelog
 
+## 2026-11-16
+
+Added 15 bots. The list now has 327. Each new entry keeps `date_added: 2026-11-16`. Category and subcategory slugs already matched this list, so none were remapped. No existing name or link was duplicated, so none were skipped. Proto Bot names no creator. Photo Cleanup is under everyday tech help. Template Scrub Desk is under vet bots.
+
+- Security & Bot Safety (1): Template Scrub Desk
+- Home Network, Smart Home & Tech Help (1): Photo Cleanup
+- Productivity, Research & News (5): Zoom Meeting Companion, Dashboard Maker, Any Video Into A Magazine, Model Notifier, Nearby Reminders
+- Small Business & Freelance (4): Weekly Focus Coach, Holly Helpdesk, Property Bot, Web Designer
+- Developer & Power-User (1): Proto Bot
+- Family, School & Learning (1): Study Buddy
+- Travel (1): Day Route
+- X Creators & Content (1): Clip Scout
+
+Two tips went into [Tips & Tricks](guides/tips-and-tricks.md). Bot-to-bot messages cost usage ([@GrokBotRadar](https://x.com/GrokBotRadar/status/2121914113173729454)): every message one bot sends another runs a turn, an idle bot can still be woken by the others, and "stay quiet" is only a hint. Bots can join meetings (Official: [Grok Bot changelog, Nov 11, 2026](https://x.ai/bot/changelog)): on Team, Enterprise and Ultra plans a bot can join a Google Meet, Zoom or Microsoft Teams call from a link. Later tips were renumbered. Tips 7 and 18 still point at bots on this list; the privacy-recheck tip is now 43.
+
+Links now returning 404 (not removed; recheck next week):
+
+- FTC Report Scam Call (https://x.ai/bot/qZcBjyxPRa1kWJ_sel0gv)
+- PC Helper (https://x.ai/bot/9hIrzYGGufiO6k0OEAAWr)
+- Script This Routine (https://x.ai/bot/9E8iw2zlg2fTWzUT6RUsP; also referenced in quick_start and tip 18)
+- Media Center Engineer (https://x.ai/bot/M67wmr4HRv74Xv6TF8qk8)
+- Reply Guy Filter (https://x.ai/bot/Ziv_ijWI1Phj_3zk4I9nE)
+- Spaces Recap (https://x.ai/bot/HXkpC2Z5XP9BdB7s86jBv)
+
 ## 2026-11-09
 
 Added 15 bots. The list now has 312. Each new entry keeps `date_added: 2026-11-09`. Category and subcategory slugs already matched this list, so none were remapped. No existing name or link was duplicated, and every candidate page loaded, so none were skipped. Every new entry has a creator and an X handle. Scam Second Opinion is under scams and phishing. Breach Watch is under account security. Device Health Check Bot is under everyday tech help.

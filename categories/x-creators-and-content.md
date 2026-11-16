@@ -4,7 +4,7 @@
 
 See what posted well, cut clips, and draft replies.
 
-**10** bots. Third-party and unofficial. Read the template before you add it.
+**11** bots. Third-party and unofficial. Read the template before you add it.
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -18,6 +18,7 @@ See what posted well, cut clips, and draft replies.
 | <a id="bot-75I3z39UdqQafBB8_p_IM"></a>**Viral Format Scout** | Send it a rough idea or draft and it finds real high-performing X posts, breaks down their structure, and rewrites your post in your voice | [@0xHvdes](https://x.com/0xHvdes) | [Add](https://x.ai/bot/75I3z39UdqQafBB8_p_IM) |
 | <a id="bot-zEZeFchc863A_-JaGcX2D"></a>**Nole** | Drafts X posts in your voice, builds growth plans, and audits your account against X's rules, using X's open-source ranking code and classic copywriting | [@DotComParker](https://x.com/DotComParker) | [Add](https://x.ai/bot/zEZeFchc863A_-JaGcX2D) |
 | <a id="bot-E6NdmXG5F9O_B6nFiDIJW"></a>**Director** | Lead of a six-bot video production team: routes each video job to the right specialist, enforces one house style, and QAs every cut before handing you a post-ready draft | [@wikiwayne](https://x.com/wikiwayne) | [Add](https://x.ai/bot/E6NdmXG5F9O_B6nFiDIJW) |
+| <a id="bot-4NqsiMMtFOuofLFnWZgun"></a>**Clip Scout** | Tell it your niche and it scans the biggest podcasts posted on X for moments worth clipping, then sends exact timestamps and ready-to-paste captions each morning | [@VibeMarketer\_](https://x.com/VibeMarketer_) | [Add](https://x.ai/bot/4NqsiMMtFOuofLFnWZgun) |
 
 ---
 

@@ -4,11 +4,11 @@
 
 Vet third-party bots before you add them, lock down accounts, catch scams, and watch for vulnerabilities that touch what you run.
 
-**52** bots. Third-party and unofficial. Read the template before you add it.
+**53** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
-- [Vet bots & protect your bot fleet](#vet-bots) (12)
+- [Vet bots & protect your bot fleet](#vet-bots) (13)
   - [Bouncer](#bot-o2OyTjWlNOUdYwr61prw_)
   - [Template Safety Checker](#bot-8JbRKMaD-VrcN_QyitMXN)
   - [Doorcheck](#bot-bDhYfDe0sPlaVI9zMmZ4e)
@@ -21,6 +21,7 @@ Vet third-party bots before you add them, lock down accounts, catch scams, and w
   - [Security (gatekeeper)](#bot-DWcrUM2ZY3g7lhp0pPA5l)
   - [BotSec](#bot-1YzVIsTRcLxaqlLZouJiB)
   - [Box Inspector](#bot-q7GLbLhMZDpJXBGuuci1J)
+  - [Template Scrub Desk](#bot-tKzEEP-Fmlzi_zAgOU71r)
 - [Account security, breaches & identity](#account-security) (9)
 - [Scams, phishing & imposters](#scams-phishing) (14)
   - [Is This a Scam?](#bot-Jc3Eh6tRUvTLYqdGjTm7q)
@@ -72,6 +73,7 @@ Vet third-party bots before you add them, lock down accounts, catch scams, and w
 | <a id="bot-DWcrUM2ZY3g7lhp0pPA5l"></a>**Security (gatekeeper)** | Your other bots pass it incoming emails and outside data first, and it checks for prompt injection | [@Johnson20062123](https://x.com/Johnson20062123) | [Add](https://x.ai/bot/DWcrUM2ZY3g7lhp0pPA5l) |
 | <a id="bot-1YzVIsTRcLxaqlLZouJiB"></a>**BotSec** | Head of security for a home with several bots: checks email for phishing and social-engineering tells, headers and links | [@scardinafineart](https://x.com/scardinafineart) | [Add](https://x.ai/bot/1YzVIsTRcLxaqlLZouJiB) |
 | <a id="bot-q7GLbLhMZDpJXBGuuci1J"></a>**Box Inspector** | Paste a Grok Bot share link before you Add it; dumps the persona, skills, routines, memories, and plugins inside, flags risks, and never adds anything for you | [@SuddenlyJon](https://x.com/SuddenlyJon) | [Add](https://x.ai/bot/q7GLbLhMZDpJXBGuuci1J) |
+| <a id="bot-tKzEEP-Fmlzi_zAgOU71r"></a>**Template Scrub Desk** | Checks a bot's profile, skills, routines and exported text for secrets and personal info before you share it as a template; returns Clear or Needs action with exact citations and never publishes without your OK | [@usgworld](https://x.com/usgworld) | [Add](https://x.ai/bot/tKzEEP-Fmlzi_zAgOU71r) |
 
 ## <a id="account-security"></a>Account security, breaches & identity
 

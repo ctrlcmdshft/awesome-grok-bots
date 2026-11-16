@@ -4,7 +4,7 @@
 
 School portals, IEPs, co-parenting, homework help, library cards, and languages.
 
-**7** bots. Third-party and unofficial. Read the template before you add it.
+**8** bots. Third-party and unofficial. Read the template before you add it.
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -15,6 +15,7 @@ School portals, IEPs, co-parenting, homework help, library cards, and languages.
 | <a id="bot--HQf7A1KZQhpWjU51xYT5"></a>**Parent Math Helper** | Coaches a parent through K-12 math homework in plain words: the method step by step, one sentence to say to your child, and a quick check | [@drbellahqw](https://x.com/drbellahqw) | [Add](https://x.ai/bot/-HQf7A1KZQhpWjU51xYT5) |
 | <a id="bot-hP9HbiY3uezVHMWnCX8va"></a>**Library Mary** | Finds the free reciprocal and non-resident library cards you qualify for and applies for you, so you get more Libby ebooks and audiobooks | [@omgmaddie](https://x.com/omgmaddie) | [Add](https://x.ai/bot/hP9HbiY3uezVHMWnCX8va) |
 | <a id="bot-wGlMEM1W5fXmmtuoyt_aO"></a>**Language Coach** | Tutor for any language: short daily lessons, voice drills for pronunciation and evening review quizzes | [@melvindvivas](https://x.com/melvindvivas) | [Add](https://x.ai/bot/wGlMEM1W5fXmmtuoyt_aO) |
+| <a id="bot-_-LDZX4_M3rfCzU-mhftn"></a>**Study Buddy** | Turns class slides or notes into a study guide, practice quizzes and flashcards for high school and college students, with exam reminders and spaced review | [@Mavmetax](https://x.com/Mavmetax) | [Add](https://x.ai/bot/_-LDZX4_M3rfCzU-mhftn) |
 
 ---
 

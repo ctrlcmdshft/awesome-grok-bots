@@ -4,7 +4,7 @@
 
 Research, news, reading, and learning.
 
-**15** bots. Third-party and unofficial. Read the template before you add it.
+**20** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -23,6 +23,11 @@ Research, news, reading, and learning.
 - [Phone Call Bot](#bot-5VOzTZvBuUv2bhQUqIXjj)
 - [Competitor Watch](#bot-iTKQ09ZMtiV9K9JkwCbmA)
 - [Deep Dive](#bot-JrY2AEbR1I1TLVU4E3OIy)
+- [Zoom Meeting Companion](#bot-s81dzLlb2LIy7uEVtBrl6)
+- [Dashboard Maker](#bot-qbiG4Q0RQuy0Y_C8Hr--l)
+- [Any Video Into A Magazine](#bot-Dky0PJsMVdTE6h_6cN6kq)
+- [Model Notifier](#bot-cCBzxPeJyseV7DiLYLW3S)
+- [Nearby Reminders](#bot-osi4qnCsyi_E_58tQShCJ)
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -41,6 +46,11 @@ Research, news, reading, and learning.
 | <a id="bot-5VOzTZvBuUv2bhQUqIXjj"></a>**Phone Call Bot** | Makes real phone calls for you (cancellations, refunds, reservations) and reports back | Bowlboy | [Add](https://x.ai/bot/5VOzTZvBuUv2bhQUqIXjj) |
 | <a id="bot-iTKQ09ZMtiV9K9JkwCbmA"></a>**Competitor Watch** | Checks competitors' public pages (site, pricing, changelog, blog, job posts, and public X) against last time and sends one short digest of real changes with a source link, staying quiet when nothing changed | [@CaliLumberJack](https://x.com/CaliLumberJack) | [Add](https://x.ai/bot/iTKQ09ZMtiV9K9JkwCbmA) |
 | <a id="bot-JrY2AEbR1I1TLVU4E3OIy"></a>**Deep Dive** | A deep-research assistant that investigates any question across studies, primary documents, news, and social media, reads sources in full, explains contradictions, and tells you how sure it is | [@175rng](https://x.com/175rng) | [Add](https://x.ai/bot/JrY2AEbR1I1TLVU4E3OIy) |
+| <a id="bot-s81dzLlb2LIy7uEVtBrl6"></a>**Zoom Meeting Companion** | Joins your Zoom meetings from a link or your calendar, takes notes and tracks decisions and action items, then sends a shareable PDF summary, a full transcript and a private coaching report | [@BrianRoemmele](https://x.com/BrianRoemmele) | [Add](https://x.ai/bot/s81dzLlb2LIy7uEVtBrl6) |
+| <a id="bot-qbiG4Q0RQuy0Y_C8Hr--l"></a>**Dashboard Maker** | Works out which parts of your work deserve a dashboard, builds them as live Pages from real data, and retires the ones nobody uses | [@Av1dlive](https://x.com/Av1dlive) | [Add](https://x.ai/bot/qbiG4Q0RQuy0Y_C8Hr--l) |
+| <a id="bot-Dky0PJsMVdTE6h_6cN6kq"></a>**Any Video Into A Magazine** | Turns the YouTube channels and podcasts you follow into a weekly magazine with feature articles, photos from the videos and pull quotes linked to the exact moment, delivered as a Kindle EPUB and an email newsletter | [@BrianRoemmele](https://x.com/BrianRoemmele) | [Add](https://x.ai/bot/Dky0PJsMVdTE6h_6cN6kq) |
+| <a id="bot-cCBzxPeJyseV7DiLYLW3S"></a>**Model Notifier** | Alerts you when a major AI lab releases a new model, with what's new, where to use it and its benchmarks, then follows up hours later with how people are reacting | [@blueemi99](https://x.com/blueemi99) | [Add](https://x.ai/bot/cCBzxPeJyseV7DiLYLW3S) |
+| <a id="bot-osi4qnCsyi_E_58tQShCJ"></a>**Nearby Reminders** | A location-based to-do list: tie items to a store, address or kind of place and get a nudge when your phone shows you're nearby | [@kcmcdonald](https://x.com/kcmcdonald) | [Add](https://x.ai/bot/osi4qnCsyi_E_58tQShCJ) |
 
 ---
 

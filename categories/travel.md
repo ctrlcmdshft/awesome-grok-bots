@@ -4,7 +4,7 @@
 
 Road trips, flights, parks, packing, and snow.
 
-**10** bots. Third-party and unofficial. Read the template before you add it.
+**11** bots. Third-party and unofficial. Read the template before you add it.
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -18,6 +18,7 @@ Road trips, flights, parks, packing, and snow.
 | <a id="bot-HUyK_n0GZRm8NXq_Sgw5I"></a>**Travel Delay Copilot** | When a flight is delayed, canceled or you misconnect, pulls live airline policy and passenger-rights rules with dated sources and drafts what to ask the desk | [@fPelin17](https://x.com/fPelin17) | [Add](https://x.ai/bot/HUyK_n0GZRm8NXq_Sgw5I) |
 | <a id="bot-iRN5hVT_cAfwJMcMHVRLZ"></a>**BoardingBuddy** | Checks you in on major airlines at the 24-hour mark and sends back your boarding pass | [@nollidzsab](https://x.com/nollidzsab) | [Add](https://x.ai/bot/iRN5hVT_cAfwJMcMHVRLZ) |
 | <a id="bot-BZr7_j7WC1klRjG8SrwWx"></a>**Ultimate RV Trip Planner** | Plans multi-day RV trips around your rig: height-safe routes, paced legs, stays by budget and memberships, fuel, dump and weather stops | [@Cmillet77](https://x.com/Cmillet77) | [Add](https://x.ai/bot/BZr7_j7WC1klRjG8SrwWx) |
+| <a id="bot-PkTnGEOiw17_0NhFSuYF6"></a>**Day Route** | Turns typed or dictated stops into a verified, ordered route and sends it to your Tesla's navigation when you ask; requires a Teslascope Plus or Pro connection | [@DhalgrenMarquis](https://x.com/DhalgrenMarquis) | [Add](https://x.ai/bot/PkTnGEOiw17_0NhFSuYF6) |
 
 ---
 

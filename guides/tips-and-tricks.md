@@ -2,7 +2,7 @@
 
 [← Back to README](../README.md)
 
-Tips that came from a post or page link to it. Official means an xAI Grok Bot doc or guide. Tips 7, 18, and 41 point to bots on this list.
+Tips that came from a post or page link to it. Official means an xAI Grok Bot doc or guide. Tips 7, 18, and 43 point to bots on this list.
 
 ## On this page
 
@@ -59,52 +59,56 @@ Tips that came from a post or page link to it. Official means an xAI Grok Bot do
 
 **20.** Usage limits are per week. On-demand usage (if on) continues past it up to your monthly cap, and a running task can finish slightly past the cap. (Official: [Plans and billing](https://prod.cursor.com/help/grok-bot/plans), [FAQs](https://cursor.com/help/grok-bot/faqs))
 
+**21.** **Bot-to-bot messages cost usage.** Every message one bot sends another runs a turn, and every turn counts toward your week. An idle bot can still be woken by your other bots, and telling bots to "stay quiet" is only a hint. For multi-step jobs, run the work in one bot that uses subagents, which finish and stop, and delete bots you no longer use (save the chat first, since deleting clears it). ([@GrokBotRadar](https://x.com/GrokBotRadar/status/2121914113173729454))
+
 ## Writing good routines and skills
 
-**21.** Go Task → Fix → Skill → Test → Routine, not Prompt → Routine. Automate last. ([@Michael_Fenech_](https://x.com/Michael_Fenech_/status/2106352565528977469); Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
+**22.** Go Task → Fix → Skill → Test → Routine, not Prompt → Routine. Automate last. ([@Michael_Fenech_](https://x.com/Michael_Fenech_/status/2106352565528977469); Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
 
-**22.** Turn a role into a durable bot in six steps. Put the job, sources, output format and boundaries in the bot's description; run one real task with a safe scope; correct it until it's reviewable without you; save it as a skill and test it on a second input; add a routine only after retries and failure cases are defined; keep external actions behind approval. (Official: [Use cases](https://docs.x.ai/grok-bot/use-cases))
+**23.** Turn a role into a durable bot in six steps. Put the job, sources, output format and boundaries in the bot's description; run one real task with a safe scope; correct it until it's reviewable without you; save it as a skill and test it on a second input; add a routine only after retries and failure cases are defined; keep external actions behind approval. (Official: [Use cases](https://docs.x.ai/grok-bot/use-cases))
 
-**23.** A good skill states when to use it, required inputs/access, the steps, how to validate, what to return, and what needs approval. (Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
+**24.** A good skill states when to use it, required inputs/access, the steps, how to validate, what to return, and what needs approval. (Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
 
-**24.** When **Teach a task** is available, demonstrate a browser workflow once instead of writing every step. Open a one-to-one chat and its computer view, choose Teach a task, describe the result, perform it, then review the draft skill and test it on a safe example before scheduling. Recording covers visible computer interaction for up to ten minutes and does not record microphone audio, so don't type secrets during the demo. If the control isn't there yet, ask the bot to save a skill from written instructions. (Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
+**25.** When **Teach a task** is available, demonstrate a browser workflow once instead of writing every step. Open a one-to-one chat and its computer view, choose Teach a task, describe the result, perform it, then review the draft skill and test it on a safe example before scheduling. Recording covers visible computer interaction for up to ten minutes and does not record microphone audio, so don't type secrets during the demo. If the control isn't there yet, ask the bot to save a skill from written instructions. (Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
 
-**25.** When creating a routine, confirm the owning bot, schedule and time zone, input source, expected result, approval boundary, and what to do if a source is missing. (Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
+**26.** When creating a routine, confirm the owning bot, schedule and time zone, input source, expected result, approval boundary, and what to do if a source is missing. (Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
 
-**26.** Check the routine's time zone and "When to run". Schedules use Settings → Bot → Timezone (auto-detect follows the current computer). After asking for a schedule in plain words, open the routine and read When to run, which shows the saved schedule in words; choose Edit if it isn't what you meant. (Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
+**27.** Check the routine's time zone and "When to run". Schedules use Settings → Bot → Timezone (auto-detect follows the current computer). After asking for a schedule in plain words, open the routine and read When to run, which shows the saved schedule in words; choose Edit if it isn't what you meant. (Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
 
-**27.** Include a no-data / stale-data policy and say where to report partial completion; re-test after a website or source changes. (Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
+**28.** Include a no-data / stale-data policy and say where to report partial completion; re-test after a website or source changes. (Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
 
-**28.** A new routine waits for its next scheduled time; use Test to try it now, and remember Test does real work, so use safe inputs. (Official: [Routines help](https://cursor.com/help/grok-bot/routines))
+**29.** A new routine waits for its next scheduled time; use Test to try it now, and remember Test does real work, so use safe inputs. (Official: [Routines help](https://cursor.com/help/grok-bot/routines))
 
-**29.** No Test button? Do a dry run in chat. Some routines don't show Test. Ask the bot to do the same work once in chat with a safe input, then watch the first scheduled run before relying on it. (Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
+**30.** No Test button? Do a dry run in chat. Some routines don't show Test. Ask the bot to do the same work once in chat with a safe input, then watch the first scheduled run before relying on it. (Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
 
-**30.** Limits to know: up to 50 routines per bot, schedules at least 5 minutes apart, and deleting a routine can't be undone. (Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
+**31.** Limits to know: up to 50 routines per bot, schedules at least 5 minutes apart, and deleting a routine can't be undone. (Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
 
-**31.** Routines have hourly caps. All your routines together can run up to 300 times an hour, and any one routine up to 200 times an hour. Past either limit a run fails with `Automation run rate limit exceeded`. If one routine keeps hitting it, narrow its trigger or widen its schedule. (Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
+**32.** Routines have hourly caps. All your routines together can run up to 300 times an hour, and any one routine up to 200 times an hour. Past either limit a run fails with `Automation run rate limit exceeded`. If one routine keeps hitting it, narrow its trigger or widen its schedule. (Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
 
-**32.** Prefer narrow event triggers over broad listeners like "every new message," which create noise and burn usage. (Official: [Work with Grok Bot](https://cursor.com/docs/grok-bot/work))
+**33.** Prefer narrow event triggers over broad listeners like "every new message," which create noise and burn usage. (Official: [Work with Grok Bot](https://cursor.com/docs/grok-bot/work))
 
-**33.** Event triggers only see new activity. A routine triggered by Slack, GitHub, Linear, Sentry, PagerDuty, email or a webhook ignores events from before the trigger existed, so it will not backfill old issues or messages. Run a one-time catch-up task in chat if you need history. (Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
+**34.** Event triggers only see new activity. A routine triggered by Slack, GitHub, Linear, Sentry, PagerDuty, email or a webhook ignores events from before the trigger existed, so it will not backfill old issues or messages. Run a one-time catch-up task in chat if you need history. (Official: [Skills and routines](https://docs.x.ai/grok-bot/skills-routines-and-automations))
 
-**34.** Put the job, sources, output format and standing boundaries in the bot's description, then run one real task before automating. (Official: [Use cases](https://docs.x.ai/grok-bot/use-cases))
+**35.** Put the job, sources, output format and standing boundaries in the bot's description, then run one real task before automating. (Official: [Use cases](https://docs.x.ai/grok-bot/use-cases))
 
-**35.** For research, give the bot a finish line: one measurable outcome, primary sources first, evidence beside claims, and an explicit stop condition. ([@ludoonchart](https://x.com/ludoonchart/status/2107191775433543884))
+**36.** For research, give the bot a finish line: one measurable outcome, primary sources first, evidence beside claims, and an explicit stop condition. ([@ludoonchart](https://x.com/ludoonchart/status/2107191775433543884))
 
 ## Useful extras
 
-**36.** Move your ChatGPT or Claude memory in: ask the old AI to export its memories of you, then tell Grok Bot "Import this memory." Skim and delete anything first. ([@GrokBotRadar](https://x.com/GrokBotRadar/status/2114651560177435049))
+**37.** Move your ChatGPT or Claude memory in: ask the old AI to export its memories of you, then tell Grok Bot "Import this memory." Skim and delete anything first. ([@GrokBotRadar](https://x.com/GrokBotRadar/status/2114651560177435049))
 
-**37.** Give your bot its own inbox and forward it messy stuff (bills, forms, threads). You get one address per account and it can't be renamed, so pick carefully. ([@BotMeetUps](https://x.com/BotMeetUps/status/2113953564787880232))
+**38.** Give your bot its own inbox and forward it messy stuff (bills, forms, threads). You get one address per account and it can't be renamed, so pick carefully. ([@BotMeetUps](https://x.com/BotMeetUps/status/2113953564787880232))
 
-**38.** Name the bot's email after a "chief of staff" persona rather than yourself, since copying in "you" reads oddly. ([@petergyang](https://x.com/petergyang/status/2108624122339287335))
+**39.** Name the bot's email after a "chief of staff" persona rather than yourself, since copying in "you" reads oddly. ([@petergyang](https://x.com/petergyang/status/2108624122339287335))
 
-**39.** iPhone: the Action Button can launch Grok Bot voice chat (iPhone 15 Pro or newer). ([@GrokBotPro](https://x.com/GrokBotPro/status/2114688509193683083))
+**40.** iPhone: the Action Button can launch Grok Bot voice chat (iPhone 15 Pro or newer). ([@GrokBotPro](https://x.com/GrokBotPro/status/2114688509193683083))
 
-**40.** Ask your bot where you're spending the most usage. ([@sawi1900](https://x.com/sawi1900/status/2107287460380131534))
+**41.** Ask your bot where you're spending the most usage. ([@sawi1900](https://x.com/sawi1900/status/2107287460380131534))
+
+**42.** **Bots can join meetings.** On Team, Enterprise and Ultra plans, a bot can join a Google Meet, Zoom or Microsoft Teams call from a link, answer in the meeting chat, and send a summary afterward. Microsoft Teams for Team bots needs a team admin to turn it on and a Teams admin to approve it. (Official: [Grok Bot changelog, Nov 11, 2026](https://x.ai/bot/changelog))
 
 ## Privacy-removal recheck schedules
 
-**41.** Data brokers often re-list people, which is why most removal bots here recheck: [Remove Me](../categories/people-search-and-data-brokers.md#bot-qlDBDdHjGkHD9pka-9fRy) ([@OutworkVentures](https://x.com/OutworkVentures)) rechecks in 30 days; [Privacy Scrubber](../categories/people-search-and-data-brokers.md#bot-ZSQK72Iear_ykfnpTIOHQ), [Spam-Call Scrubber (Arash)](../categories/people-search-and-data-brokers.md#bot-fUj6TYhiW_cjtzWvbsFgz) ([@MinimalDuck](https://x.com/MinimalDuck)) and [Invisible Man](../categories/people-search-and-data-brokers.md#bot-avOGLCUGcrQ0T23v2lENG) recheck monthly (per their descriptions on this list). Run **one** recheck routine per site family, not one per bot.
+**43.** Data brokers often re-list people, which is why most removal bots here recheck: [Remove Me](../categories/people-search-and-data-brokers.md#bot-qlDBDdHjGkHD9pka-9fRy) ([@OutworkVentures](https://x.com/OutworkVentures)) rechecks in 30 days; [Privacy Scrubber](../categories/people-search-and-data-brokers.md#bot-ZSQK72Iear_ykfnpTIOHQ), [Spam-Call Scrubber (Arash)](../categories/people-search-and-data-brokers.md#bot-fUj6TYhiW_cjtzWvbsFgz) ([@MinimalDuck](https://x.com/MinimalDuck)) and [Invisible Man](../categories/people-search-and-data-brokers.md#bot-avOGLCUGcrQ0T23v2lENG) recheck monthly (per their descriptions on this list). Run **one** recheck routine per site family, not one per bot.
 
 [← Back to README](../README.md)
