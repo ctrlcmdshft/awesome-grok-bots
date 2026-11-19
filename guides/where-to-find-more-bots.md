@@ -10,6 +10,7 @@
 | [GrokBot101 bots](https://grokbot101.org/bots/) | Shareable bots with install links and sharer credit; public [bots JSON](https://grokbot101.org/api/v1/bots.json) |
 | [grokbot.dev](https://grokbot.dev) | Open-source directory of templates, prompts and plugins; [templates JSON](https://grokbot.dev/api/v1/templates.json) |
 | [Hire a Grok Bot](https://hireagrokbot.com) | Bots organized by job (for example Home IT Support), each with the template link |
+| [Grok Bots Market](https://grokbotsmarket.com) | Independent directory (~190 bots) sorted by task and connected app; many pages show run screenshots or a recorded demo, and each links to the x.ai share page |
 | [grokbot.guru: every official template](https://grokbot.guru/templates/) | Third-party list of all official marketplace templates with guides |
 | X search: [`url:"x.ai/bot"`](https://x.com/search?q=url%3A%22x.ai%2Fbot%22&f=live) | Live feed of people sharing new bot links |
 | [Libby, Tool Scout](../categories/bot-tools.md#bot-8tBB5UzziKPPu8TQKTTET) ([@DarinRMcClure](https://x.com/DarinRMcClure)) | A bot on this list that scouts templates for any job and returns a ranked shortlist |
