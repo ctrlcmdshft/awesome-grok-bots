@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-19
+
+Added [Grok Bots Market](https://grokbotsmarket.com) to [Where to Find More Bots](guides/where-to-find-more-bots.md). No bot entries changed.
+
 ## 2026-11-16
 
 Added 15 bots. The list now has 321. Each new entry keeps `date_added: 2026-11-16`. Category and subcategory slugs already matched this list, so none were remapped. No existing name or link was duplicated, so none were skipped. Proto Bot names no creator. Photo Cleanup is under everyday tech help. Template Scrub Desk is under vet bots.
