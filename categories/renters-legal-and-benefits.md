@@ -4,7 +4,7 @@
 
 Leases and deposits, consumer-rights letters, property-tax appeals, and veterans' claims.
 
-**5** bots. Third-party and unofficial. Read the template before you add it.
+**6** bots. Third-party and unofficial. Read the template before you add it.
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -13,6 +13,7 @@ Leases and deposits, consumer-rights letters, property-tax appeals, and veterans
 | <a id="bot-KGGIphShOrHKrR1bk71k7"></a>**Renter Desk (Beta)** | Free beta, not legal advice: logs repair requests with a clock, checks rent and late fees against your lease, tracks lease dates and chases your deposit | [@hacks\_jimm53237](https://x.com/hacks_jimm53237) | [Add](https://x.ai/bot/KGGIphShOrHKrR1bk71k7) |
 | <a id="bot-ONLSQaVnarp5OYjp2CUPC"></a>**Claim Ready** | VA disability claim organizer for veterans: evidence checklist per condition, intent-to-file and exam dates, and help writing lay statements | [@Biggs237](https://x.com/Biggs237) | [Add](https://x.ai/bot/ONLSQaVnarp5OYjp2CUPC) |
 | <a id="bot-lxctdrxwSJetyc_dKKdgw"></a>**Appealinator** | Checks county property records for over-assessment and drafts a property-tax appeal when there are real savings | — | [Add](https://x.ai/bot/lxctdrxwSJetyc_dKKdgw) |
+| <a id="bot-RVEJz3GxUXU_oLysEUCMA"></a>**VA Claims Helper** | Helps veterans organize VA claims, write personal and buddy statements, gather records and track appointments | [@Antilitist](https://x.com/Antilitist) | [Add](https://x.ai/bot/RVEJz3GxUXU_oLysEUCMA) |
 
 ---
 

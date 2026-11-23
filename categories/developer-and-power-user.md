@@ -4,7 +4,7 @@
 
 Shell, local models, Mac tools, and bridges from other assistants.
 
-**14** bots. Third-party and unofficial. Read the template before you add it.
+**16** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -22,6 +22,8 @@ Shell, local models, Mac tools, and bridges from other assistants.
 - [T3 Code Bridge](#bot-_5NG_WsrOdQs2jtUhZeQH)
 - [Reverse Website Swarm](#bot-43Pa_W8af71QSWZkb90m8)
 - [Proto Bot](#bot-p4sSEZV7xqcBgdT7m2O8i)
+- [Release Desk](#bot-ywPVDeM782GnBOYmsl_h0)
+- [iPhone Screenshot Bot](#bot-BlzS2Llj7_9VSmi3TjX0r)
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -39,6 +41,8 @@ Shell, local models, Mac tools, and bridges from other assistants.
 | <a id="bot-_5NG_WsrOdQs2jtUhZeQH"></a>**T3 Code Bridge** | Start, steer and watch T3 Code coding threads from Grok Bot (needs T3 Connect) | [@trevin](https://x.com/trevin) | [Add](https://x.ai/bot/_5NG_WsrOdQs2jtUhZeQH) |
 | <a id="bot-43Pa_W8af71QSWZkb90m8"></a>**Reverse Website Swarm** | Studies how a website is built and crafts a working copy with Craft Anything from a URL or a local page | [@monokern](https://x.com/monokern) | [Add](https://x.ai/bot/43Pa_W8af71QSWZkb90m8) |
 | <a id="bot-p4sSEZV7xqcBgdT7m2O8i"></a>**Proto Bot** | Turns your ideas into working prototypes in your real app as draft pull requests with click-path screenshots and a short video; never merges, publishes or shares without your approval | — | [Add](https://x.ai/bot/p4sSEZV7xqcBgdT7m2O8i) |
+| <a id="bot-ywPVDeM782GnBOYmsl_h0"></a>**Release Desk** | App Store release desk for iOS and Mac apps: checks your app via App Store Connect before submission and watches review and TestFlight | [@luisbarragan](https://x.com/luisbarragan) | [Add](https://x.ai/bot/ywPVDeM782GnBOYmsl_h0) |
+| <a id="bot-BlzS2Llj7_9VSmi3TjX0r"></a>**iPhone Screenshot Bot** | Turns app screenshots into clean iPhone mockups on a choice of backgrounds | [@RyDawg42](https://x.com/RyDawg42) | [Add](https://x.ai/bot/BlzS2Llj7_9VSmi3TjX0r) |
 
 ---
 

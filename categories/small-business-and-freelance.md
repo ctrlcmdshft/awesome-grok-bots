@@ -4,7 +4,7 @@
 
 Bookkeeping, month-end close, and chasing unpaid invoices.
 
-**12** bots. Third-party and unofficial. Read the template before you add it.
+**15** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -20,6 +20,9 @@ Bookkeeping, month-end close, and chasing unpaid invoices.
 - [Holly Helpdesk](#bot-sIoeE87fILU5CzptPF29K)
 - [Property Bot](#bot-a5wQQGaKc_bm6UFZgmP0c)
 - [Web Designer](#bot-5knsZnIHZUKPYw3H3aW0_)
+- [CMO Bot](#bot-NxelfS7vVcTNOANWq8ol0)
+- [Landing Page Copy Critic](#bot-KGYaeHB_YqKJVCX_Gp0a6)
+- [First Responder](#bot-Az28cSJVi927jVG1WFEhJ)
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -35,6 +38,9 @@ Bookkeeping, month-end close, and chasing unpaid invoices.
 | <a id="bot-sIoeE87fILU5CzptPF29K"></a>**Holly Helpdesk** | Frontline customer support for a small business: works the help desk and support inbox (tickets, how-tos, billing lookups) and handles refunds or disputes only with owner approval | [@clairevo](https://x.com/clairevo) | [Add](https://x.ai/bot/sIoeE87fILU5CzptPF29K) |
 | <a id="bot-a5wQQGaKc_bm6UFZgmP0c"></a>**Property Bot** | Property manager for self-managed Airbnb and Vrbo hosts: watches bookings, preps check-ins and door codes, books cleaners, flags local events worth pricing up, drafts reviews and sends a weekly owner report | [@cathrynlavery](https://x.com/cathrynlavery) | [Add](https://x.ai/bot/a5wQQGaKc_bm6UFZgmP0c) |
 | <a id="bot-5knsZnIHZUKPYw3H3aW0_"></a>**Web Designer** | Redesigns and maintains a business website with mobile-first, fast, accessible pages built only from true facts, showing previews and screenshots before anything goes live | [@Marcellhazzard](https://x.com/Marcellhazzard) | [Add](https://x.ai/bot/5knsZnIHZUKPYw3H3aW0_) |
+| <a id="bot-NxelfS7vVcTNOANWq8ol0"></a>**CMO Bot** | A fractional CMO that interviews you once, then applies 53 marketing skills (positioning, copy, SEO, ads, pricing) | [@coreyhainesco](https://x.com/coreyhainesco) | [Add](https://x.ai/bot/NxelfS7vVcTNOANWq8ol0) |
+| <a id="bot-KGYaeHB_YqKJVCX_Gp0a6"></a>**Landing Page Copy Critic** | Reviews a landing page as a first-time buyer, scores its clarity and drafts sharper headlines | [@Austen](https://x.com/Austen) | [Add](https://x.ai/bot/KGYaeHB_YqKJVCX_Gp0a6) |
+| <a id="bot-Az28cSJVi927jVG1WFEhJ"></a>**First Responder** | Watches your inbox and web forms for new leads, scores them and drafts quick personal replies and follow-ups | [@voltclerk](https://x.com/voltclerk) | [Add](https://x.ai/bot/Az28cSJVi927jVG1WFEhJ) |
 
 ---
 

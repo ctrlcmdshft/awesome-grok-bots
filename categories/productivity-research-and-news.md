@@ -4,7 +4,7 @@
 
 Research, news, reading, and learning.
 
-**20** bots. Third-party and unofficial. Read the template before you add it.
+**21** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -28,6 +28,7 @@ Research, news, reading, and learning.
 - [Any Video Into A Magazine](#bot-Dky0PJsMVdTE6h_6cN6kq)
 - [Model Notifier](#bot-cCBzxPeJyseV7DiLYLW3S)
 - [Nearby Reminders](#bot-osi4qnCsyi_E_58tQShCJ)
+- [Civic Watchdog](#bot-cNPq6HWAjSxenTAhr0i_Q)
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -51,6 +52,7 @@ Research, news, reading, and learning.
 | <a id="bot-Dky0PJsMVdTE6h_6cN6kq"></a>**Any Video Into A Magazine** | Turns the YouTube channels and podcasts you follow into a weekly magazine with feature articles, photos from the videos and pull quotes linked to the exact moment, delivered as a Kindle EPUB and an email newsletter | [@BrianRoemmele](https://x.com/BrianRoemmele) | [Add](https://x.ai/bot/Dky0PJsMVdTE6h_6cN6kq) |
 | <a id="bot-cCBzxPeJyseV7DiLYLW3S"></a>**Model Notifier** | Alerts you when a major AI lab releases a new model, with what's new, where to use it and its benchmarks, then follows up hours later with how people are reacting | [@blueemi99](https://x.com/blueemi99) | [Add](https://x.ai/bot/cCBzxPeJyseV7DiLYLW3S) |
 | <a id="bot-osi4qnCsyi_E_58tQShCJ"></a>**Nearby Reminders** | A location-based to-do list: tie items to a store, address or kind of place and get a nudge when your phone shows you're nearby | [@kcmcdonald](https://x.com/kcmcdonald) | [Add](https://x.ai/bot/osi4qnCsyi_E_58tQShCJ) |
+| <a id="bot-cNPq6HWAjSxenTAhr0i_Q"></a>**Civic Watchdog** | Nonpartisan public-records researcher that follows a US city, county or agency's money, contracts and votes | [@LibertarianLars](https://x.com/LibertarianLars) | [Add](https://x.ai/bot/cNPq6HWAjSxenTAhr0i_Q) |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Build plugins, cut routine usage, and back up bot setups.
 
-**18** bots. Third-party and unofficial. Read the template before you add it.
+**20** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -23,9 +23,11 @@ Build plugins, cut routine usage, and back up bot setups.
 - [Grokbot Mail](#bot-vHWtUqHtdpfhnwTFOfEVT)
 - [Bot Improver](#bot-DsOFtUSYp4MhaOq_jv8qO)
 - [Routine Auditor](#bot-3y5FglJHBwwg_nR7TxFaI)
-- [Freebot](#bot-mrEaEhbIahB380oYB8N19)
+- [Freebot](#bot-HqJinOHal9l3pnyj6sfwp)
 - [Usage Coach](#bot-W-MSl0_nJJWc2XcCqQOzi)
 - [Grokvis](#bot-dOrBkhpwk1lUNPmyRC2Mo)
+- [Script This Routine](#bot-opM4RljMN_9IfQAIdybZv)
+- [Snoop](#bot-L4a4AB4fu9_TpT25oSc4D)
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -44,9 +46,11 @@ Build plugins, cut routine usage, and back up bot setups.
 | <a id="bot-vHWtUqHtdpfhnwTFOfEVT"></a>**Grokbot Mail** | Private, iPhone-first web mailbox for your Grok Bot's own email address (name@mail.grokbot.com and +tags), hosted on your own Vercel account | [@Phil\_Holland](https://x.com/Phil_Holland) | [Add](https://x.ai/bot/vHWtUqHtdpfhnwTFOfEVT) |
 | <a id="bot-DsOFtUSYp4MhaOq_jv8qO"></a>**Bot Improver** | Weekly check that your bots and automations actually move the numbers you care about, surfacing only fixes and disagreements | Eric | [Add](https://x.ai/bot/DsOFtUSYp4MhaOq_jv8qO) |
 | <a id="bot-3y5FglJHBwwg_nR7TxFaI"></a>**Routine Auditor** | Monthly audit of your routines: logs runs, finds failures and runs that do nothing, grades each and proposes trims you approve | [@bradgarland](https://x.com/bradgarland) | [Add](https://x.ai/bot/3y5FglJHBwwg_nR7TxFaI) |
-| <a id="bot-mrEaEhbIahB380oYB8N19"></a>**Freebot** | Moves your whole Grok Bot setup (every bot, its memory, how-tos, and routines) into Turnstone so you get the same experience there with AI subscriptions you already have, like ChatGPT or Claude | [@aryanvij02](https://x.com/aryanvij02) | [Add](https://x.ai/bot/mrEaEhbIahB380oYB8N19) |
+| <a id="bot-HqJinOHal9l3pnyj6sfwp"></a>**Freebot** | Moves your whole Grok Bot setup (every bot, its memory, how-tos, and routines) into Turnstone so you get the same experience there with AI subscriptions you already have, like ChatGPT or Claude | [@aryanvij02](https://x.com/aryanvij02) | [Add](https://x.ai/bot/HqJinOHal9l3pnyj6sfwp) |
 | <a id="bot-W-MSl0_nJJWc2XcCqQOzi"></a>**Usage Coach** | A weekly coach for your Grok Bot setup: reviews how you and your bots actually work, compares that to the official guides, and sends a short report on real time and credit savers | [@WilburJaywright](https://x.com/WilburJaywright) | [Add](https://x.ai/bot/W-MSl0_nJJWc2XcCqQOzi) |
 | <a id="bot-dOrBkhpwk1lUNPmyRC2Mo"></a>**Grokvis** | Bot command center for anyone running several Grok Bots: builds a crew dashboard with Inbox, Urgent actions, Ideas, Claim Check, and a theme switcher | [@teedubya](https://x.com/teedubya) | [Add](https://x.ai/bot/dOrBkhpwk1lUNPmyRC2Mo) |
+| <a id="bot-opM4RljMN_9IfQAIdybZv"></a>**Script This Routine** | Cuts bot usage by turning mechanical routine checks into small tested scripts and trimming setups | [@Kevin\_Logan](https://x.com/Kevin_Logan) | [Add](https://x.ai/bot/opM4RljMN_9IfQAIdybZv) |
+| <a id="bot-L4a4AB4fu9_TpT25oSc4D"></a>**Snoop** | Studies your bots and chats, turns how you work into shared playbooks and consolidates them into a few lead bots | [@Heamanth\_alturi](https://x.com/Heamanth_alturi) | [Add](https://x.ai/bot/L4a4AB4fu9_TpT25oSc4D) |
 
 ---
 

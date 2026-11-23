@@ -1,5 +1,25 @@
 # Changelog
 
+## 2026-11-23
+
+Added 15 bots. The list now has 336. Each new entry keeps `date_added: 2026-11-23`. Category and subcategory slugs already matched this list, so none were remapped. No existing name or link was duplicated, so none were skipped. Every new entry has a creator and an X handle. Script This Routine is back with a new link after its page was removed on Nov 16 for a 404. Quick start, stacks, and tips were not pointed at it again.
+
+- Money, Bills & Insurance (1): Bill
+- Renters, Legal & Benefits (1): VA Claims Helper
+- Productivity, Research & News (1): Civic Watchdog
+- Small Business & Freelance (3): CMO Bot, Landing Page Copy Critic, First Responder
+- Developer & Power-User (2): Release Desk, iPhone Screenshot Bot
+- Bot Tools (Manage Your Bots) (2): Script This Routine, Snoop
+- Home, Car & Household (1): IKEA Assembly Assistant
+- X Creators & Content (3): Content Multiplier, GTA 6 Clip Producer, X Algorithm Watcher
+- Fun & Lifestyle (1): C64 Emulator
+
+Freebot ([@aryanvij02](https://x.com/aryanvij02)): `https://x.ai/bot/mrEaEhbIahB380oYB8N19` now returns 404. The link is now `https://x.ai/bot/HqJinOHal9l3pnyj6sfwp` ([re-share](https://x.com/aryanvij02/status/2123297695200874857)).
+
+Nine entries stay on the list, but their pages currently return 404: [Privacy Bot](https://x.ai/bot/0F2cyISYl_QvYQAHnACgC), [Weekly Focus Coach](https://x.ai/bot/9PiN4kzk4Y6-21oAYmUR0), [Patch Alert](https://x.ai/bot/GJ6wSFte1rfQRD8oZVrpK), [Claim Ready](https://x.ai/bot/ONLSQaVnarp5OYjp2CUPC), [Open Enrollment](https://x.ai/bot/RilkaH5YhNYhl1tcslvXr), [Save Usage Bot](https://x.ai/bot/fSPQ2Eng6g8gZppDTf0QV), [Backup Bot](https://x.ai/bot/rqXQbdE-1PSCsqgjRyFVz) ([@howdyollie](https://x.com/howdyollie)), [Sub Killer](https://x.ai/bot/t0j3bcp2AFpIuKxhmg-EN), and [Scam Check](https://x.ai/bot/t9mlx--OQnQ2itHxQYQmd).
+
+Four tips went into [Tips & Tricks](guides/tips-and-tricks.md), and the approvals tip now covers per-tool connector permissions (Official: [Grok Bot changelog v1.2.3, Nov 18, 2026](https://x.ai/bot/changelog)): each connector's page lets you set every tool to Always allow, Auto-review, Needs approval, or Blocked. Prompt links ask you to confirm before they fill a chat box, links with suspicious hidden characters are blocked, and card numbers are scrubbed from memories, including in bots shared as templates (Official: [Grok Bot changelog](https://x.ai/bot/changelog)). A routine that loses a connector sign-in pauses its scheduled runs until you sign back in; the reconnect prompt also arrives as a notification and as a Slack or Teams DM (Official: [Grok Bot changelog](https://x.ai/bot/changelog)). A routine can read the earlier conversation in the chat it runs in (Official: [Grok Bot changelog](https://x.ai/bot/changelog)). Teach your bot the official guides by loading them into a knowledge base ([@unicodef1wn](https://x.com/unicodef1wn/status/2123802103374110786)). Later tips were renumbered. Tip 7 still points at bots on this list; the privacy-recheck tip is now 47.
+
 ## 2026-11-16
 
 Added 15 bots. The list now has 321. Each new entry keeps `date_added: 2026-11-16`. Category and subcategory slugs already matched this list, so none were remapped. No existing name or link was duplicated, so none were skipped. Proto Bot names no creator. Photo Cleanup is under everyday tech help. Template Scrub Desk is under vet bots.
