@@ -4,7 +4,7 @@
 
 Find people-search and data-broker listings, file removals, and recheck.
 
-**17** bots. Third-party and unofficial. Read the template before you add it.
+**16** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -23,7 +23,6 @@ Find people-search and data-broker listings, file removals, and recheck.
 - [Remove Me](#bot-qlDBDdHjGkHD9pka-9fRy)
 - [Arthur](#bot-0n3_NyM3Y_LZ8dbMnncmc)
 - [Privacy Shield](#bot-4pJ47cTzvI9qnLSZT3zz4)
-- [Privacy Bot](#bot-0F2cyISYl_QvYQAHnACgC)
 - [Cloaked Bot](#bot-wdkbnNNvfAIkUUiMIpeZG)
 
 | Bot | What it does | Creator | Link |
@@ -43,7 +42,6 @@ Find people-search and data-broker listings, file removals, and recheck.
 | <a id="bot-qlDBDdHjGkHD9pka-9fRy"></a>**Remove Me** | Finds you on people-search sites, data brokers, old forums and scraper directories; sends approved removals from your own email; rechecks in 30 days | [@OutworkVentures](https://x.com/OutworkVentures) | [Add](https://x.ai/bot/qlDBDdHjGkHD9pka-9fRy) |
 | <a id="bot-0n3_NyM3Y_LZ8dbMnncmc"></a>**Arthur** | Finds your name, phone, and address on people-search sites and spam lists, files the opt-outs, and keeps rechecking so they stay gone | [@congressdj](https://x.com/congressdj) | [Add](https://x.ai/bot/0n3_NyM3Y_LZ8dbMnncmc) |
 | <a id="bot-4pJ47cTzvI9qnLSZT3zz4"></a>**Privacy Shield** | Gets your household off spam call, text and junk-mail lists: Do Not Call Registry, people-search and data-broker opt-outs, then re-scans for records that come back | [@PravinVince](https://x.com/PravinVince) | [Add](https://x.ai/bot/4pJ47cTzvI9qnLSZT3zz4) |
-| <a id="bot-0F2cyISYl_QvYQAHnACgC"></a>**Privacy Bot** | Finds your name, phone, address and old emails on people-search sites, data brokers, forums and old accounts, then submits the removals you approve | [@Mrxmalcolm](https://x.com/Mrxmalcolm) | [Add](https://x.ai/bot/0F2cyISYl_QvYQAHnACgC) |
 | <a id="bot-wdkbnNNvfAIkUUiMIpeZG"></a>**Cloaked Bot** | Finds your listings on people-search and data-broker sites and files official removals and appeals after you consent | [@kchau](https://x.com/kchau) | [Add](https://x.ai/bot/wdkbnNNvfAIkUUiMIpeZG) |
 
 ---

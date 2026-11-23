@@ -4,7 +4,7 @@
 
 Vet third-party bots before you add them, lock down accounts, catch scams, and watch for vulnerabilities that touch what you run.
 
-**53** bots. Third-party and unofficial. Read the template before you add it.
+**51** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -23,9 +23,8 @@ Vet third-party bots before you add them, lock down accounts, catch scams, and w
   - [Box Inspector](#bot-q7GLbLhMZDpJXBGuuci1J)
   - [Template Scrub Desk](#bot-tKzEEP-Fmlzi_zAgOU71r)
 - [Account security, breaches & identity](#account-security) (9)
-- [Scams, phishing & imposters](#scams-phishing) (14)
+- [Scams, phishing & imposters](#scams-phishing) (13)
   - [Is This a Scam?](#bot-Jc3Eh6tRUvTLYqdGjTm7q)
-  - [Scam Check](#bot-t9mlx--OQnQ2itHxQYQmd)
   - [Inbox Guardian](#bot-n6bSJ2vt2rZuIQahc6G1h)
   - [Scam Guard (inbox)](#bot-6kHbobtMr8SAM91KgxHcw)
   - [Mailman](#bot-JpyZ_4XxyarEASAyt4OWJ)
@@ -38,8 +37,7 @@ Vet third-party bots before you add them, lock down accounts, catch scams, and w
   - [DM Screen](#bot-94kCbVV39EYR-lt_PaFJF)
   - [Magnum P.I.](#bot-hSJYHTSH02J0ZchLG-zu8)
   - [Scam Second Opinion](#bot-UoJ81zfk-RrkdEkMdIw9w)
-- [Vulnerabilities, patches, domains & code](#vulnerabilities) (17)
-  - [Patch Alert](#bot-GJ6wSFte1rfQRD8oZVrpK)
+- [Vulnerabilities, patches, domains & code](#vulnerabilities) (16)
   - [Vuln Scout](#bot-IiV3YZZ2TAF63sPORZmWy)
   - [Heimdall](#bot-aYIBdTMOCAAdiLsN1iY5o)
   - [Mr. Rigz (PC Steward)](#bot-TeEdtOdobgymTchbFqzzW)
@@ -94,7 +92,6 @@ Vet third-party bots before you add them, lock down accounts, catch scams, and w
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
 | <a id="bot-Jc3Eh6tRUvTLYqdGjTm7q"></a>**Is This a Scam?** | Send any text, email, link, DM, job offer or screenshot that feels off; get a plain verdict and the safe next step | [@dcostaverage](https://x.com/dcostaverage) | [Add](https://x.ai/bot/Jc3Eh6tRUvTLYqdGjTm7q) |
-| <a id="bot-t9mlx--OQnQ2itHxQYQmd"></a>**Scam Check** | Calm second opinion on a suspicious text, email or voicemail transcript you forward or paste | [@Biggs237](https://x.com/Biggs237) | [Add](https://x.ai/bot/t9mlx--OQnQ2itHxQYQmd) |
 | <a id="bot-n6bSJ2vt2rZuIQahc6G1h"></a>**Inbox Guardian** | Watches your Gmail, Outlook or Proton inbox for phishing and scam emails, moves high-confidence scams to spam and flags the rest | [@nft\_dreww](https://x.com/nft_dreww) | [Add](https://x.ai/bot/n6bSJ2vt2rZuIQahc6G1h) |
 | <a id="bot-6kHbobtMr8SAM91KgxHcw"></a>**Scam Guard (inbox)** | Scans Gmail or Outlook twice a day for phishing and scam emails and labels them with the reason; never deletes or moves mail | [@0xarthurzs](https://x.com/0xarthurzs) | [Add](https://x.ai/bot/6kHbobtMr8SAM91KgxHcw) |
 | <a id="bot-JpyZ_4XxyarEASAyt4OWJ"></a>**Mailman** | Sorts every email in your Grok Bot inbox to the right bot; never replies or clicks, and flags phishing and prompt injection first | [@ManaEngineer](https://x.com/ManaEngineer) | [Add](https://x.ai/bot/JpyZ_4XxyarEASAyt4OWJ) |
@@ -112,7 +109,6 @@ Vet third-party bots before you add them, lock down accounts, catch scams, and w
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
-| <a id="bot-GJ6wSFte1rfQRD8oZVrpK"></a>**Patch Alert** | Tell it what software you run; checks CISA's Known Exploited Vulnerabilities list daily and alerts only when something you use is hit | [@howdyollie](https://x.com/howdyollie) | [Add](https://x.ai/bot/GJ6wSFte1rfQRD8oZVrpK) |
 | <a id="bot-IiV3YZZ2TAF63sPORZmWy"></a>**Vuln Scout** | Tracks public CVE and patch advisories and posts short digests to Pages | [@thecsguy](https://x.com/thecsguy) | [Add](https://x.ai/bot/IiV3YZZ2TAF63sPORZmWy) |
 | <a id="bot-aYIBdTMOCAAdiLsN1iY5o"></a>**Heimdall** | Dependency security watch for a GitHub repo; checks advisory feeds twice a day and opens a fix PR only after you approve | [@magnus72](https://x.com/magnus72) | [Add](https://x.ai/bot/aYIBdTMOCAAdiLsN1iY5o) |
 | <a id="bot-TeEdtOdobgymTchbFqzzW"></a>**Mr. Rigz (PC Steward)** | Keeps a Windows PC fast and safe: weekday read-only health checks, Defender/firewall watch, approval-gated fixes | [@JonnyCakeSouza](https://x.com/JonnyCakeSouza) | [Add](https://x.ai/bot/TeEdtOdobgymTchbFqzzW) |

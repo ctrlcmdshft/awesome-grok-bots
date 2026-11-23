@@ -4,7 +4,7 @@
 
 Unsubscribe, cancel recurring charges, triage inboxes, and stop junk mail.
 
-**18** bots. Third-party and unofficial. Read the template before you add it.
+**17** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -13,7 +13,6 @@ Unsubscribe, cancel recurring charges, triage inboxes, and stop junk mail.
 - [Subscription Killer](#bot-hL-3EkQ2UDU8HdgYpDPga)
 - [Inbox Manager](#bot-VPr1VsoKJ5XG_T3hITN0v)
 - [Ghost Subscription Hunter](#bot-JBGmdDCvfaTuYaNEpI938)
-- [Sub Killer](#bot-t0j3bcp2AFpIuKxhmg-EN)
 - [SubCut](#bot-MzuJZpvaIK2KpexUVY-V0)
 - [Kramer](#bot-LLsRQNn3o8scbv6Edhsmm)
 - [Outlook Spam Filter Cleaner](#bot-1JJ_3wqHSU4fRt2fSTldf)
@@ -34,7 +33,6 @@ Unsubscribe, cancel recurring charges, triage inboxes, and stop junk mail.
 | <a id="bot-hL-3EkQ2UDU8HdgYpDPga"></a>**Subscription Killer** | Lists recurring charges from receipts and drafts cancellations | — | [Add](https://x.ai/bot/hL-3EkQ2UDU8HdgYpDPga) |
 | <a id="bot-VPr1VsoKJ5XG_T3hITN0v"></a>**Inbox Manager** | Weekly noisy-sender audit; suggests unsubscribe / file / archive / keep | [@ubiquitous\_mind](https://x.com/ubiquitous_mind) | [Add](https://x.ai/bot/VPr1VsoKJ5XG_T3hITN0v) |
 | <a id="bot-JBGmdDCvfaTuYaNEpI938"></a>**Ghost Subscription Hunter** | Finds forgotten subscriptions from receipts/statements and builds a ledger | [@TheMarkGShow](https://x.com/TheMarkGShow) | [Add](https://x.ai/bot/JBGmdDCvfaTuYaNEpI938) |
-| <a id="bot-t0j3bcp2AFpIuKxhmg-EN"></a>**Sub Killer** | Finds unused subscriptions + cleans Gmail | — | [Add](https://x.ai/bot/t0j3bcp2AFpIuKxhmg-EN) |
 | <a id="bot-MzuJZpvaIK2KpexUVY-V0"></a>**SubCut** | Reads inbox for recurring charges, marks monthly vs yearly, shows savings opportunities | [@tahaabuilds](https://x.com/tahaabuilds) | [Add](https://x.ai/bot/MzuJZpvaIK2KpexUVY-V0) |
 | <a id="bot-LLsRQNn3o8scbv6Edhsmm"></a>**Kramer** | USPS Informed Delivery desk — logs mail and files free Do Not Mail opt-outs for junk senders | [@helvio](https://x.com/helvio) | [Add](https://x.ai/bot/LLsRQNn3o8scbv6Edhsmm) |
 | <a id="bot-1JJ_3wqHSU4fRt2fSTldf"></a>**Outlook Spam Filter Cleaner** | Trains rules and proposes junk vs keep for Outlook | — | [Add](https://x.ai/bot/1JJ_3wqHSU4fRt2fSTldf) |
