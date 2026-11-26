@@ -4,7 +4,7 @@
 
 Cut bills, find money you may be owed, and track spending, taxes, and insurance.
 
-**23** bots. Third-party and unofficial. Read the template before you add it.
+**24** bots. Third-party and unofficial. Read the template before you add it.
 
 ## On this page
 
@@ -31,6 +31,7 @@ Cut bills, find money you may be owed, and track spending, taxes, and insurance.
 - [Mortgage Servicer Desk (Beta)](#bot-1BlwsM5uiw6jVbA9hx-HY)
 - [Broker](#bot-_lwaVlXcjTz2RnZHfJjiD)
 - [Bill](#bot-Zq7A3Opad78rsoj8eoFay)
+- [Mangrove](#bot-VOfh5y4jlFGbZQMxbGsyh)
 
 | Bot | What it does | Creator | Link |
 | --- | --- | --- | --- |
@@ -57,6 +58,7 @@ Cut bills, find money you may be owed, and track spending, taxes, and insurance.
 | <a id="bot-1BlwsM5uiw6jVbA9hx-HY"></a>**Mortgage Servicer Desk (Beta)** | Free beta, not legal advice: for escrow jumps, force-placed insurance, PMI that should be gone or misapplied payments, drafts your notice of error or request letters and tracks the servicer's deadlines | [@hacks\_jimm53237](https://x.com/hacks_jimm53237) | [Add](https://x.ai/bot/1BlwsM5uiw6jVbA9hx-HY) |
 | <a id="bot-_lwaVlXcjTz2RnZHfJjiD"></a>**Broker** | A personal insurance shopper that gathers your auto, home, and flood policies, compares like-for-like quotes, flags coverage gaps and discounts, and reminds you to reshop before renewals | [@dkmitc](https://x.com/dkmitc) | [Add](https://x.ai/bot/_lwaVlXcjTz2RnZHfJjiD) |
 | <a id="bot-Zq7A3Opad78rsoj8eoFay"></a>**Bill** | Phone-bill advocate for the major carriers: audits bills and usage, finds cheaper plans, missed credits and waivable fees, and can make the calls | [@congressdj](https://x.com/congressdj) | [Add](https://x.ai/bot/Zq7A3Opad78rsoj8eoFay) |
+| <a id="bot-VOfh5y4jlFGbZQMxbGsyh"></a>**Mangrove** | A trading agent with guardrails that backtests and paper trades first, and sends a live order only after the user approves that exact order. | [@Mangrove\_AI](https://x.com/Mangrove_AI) | [Add](https://x.ai/bot/VOfh5y4jlFGbZQMxbGsyh) |
 
 ---
 

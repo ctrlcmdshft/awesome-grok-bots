@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-26
+
+Added Mangrove (thanks @blkrbbt-design, #1); added Grok Bots Market to [Where to Find More Bots](guides/where-to-find-more-bots.md) (thanks @linksee-dev, #2); added a disclaimer. The list now has 328.
+
 ## 2026-11-23
 
 Added 15 bots. The list now has 327. Each new entry keeps `date_added: 2026-11-23`. Category and subcategory slugs already matched this list, so none were remapped. No existing name or link was duplicated, so none were skipped. Every new entry has a creator and an X handle. Script This Routine is back with a new link after its page was removed on Nov 16 for a 404. Quick start, stacks, and tips were not pointed at it again.

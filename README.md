@@ -1,9 +1,9 @@
 # Awesome Grok Bots
 
-[![Bots](https://img.shields.io/badge/bots-327-2563eb?style=flat-square)](#categories)
-[![Updated November 23, 2026](https://img.shields.io/badge/updated-2026--11--23-64748b?style=flat-square)](CHANGELOG.md)
+[![Bots](https://img.shields.io/badge/bots-328-2563eb?style=flat-square)](#categories)
+[![Updated November 26, 2026](https://img.shields.io/badge/updated-2026--11--26-64748b?style=flat-square)](CHANGELOG.md)
 
-A curated list of **327** third-party Grok Bots. Privacy and cleanup come first: people-search removals, spam, inboxes, and old posts. The rest cover security, home network, money, shopping, productivity, and everyday life.
+A curated list of **328** third-party Grok Bots. Privacy and cleanup come first: people-search removals, spam, inboxes, and old posts. The rest cover security, home network, money, shopping, productivity, and everyday life.
 
 These bots are unofficial and third-party. They are not made or endorsed by xAI. Review each bot before you add it. Most ask before they send email, file a form, delete, or block anything.
 
@@ -25,7 +25,7 @@ Counts and category pages are generated from [`data/bots.yaml`](data/bots.yaml).
     - [Security & Bot Safety](categories/security-and-bot-safety.md) (51)
     - [Home Network, Smart Home & Tech Help](categories/home-network-and-tech.md) (38)
   - [Money and shopping](#money)
-    - [Money, Bills & Insurance](categories/money-bills-and-insurance.md) (23)
+    - [Money, Bills & Insurance](categories/money-bills-and-insurance.md) (24)
     - [Renters, Legal & Benefits](categories/renters-legal-and-benefits.md) (5)
     - [Shopping, Deals & Packages](categories/shopping-deals-and-packages.md) (13)
   - [Work and tools](#work)
@@ -48,6 +48,7 @@ Counts and category pages are generated from [`data/bots.yaml`](data/bots.yaml).
   - [General Best Practices](guides/best-practices.md)
   - [Where to Find More Bots](guides/where-to-find-more-bots.md)
 - [Contributing](#contributing)
+- [Disclaimer](#disclaimer)
 
 <a id="top-picks"></a>
 ## Top picks / Quick start
@@ -69,25 +70,11 @@ More combinations are on [Suggested Stacks](guides/suggested-stacks.md).
 <a id="recently-added"></a>
 ## Recently added
 
-15 bots with `date_added` on November 23, 2026.
+1 bot with `date_added` on November 26, 2026.
 
 | Bot | What it does | Creator | Category | Link |
 | --- | --- | --- | --- | --- |
-| [Bill](categories/money-bills-and-insurance.md#bot-Zq7A3Opad78rsoj8eoFay) | Phone-bill advocate for the major carriers: audits bills and usage, finds cheaper plans, missed credits and waivable fees, and can make the calls | [@congressdj](https://x.com/congressdj) | [Money, Bills & Insurance](categories/money-bills-and-insurance.md) | [Add](https://x.ai/bot/Zq7A3Opad78rsoj8eoFay) |
-| [Content Multiplier](categories/x-creators-and-content.md#bot-Ex2d5VlVJj1v4glfI6SCp) | Turns one idea into a scored content pack for X, LinkedIn, short video, YouTube and newsletters | [@VibeMarketer\_](https://x.com/VibeMarketer_) | [X Creators & Content](categories/x-creators-and-content.md) | [Add](https://x.ai/bot/Ex2d5VlVJj1v4glfI6SCp) |
-| [GTA 6 Clip Producer](categories/x-creators-and-content.md#bot-rIUSrwj-LfLm8Qpte2nLM) | Turns GTA 6 stream VODs into credited, captioned vertical clips and post drafts | [@Av1dlive](https://x.com/Av1dlive) | [X Creators & Content](categories/x-creators-and-content.md) | [Add](https://x.ai/bot/rIUSrwj-LfLm8Qpte2nLM) |
-| [CMO Bot](categories/small-business-and-freelance.md#bot-NxelfS7vVcTNOANWq8ol0) | A fractional CMO that interviews you once, then applies 53 marketing skills (positioning, copy, SEO, ads, pricing) | [@coreyhainesco](https://x.com/coreyhainesco) | [Small Business & Freelance](categories/small-business-and-freelance.md) | [Add](https://x.ai/bot/NxelfS7vVcTNOANWq8ol0) |
-| [Landing Page Copy Critic](categories/small-business-and-freelance.md#bot-KGYaeHB_YqKJVCX_Gp0a6) | Reviews a landing page as a first-time buyer, scores its clarity and drafts sharper headlines | [@Austen](https://x.com/Austen) | [Small Business & Freelance](categories/small-business-and-freelance.md) | [Add](https://x.ai/bot/KGYaeHB_YqKJVCX_Gp0a6) |
-| [X Algorithm Watcher](categories/x-creators-and-content.md#bot-GdPQ314tCRrlkQW3uJXNS) | Checks X's open-source algorithm repo daily and explains changes in plain words, citing the exact lines | [@biscuitweb](https://x.com/biscuitweb) | [X Creators & Content](categories/x-creators-and-content.md) | [Add](https://x.ai/bot/GdPQ314tCRrlkQW3uJXNS) |
-| [Civic Watchdog](categories/productivity-research-and-news.md#bot-cNPq6HWAjSxenTAhr0i_Q) | Nonpartisan public-records researcher that follows a US city, county or agency's money, contracts and votes | [@LibertarianLars](https://x.com/LibertarianLars) | [Productivity, Research & News](categories/productivity-research-and-news.md) | [Add](https://x.ai/bot/cNPq6HWAjSxenTAhr0i_Q) |
-| [VA Claims Helper](categories/renters-legal-and-benefits.md#bot-RVEJz3GxUXU_oLysEUCMA) | Helps veterans organize VA claims, write personal and buddy statements, gather records and track appointments | [@Antilitist](https://x.com/Antilitist) | [Renters, Legal & Benefits](categories/renters-legal-and-benefits.md) | [Add](https://x.ai/bot/RVEJz3GxUXU_oLysEUCMA) |
-| [Script This Routine](categories/bot-tools.md#bot-opM4RljMN_9IfQAIdybZv) | Cuts bot usage by turning mechanical routine checks into small tested scripts and trimming setups | [@Kevin\_Logan](https://x.com/Kevin_Logan) | [Bot Tools (Manage Your Bots)](categories/bot-tools.md) | [Add](https://x.ai/bot/opM4RljMN_9IfQAIdybZv) |
-| [Release Desk](categories/developer-and-power-user.md#bot-ywPVDeM782GnBOYmsl_h0) | App Store release desk for iOS and Mac apps: checks your app via App Store Connect before submission and watches review and TestFlight | [@luisbarragan](https://x.com/luisbarragan) | [Developer & Power-User](categories/developer-and-power-user.md) | [Add](https://x.ai/bot/ywPVDeM782GnBOYmsl_h0) |
-| [C64 Emulator](categories/fun-and-lifestyle.md#bot-umP9kND9C0gIaq8bh97EP) | Runs a real Commodore 64 emulator on the bot's computer, with 26 original BASIC games | [@BrianRoemmele](https://x.com/BrianRoemmele) | [Fun & Lifestyle](categories/fun-and-lifestyle.md) | [Add](https://x.ai/bot/umP9kND9C0gIaq8bh97EP) |
-| [iPhone Screenshot Bot](categories/developer-and-power-user.md#bot-BlzS2Llj7_9VSmi3TjX0r) | Turns app screenshots into clean iPhone mockups on a choice of backgrounds | [@RyDawg42](https://x.com/RyDawg42) | [Developer & Power-User](categories/developer-and-power-user.md) | [Add](https://x.ai/bot/BlzS2Llj7_9VSmi3TjX0r) |
-| [IKEA Assembly Assistant](categories/home-car-and-household.md#bot-eB9uwq_-Ch7izIstZQHYx) | Walks you through assembling flat-pack furniture step by step from the official manual or your photos, tracking parts and progress | [@vhbmsp](https://x.com/vhbmsp) | [Home, Car & Household](categories/home-car-and-household.md) | [Add](https://x.ai/bot/eB9uwq_-Ch7izIstZQHYx) |
-| [First Responder](categories/small-business-and-freelance.md#bot-Az28cSJVi927jVG1WFEhJ) | Watches your inbox and web forms for new leads, scores them and drafts quick personal replies and follow-ups | [@voltclerk](https://x.com/voltclerk) | [Small Business & Freelance](categories/small-business-and-freelance.md) | [Add](https://x.ai/bot/Az28cSJVi927jVG1WFEhJ) |
-| [Snoop](categories/bot-tools.md#bot-L4a4AB4fu9_TpT25oSc4D) | Studies your bots and chats, turns how you work into shared playbooks and consolidates them into a few lead bots | [@Heamanth\_alturi](https://x.com/Heamanth_alturi) | [Bot Tools (Manage Your Bots)](categories/bot-tools.md) | [Add](https://x.ai/bot/L4a4AB4fu9_TpT25oSc4D) |
+| [Mangrove](categories/money-bills-and-insurance.md#bot-VOfh5y4jlFGbZQMxbGsyh) | A trading agent with guardrails that backtests and paper trades first, and sends a live order only after the user approves that exact order. | [@Mangrove\_AI](https://x.com/Mangrove_AI) | [Money, Bills & Insurance](categories/money-bills-and-insurance.md) | [Add](https://x.ai/bot/VOfh5y4jlFGbZQMxbGsyh) |
 
 <a id="categories"></a>
 ## Categories
@@ -116,7 +103,7 @@ Vetting bots, account security, scams, patches, and the home network.
 
 Bills, insurance, shopping, and packages.
 
-- [**Money, Bills & Insurance**](categories/money-bills-and-insurance.md) (23) — Cut bills, find money you may be owed, and track spending, taxes, and insurance.
+- [**Money, Bills & Insurance**](categories/money-bills-and-insurance.md) (24) — Cut bills, find money you may be owed, and track spending, taxes, and insurance.
 - [**Renters, Legal & Benefits**](categories/renters-legal-and-benefits.md) (5) — Leases and deposits, consumer-rights letters, property-tax appeals, and veterans' claims.
 - [**Shopping, Deals & Packages**](categories/shopping-deals-and-packages.md) (13) — Compare prices, watch drops, track packages, and shop for cars or resale.
 
@@ -157,4 +144,11 @@ Home, health, travel, work, and everything else.
 
 Append a bot to [`data/bots.yaml`](data/bots.yaml) and run `python scripts/generate.py`. [CONTRIBUTING.md](CONTRIBUTING.md) has the fields and how to suggest a bot.
 
-Category pages are generated. Guides are written by hand. This list is released under [CC0](LICENSE).
+Category pages are generated. Guides are written by hand.
+
+<a id="disclaimer"></a>
+## Disclaimer
+
+This is an independent, community-curated list of links to Grok Bots made by other people. It is not affiliated with or endorsed by xAI. I don't build, run, or control the listed bots and am not responsible for what they do, their accuracy, or any outcome from using them. Review a bot's instructions and permissions before using it, especially for money, legal, health, or account access. Nothing here is financial, legal, or medical advice. Listings are provided as-is; to report a problem or request removal, open an issue.
+
+This list is released under [CC0](LICENSE).

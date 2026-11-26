@@ -545,7 +545,13 @@ def render_readme(groups, categories, bots, quick, by_id) -> str:
     lines.extend(["- [Guides](#guides)"])
     for path, title, _blurb in GUIDES:
         lines.append(f"  - [{title}]({path})")
-    lines.extend(["- [Contributing](#contributing)", ""])
+    lines.extend(
+        [
+            "- [Contributing](#contributing)",
+            "- [Disclaimer](#disclaimer)",
+            "",
+        ]
+    )
     lines.append(render_quick(quick, by_id).rstrip())
     lines.append("")
     lines.append(render_recent(bots, categories).rstrip())
@@ -589,7 +595,21 @@ def render_readme(groups, categories, bots, quick, by_id) -> str:
                 "[CONTRIBUTING.md](CONTRIBUTING.md) has the fields and how to suggest a bot."
             ),
             "",
-            "Category pages are generated. Guides are written by hand. This list is released under [CC0](LICENSE).",
+            "Category pages are generated. Guides are written by hand.",
+            "",
+            '<a id="disclaimer"></a>',
+            "## Disclaimer",
+            "",
+            (
+                "This is an independent, community-curated list of links to Grok Bots made by other people. "
+                "It is not affiliated with or endorsed by xAI. "
+                "I don't build, run, or control the listed bots and am not responsible for what they do, their accuracy, or any outcome from using them. "
+                "Review a bot's instructions and permissions before using it, especially for money, legal, health, or account access. "
+                "Nothing here is financial, legal, or medical advice. "
+                "Listings are provided as-is; to report a problem or request removal, open an issue."
+            ),
+            "",
+            "This list is released under [CC0](LICENSE).",
             "",
         ]
     )
