@@ -2,7 +2,7 @@
 
 ## 2026-11-26
 
-Added Mangrove (thanks @blkrbbt-design, #1); added Grok Bots Market to [Where to Find More Bots](guides/where-to-find-more-bots.md) (thanks @linksee-dev, #2); added a disclaimer. The list now has 328.
+Added Mangrove (thanks @blkrbbt-design, #1); added Grok Bots Market to [Where to Find More Bots](guides/where-to-find-more-bots.md) (thanks @linksee-dev, #2); added a disclaimer. The list now has 328. Expanded the disclaimer with a trademark notice, and a note that bots can change, move, or go offline and that listings are removed on request.
 
 ## 2026-11-23
 

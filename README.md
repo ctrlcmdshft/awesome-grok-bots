@@ -149,6 +149,6 @@ Category pages are generated. Guides are written by hand.
 <a id="disclaimer"></a>
 ## Disclaimer
 
-This is an independent, community-curated list of links to Grok Bots made by other people. It is not affiliated with or endorsed by xAI. I don't build, run, or control the listed bots and am not responsible for what they do, their accuracy, or any outcome from using them. Review a bot's instructions and permissions before using it, especially for money, legal, health, or account access. Nothing here is financial, legal, or medical advice. Listings are provided as-is; to report a problem or request removal, open an issue.
+This is an independent, community-curated list of links to Grok Bots made by other people. It is not affiliated with or endorsed by xAI. I don't build, run, or control the listed bots and am not responsible for what they do, their accuracy, or any outcome from using them. Review a bot's instructions and permissions before using it, especially for money, legal, health, or account access. Nothing here is financial, legal, or medical advice. Grok and xAI are trademarks of their respective owners and are used here only to identify the bots listed. Listings are provided as-is. Bots can change, move, or go offline at any time; listings are removed on request. To report a problem, open an issue.
 
 This list is released under [CC0](LICENSE).
